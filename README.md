@@ -3,7 +3,6 @@
 **Team**
 - [Daniel Demoray](ddemoray@ga.co), producer
 - [Ruben Naeff](rubennaeff@gmail.com), instructor
-<!-- - [?](.), expert in residence -->
 - [dat-nyc-23@ga-groups.com](dat-nyc-23@ga-groups.com]), everyone (except for one, somehow)
 
 Please do not hesitate to contact any of us!
