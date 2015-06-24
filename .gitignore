@@ -1,0 +1,6 @@
+# compiled code
+*.pyc
+
+# apple cruft
+.DS_Store
+
