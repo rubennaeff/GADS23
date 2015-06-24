@@ -3,8 +3,8 @@
 **Team**
 - [Daniel Demoray](ddemoray@ga.co), producer
 - [Ruben Naeff](rubennaeff@gmail.com), instructor
-- [?](.), expert in residence
-- [dat-nyc-23@ga-groups.com](dat-nyc-23@ga-groups.com]), everyone (except for Karsten Kreis, somehow)
+<!-- - [?](.), expert in residence -->
+- [dat-nyc-23@ga-groups.com](dat-nyc-23@ga-groups.com]), everyone (except for one, somehow)
 
 Please do not hesitate to contact any of us!
 
@@ -55,6 +55,9 @@ after each class**
 | 22 | Tue Sep 08 | _TBD_                                               |
 | 23 | Thu Sep 10 | Final presentations                                 |
 
+Additional topics may include hasing, bloom filters, hyperloglog, item response theory, graph theory, A/B testing, ethics, etc.
+
+We'll invite guest speakers to come present in class. Let me know if there is a company you're particularly interested in.
 
 ##Resources
 
