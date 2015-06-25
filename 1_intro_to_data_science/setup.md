@@ -59,10 +59,43 @@ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 ```
 
 ## GitHub
+
+### Installing git
+
+Git is a very popular and efficient open source version control system, which makes it easy to collaboratively work on code. We use git to share course materials with the class.
+
 ```sh
 brew install git
 ```
 
 Alternatively, you can choose an OS based installation from this guide:  http://git-scm.com/book/en/Getting-Started-Installing-Git
 On Windows, there's an installer available here: http://git-scm.com/download/win
+
+### Cloning the repo
+
+Once git is installed, you can clone the course materials to your local machine. You might want to keep all git repositories in a single folder, such as `~/repo`.
+
+```sh
+mkdir ~/repo
+cd repo
+git clone http://github.com/ga-students/DAT-23-NYC
+```
+
+You now have all course materials in your folder `~/repo/DAT-23-NYC`.
+
+To pull the latest version of the course materials to your machine, type:
+
+```sh
+git pull
+```
+
+### Further reading
+
+Git falls outside the scope of the course, but it is widely used in the tech industry. It may take a while before you get comfortable with it. Below are useful resources that get you started.
+
+- [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) Standard work, both online and downloadable ebook
+- [The Git Game](http://pcottle.github.io/learnGitBranching/) Interactive game that gets you up to speed
+
+
+
 
