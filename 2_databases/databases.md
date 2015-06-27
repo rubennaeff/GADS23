@@ -2,7 +2,7 @@
 
 ## SQL Operators
 
-### SELECT 
+### SELECT
 
 Every query should start with `SELECT`.  `SELECT` is followed by the names of the columns in the ouput.
 
@@ -17,7 +17,7 @@ FROM
 
 `SELECT *` denotes returns *all* of the columns.
 
-### WHERE 
+### WHERE
 `WHERE` is used to filter table to a specific criteria and follows the `FROM` clause.
 
 ```sql
@@ -78,10 +78,9 @@ WHERE Winner = 'Obama' and Spread >= 10;
 ### ORDER BY
 Results of a query can be sorted by `ORDER BY`.
 
-If we want to order the states by the number of polls, we would add an `ORDER BY` clause at the end. 
+If we want to order the states by the number of polls, we would add an `ORDER BY` clause at the end.
 
 - In how many polls did Obama have a double digit lead
-```
 ```sql
 SELECT
 State, COUNT(*) as cnt
@@ -127,15 +126,19 @@ ON (polls_table.State = demographics.State)
 
 ## Exercises
 
-To get some practice with SQL, we'll use the some of the sample exercises available at [http://pgexercises.com](http://pgexercises.com) and [W3 School](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all).
+Since we don't have a SQL database connection in class, we'll use practice exercises that are available online.
+
+- [W3 School](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+- [PostgreSQL Exercises](http://pgexercises.com)
+- [SQL Teaching](http://pgexercises.com)
+
 
 ### W3 School
 
-Additional exercises are available through another online portal, the [W3 School](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+Go to [W3 School's SQL Exercies](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all).
 
-Below are some sample questions with solutions as well as some additional practice problems.
 
-#### Sample Questions
+#### Example Questions & Solutions
 
 Let's walk through a few examples:
 
@@ -157,6 +160,7 @@ SELECT City, COUNT(*) as cnt FROM Customers GROUP BY City ORDER BY cnt desc;
 SELECT CategoryName, COUNT(*) FROM Categories JOIN Products on (Categories.CategoryID = Products.CategoryID) GROUP BY CategoryName;
 ```
 
+
 #### Exercises:
 
 1. What customers are from the UK
@@ -172,11 +176,19 @@ SELECT CategoryName, COUNT(*) FROM Categories JOIN Products on (Categories.Categ
 
 8. (**) What supplier has the highest average product price *assuming they have at least 2 products* (Hint: Look at the HAVING operator)
 
+
 ### PGExercises
 
-For more practice there are sample exercises available at [http://pgexercises.com](http://pgexercises.com)
+For more practice, go to [PostgreSQL Exercises](http://pgexercises.com/questions/basic/).
 
 Here we'll examine the toy dataset created for a country club and it's operations. As the Getting Started page states:
 
 "The dataset for these exercises is for a newly created country club, with a set of members, facilities such as tennis courts, and booking history for those facilities. Amongst other things, the club wants to understand how they can use their information to analyse facility usage/demand."
+
+
+
+### SQLTeaching
+
+Even more exercises can be found on [SQL Teaching](http://sqlteaching.com).
+
 
