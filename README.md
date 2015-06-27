@@ -69,3 +69,10 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
   - [Data Science at the Command Line](./1_intro_to_data_science/unix.md)
 
 
+- [02: DATABASES & ETL: SQL, PYTHON, PANDAS](./2_databases)
+  - [Slides](./2_sql_python_pandas/gads23_02_etl.pdf)
+  - [SQL Exercises](./1_intro_to_data_science/databases.md)
+  - [Python Exercises]()
+  - [Pandas Exercises]()
+
+
