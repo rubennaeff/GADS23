@@ -1,9 +1,9 @@
 # GA Data Science NYC #23
 
 **Team**
-- [Daniel Demoray](ddemoray@ga.co), producer
-- [Ruben Naeff](rubennaeff@gmail.com), instructor
-- [Antoine Grant](antoinejgrant@gmail.com), expert in residence
+- [Daniel Demoray](mailto:ddemoray@ga.co), producer
+- [Ruben Naeff](mailto:rubennaeff@gmail.com), instructor
+- [Antoine Grant](mailto:antoinejgrant@gmail.com), expert in residence
 - [egroup](mailto:dat-nyc-23@ga-groups.com]) & [Slack channel](https://ganyceveningcourses.slack.com/messages/data-science-23/), everyone
 
 Please do not hesitate to contact any of us!
