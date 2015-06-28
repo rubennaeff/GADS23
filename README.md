@@ -24,8 +24,8 @@ after each class**
 |  # | Date       | Topic                                               |
 |---:|:-----------|:----------------------------------------------------|
 |    |            | **I. Data Exploration (Analytics)**                 |
-|  1 | Thu Jun 25 | Intro to data science, unix                         |
-|  2 | Tue Jun 30 | Data Storage and Extraction: ETL, SQL               |
+|  1 | Thu Jun 25 | Introduction to data science - unix                 |
+|  2 | Tue Jun 30 | Databases & ETL - SQL, Python                       |
 |  3 | Thu Jul 02 | Python, pandas                                      |
 |  4 | Tue Jul 07 | Data Visualizations                                 |
 |    |            | _Assignment #1: Data exploration_                   |
@@ -69,10 +69,8 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
   - [Data Science at the Command Line](./1_intro_to_data_science/unix.md)
 
 
-- [02: DATABASES & ETL: SQL, PYTHON, PANDAS](./2_databases)
-  - [Slides](./2_databases/gads23_02_etl.pdf)
+- [02: DATABASES & ETL: SQL, PYTHON](./2_databases)
+  - [Slides](./2_databases/gads23_02_databases.pdf)
   - [SQL Exercises](./2_databases/databases.md)
-  - [Python Exercises]()
-  - [Pandas Exercises]()
-
+  - [Python Exercises](./2_databases/intro_to_python.ipynb)
 
