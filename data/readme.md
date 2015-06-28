@@ -1,9 +1,45 @@
 # Data Sources
 
+
+### Datasets used in our class
+
 This folder contains all the data sets we will be working with during the course.
 
+**Saved in repo**
 - [311 NYC Complaints](./311)
 - [538 Nate Silver polls](./538)
+- [Amazon movie reviews](./amazon)
+
+**External downloads**
+- [Lehman baseball dataset](http://seanlahman.com/files/database/lahman-csv_2014-02-14.zip)
+
+**Sources
+- [McKinsey report on big data](http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation), May 2011
+
+
+### Datasets used in other classes
+*By Arun Ahuja (GADS #21)*
+
+If you are looking for some datasets to explore below are some links to interesting pre-compiled datasets:
+
+- [AWS Datasets](http://aws.amazon.com/datasets)
+- [Network datasets](http://snap.stanford.edu/data/index.html)
+- [Donors Choose datasets](http://data.donorschoose.org/open-data/overview/)
+- [Airline performance dataset](http://stat-computing.org/dataexpo/2009/)
+- [Rotten Tomatoes Reviews](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+- [Zillow Home Sales](http://www.zillow.com/research/data/)
+- [NFL Play by Play data](http://www.advancedfootballanalytics.com/2010/04/play-by-play-data.html)
+- [NYC Taxi Trip data](http://www.andresmh.com/nyctaxitrips/)
+- [Yelp Dataset (Only from AZ)](http://www.yelp.com/dataset_challenge/)
+- [Online Movie Database API](http://www.omdbapi.com/)
+- [2014 NCAA March Madness Data](https://www.kaggle.com/c/march-machine-learning-mania)
+- [Scripts to Scrape IMDB](https://github.com/hadley/data-movies)
+
+As with any dataset, they present unique challenges (size, the way things are coded, missing pieces) so use the command line tools or Pandas to first inspect the dataset for its usefulness.
+
+
+### More datasets
+*By Mark Holt (GADS #22)*
 
 Please see below for a non-comprehensive list of just a few sources from where you can download interesting data.
 
@@ -46,3 +82,4 @@ Please see below for a non-comprehensive list of just a few sources from where y
  * [mldata.org](http://mldata.org/): "machine learning data set repository"
 
 This is just the tip of the iceberg; there's a lot of data out there!
+

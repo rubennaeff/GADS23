@@ -1,6 +1,9 @@
 # compiled code
 *.pyc
 
+# ipython notebook stuff
+.ipynb_checkpoints
+
 # apple cruft
 .DS_Store
 
