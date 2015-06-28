@@ -1,0 +1,3 @@
+the full datasets are available on:
+- reviews: http://snap.stanford.edu/data/web-Movies.html
+- metadata: http://snap.stanford.edu/data/amazon-meta.html
