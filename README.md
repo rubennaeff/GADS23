@@ -77,7 +77,7 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
 - [03: PANDAS, WEB SCRAPING, VISUALIZATIONS](./3_pandas)
   - [Pandas Exercises](./3_pandas/intro_to_pandas.ipynb)
   - Web scraping - TBD
-  - [Visualizations](./3_pandas/intro_to_pandas.ipynb)
+  - [Visualizations](./3_pandas/visualizations.ipynb)
 
 <!-- - [Assignment #1: Data Exploration](./3_pandas/assignment_01.md) -->
 
