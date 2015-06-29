@@ -2,11 +2,6 @@
 
 To wrap up our section on data processing, we'll put all of our tools to use.  The goal of this assignment is to walk through the entire data science workflow, from gathering raw data, through formulating hypotheses about the data, gaining insights, visualizing, iterating, up to presenting about your findings.
 
-![data science workflow](../images/datascience_workflow.jpg "Data Science Workflow")
-
-
-### Steps
-
 1. Gather a dataset.  You can
 use one of [our datasets](../data/),
 download a public dataset,
@@ -22,11 +17,10 @@ try your hand at webscraping.
 
 1. Generate 1-3 plots that attempt to answer the questions you've posed.  Make the plots stand on their own, without explanation.  This means properly label the axis, include titles and legends.
 
-1. Prepare a short presentation (2-5 minutes) in which you present your findings.  You can create your presentation with Apple KeyNote, MS PowerPoint, Google Slides, or any other program of your choosing. It's fine to present straight from the notebook (but keep in mind that that's not always the most clear medium, especially when presenting to a lay audience).
+1. Prepare a short presentation (2-3 minutes) in which you present your findings.  You can create your presentation with Apple KeyNote, MS PowerPoint, Google Slides, or any other program of your choosing. It's fine to present straight from your ipython notebook, but keep in mind that that's not always the most clear medium - especially when presenting to a lay audience like your non-data science colleagues.
 
 
-### Guidelines
-- Individual assignment (no teams)
+#### Guidelines
 - Due Sunday 6/12 at night
 - Tuesday 6/14 presentations in class
 - mandatory for graduation

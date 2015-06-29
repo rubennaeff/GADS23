@@ -68,9 +68,19 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
   - [Setting Up Your Environment](./1_intro_to_data_science/setup.md)
   - [Data Science at the Command Line](./1_intro_to_data_science/unix.md)
 
-
 - [02: DATABASES & ETL: SQL, PYTHON](./2_databases)
   - [Slides](./2_databases/gads23_02_databases.pdf)
   - [SQL Exercises](./2_databases/databases.md)
   - [Python Exercises](./2_databases/intro_to_python.ipynb)
+
+- [03: PANDAS, WEB SCRAPING, VISUALIZATIONS](./3_pandas)
+  - No slides
+  - [Pandas Exercises](./3_pandas/intro_to_pandas.ipynb)
+  - [Visualizations](./3_pandas/intro_to_pandas.ipynb)
+  - Web scraping - TBD
+
+<!-- - [Assignment #1: Data Exploration](./3_pandas/assignment_01.md) -->
+
+
+
 
