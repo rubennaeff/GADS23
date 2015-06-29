@@ -57,6 +57,7 @@ after each class**
 
 Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response Theory, graph theory, A/B testing, ethics, etc. We'll invite guest speakers to come present in class. Let me know if there is a company you're particularly interested in.
 
+
 ##Resources
 
 - [All datasets](./data)
@@ -74,13 +75,9 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
   - [Python Exercises](./2_databases/intro_to_python.ipynb)
 
 - [03: PANDAS, WEB SCRAPING, VISUALIZATIONS](./3_pandas)
-  - No slides
   - [Pandas Exercises](./3_pandas/intro_to_pandas.ipynb)
-  - [Visualizations](./3_pandas/intro_to_pandas.ipynb)
   - Web scraping - TBD
+  - [Visualizations](./3_pandas/intro_to_pandas.ipynb)
 
 <!-- - [Assignment #1: Data Exploration](./3_pandas/assignment_01.md) -->
-
-
-
 

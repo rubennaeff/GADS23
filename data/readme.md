@@ -13,7 +13,7 @@ This folder contains all the data sets we will be working with during the course
 **External downloads**
 - [Lehman baseball dataset](http://seanlahman.com/files/database/lahman-csv_2014-02-14.zip)
 
-**Sources
+**Sources**
 - [McKinsey report on big data](http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation), May 2011
 
 
