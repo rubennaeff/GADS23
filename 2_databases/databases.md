@@ -130,7 +130,7 @@ Since we don't have a SQL database connection in class, we'll use practice exerc
 
 - [W3 School](http://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
 - [PostgreSQL Exercises](http://pgexercises.com)
-- [SQL Teaching](http://pgexercises.com)
+- [SQL Teaching](http://www.sqlteaching.com)
 
 
 ### W3 School
