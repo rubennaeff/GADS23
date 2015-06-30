@@ -73,6 +73,7 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
   - [Slides](./2_databases/gads23_02_databases.pdf)
   - [SQL Exercises](./2_databases/databases.md)
   - [Python Exercises](./2_databases/intro_to_python.ipynb)
+  - [Data Exploration in Python](./2_databases/data_exploration_in_python.ipynb)
 
 - [03: PANDAS, WEB SCRAPING, VISUALIZATIONS](./3_pandas)
   - [Pandas Exercises](./3_pandas/intro_to_pandas.ipynb)
