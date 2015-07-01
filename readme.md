@@ -19,6 +19,27 @@ Please do not hesitate to contact any of us!
 after each class**
 
 
+##Copying the course notes to your machine
+
+To clone the repo, type
+```sh
+git clone http://github.com/ga-students/DAT-23-NYC
+```
+
+To update the repo, so you have the latest course notes on your computer
+```sh
+git pull
+```
+
+Note that the above statement can give an error if you had changed any of the files yourself.
+Please **make a copy** of the files you edited (e..g, using `cp`) and then type the following commands.
+If you did not copy your changes, they will be **overwritten** and your changes will be lost.
+
+```sh
+git reset --hard HEAD
+git pull
+```
+
 ##Syllabus (tentative)
 
 |  # | Date       | Topic                                               |
