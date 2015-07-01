@@ -21,7 +21,7 @@ try your hand at webscraping.
 
 
 #### Guidelines
-- Due Sunday 6/12 at night
+- Due Sunday 6/12 at night (Antoine will tell you how)
 - Tuesday 6/14 presentations in class
 - mandatory for graduation
 

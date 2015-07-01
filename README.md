@@ -25,9 +25,9 @@ after each class**
 |---:|:-----------|:----------------------------------------------------|
 |    |            | **I. Data Exploration (Analytics)**                 |
 |  1 | Thu Jun 25 | Introduction to data science - unix                 |
-|  2 | Tue Jun 30 | Databases & ETL - SQL, Python                       |
-|  3 | Thu Jul 02 | Python, pandas                                      |
-|  4 | Tue Jul 07 | Data Visualizations                                 |
+|  2 | Tue Jun 30 | Databases, SQL, and Python                          |
+|  3 | Thu Jul 02 | Python, pandas, visualizations                      |
+|  4 | Tue Jul 07 | Presenting your insights, web scraping, APIs        |
 |    |            | _Assignment #1: Data exploration_                   |
 |    |            | **II. Modeling and Predicting**                     |
 |  5 | Thu Jul 09 | Linear Algebra                                      |
@@ -69,16 +69,20 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
   - [Setting Up Your Environment](./1_intro_to_data_science/setup.md)
   - [Data Science at the Command Line](./1_intro_to_data_science/unix.md)
 
-- [02: DATABASES & ETL: SQL, PYTHON](./2_databases)
+- [02: DATABASES, SQL, PYTHON](./2_databases)
   - [Slides](./2_databases/gads23_02_databases.pdf)
   - [SQL Exercises](./2_databases/databases.md)
   - [Python Exercises](./2_databases/intro_to_python.ipynb)
   - [Data Exploration in Python](./2_databases/data_exploration_in_python.ipynb)
 
-- [03: PANDAS, WEB SCRAPING, VISUALIZATIONS](./3_pandas)
+- [03: PYTHON, PANDAS, VISUALIZATIONS](./3_pandas)
+  - [Slides](./3_pandas/gads23_03.pdf)
   - [Pandas Exercises](./3_pandas/intro_to_pandas.ipynb)
-  - Web scraping - TBD
   - [Visualizations](./3_pandas/visualizations.ipynb)
 
-<!-- - [Assignment #1: Data Exploration](./3_pandas/assignment_01.md) -->
+- [04: DATA EXPLORATION](./3_pandas)
+  - Web scraping and APIs - TBD
+  - How To Present Your Insights
+  - [Assignment #1: Data exploration](./4_pandas/assignment_01.md)
 
+<!-- **II. Modeling and Predicting** -->
