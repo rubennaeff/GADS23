@@ -104,6 +104,6 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
 - [04: DATA EXPLORATION](./3_pandas)
   - Web scraping and APIs - TBD
   - How To Present Your Insights
-  - **[Assignment #1: Data exploration](./4_pandas/assignment_01.md)**
+  - **[Assignment #1: Data exploration](./4_data_exploration_final/assignment_01.md)**
 
 <!-- **II. Modeling and Predicting** -->
