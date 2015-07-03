@@ -21,8 +21,11 @@ try your hand at webscraping.
 
 
 #### Guidelines
-- Due Sunday 6/12 at night (Antoine will tell you how)
-- Tuesday 6/14 presentations in class
+- Due **Sunday 6/12** at night (Antoine will tell you how)
+    + Submit code and results
+    + Do not submit original dataset if it's fairly large (>2M), but please provide a link to the source of your data
+- **Tuesday 6/14** presentations in class
+    + a few plots, a few minutes, clear conclusions
 - mandatory for graduation
 
 

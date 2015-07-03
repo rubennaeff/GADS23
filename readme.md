@@ -19,7 +19,7 @@ Please do not hesitate to contact any of us!
 after each class**
 
 
-##Copying the course notes to your machine
+## Copying the course notes to your machine
 
 To clone the repo, type
 ```sh
@@ -40,19 +40,19 @@ git reset --hard HEAD
 git pull
 ```
 
-##Syllabus (tentative)
+## Syllabus (tentative)
 
 |  # | Date       | Topic                                               |
 |---:|:-----------|:----------------------------------------------------|
 |    |            | **I. Data Exploration (Analytics)**                 |
-|  1 | Thu Jun 25 | Introduction to data science - unix                 |
-|  2 | Tue Jun 30 | Databases, SQL, and Python                          |
-|  3 | Thu Jul 02 | Python, pandas, visualizations                      |
-|  4 | Tue Jul 07 | Presenting your insights, web scraping, APIs        |
+|  1 | Thu Jun 25 | Introduction to data science, Unix                  |
+|  2 | Tue Jun 30 | Databases, SQL, Python                              |
+|  3 | Thu Jul 02 | Python, pandas                                      |
+|  4 | Tue Jul 07 | Presenting, visualizations, web scraping, APIs      |
 |    |            | _Assignment #1: Data exploration_                   |
 |    |            | **II. Modeling and Predicting**                     |
-|  5 | Thu Jul 09 | Linear Algebra                                      |
-|  6 | Tue Jul 14 | Intro to Machine Learning, kNN                      |
+|  6 | Thu Jul 09 | Intro to Machine Learning, kNN                      |
+|  5 | Tue Jul 14 | Linear Algebra                                      |
 |  7 | Thu Jul 16 | Linear Regression                                   |
 |    |            | _Assignment #2: regression_                         |
 |  8 | Tue Jul 21 | Logistic Regression and Regularization              |
@@ -79,7 +79,7 @@ git pull
 Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response Theory, graph theory, A/B testing, ethics, etc. We'll invite guest speakers to come present in class. Let me know if there is a company you're particularly interested in.
 
 
-##Resources
+## Resources
 
 - [All datasets](./data)
 
@@ -90,20 +90,20 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
   - [Setting Up Your Environment](./1_intro_to_data_science/setup.md)
   - [Data Science at the Command Line](./1_intro_to_data_science/unix.md)
 
-- [02: DATABASES, SQL, PYTHON](./2_databases)
-  - [Slides](./2_databases/gads23_02_databases.pdf)
-  - [SQL Exercises](./2_databases/databases.md)
-  - [Python Exercises](./2_databases/intro_to_python.ipynb)
-  - [Data Exploration in Python](./2_databases/data_exploration_in_python.ipynb)
+- [02: DATABASES, SQL, PYTHON](./2_sql_python)
+  - [Slides](./2_sql_python/gads23_02_sql_python.pdf)
+  - [SQL Exercises](./2_sql_python/databases.md)
+  - [Python Exercises](./2_sql_python/intro_to_python.ipynb)
+  - [Data Exploration in Python](./2_sql_python/data_exploration_in_python.ipynb)
 
-- [03: PYTHON, PANDAS, VISUALIZATIONS](./3_pandas)
+- [03: PYTHON, PANDAS](./3_pandas)
   - [Slides](./3_pandas/gads23_03.pdf)
   - [Pandas Exercises](./3_pandas/intro_to_pandas.ipynb)
-  - [Visualizations](./3_pandas/visualizations.ipynb)
 
-- [04: DATA EXPLORATION](./3_pandas)
-  - Web scraping and APIs - TBD
+- [04: DATA EXPLORATION](./4_presenting)
   - How To Present Your Insights
-  - **[Assignment #1: Data exploration](./4_data_exploration_final/assignment_01.md)**
+  - [Visualizations](./4_presenting/visualizations.ipynb)
+  - Web scraping and APIs - TBD
+  - **[Assignment #1: Data exploration](./4_presenting/assignment_01.md)**
 
 <!-- **II. Modeling and Predicting** -->
