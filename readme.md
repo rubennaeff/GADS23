@@ -103,7 +103,8 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
 - [04: DATA EXPLORATION](./4_presenting)
   - How To Present Your Insights
   - [Visualizations](./4_presenting/visualizations.ipynb)
-  - Web scraping and APIs - TBD
+  - [Web scraping](./4_presenting/web_scraping.ipynb)
+  - APIs
   - **[Assignment #1: Data exploration](./4_presenting/assignment_01.md)**
 
 <!-- **II. Modeling and Predicting** -->
