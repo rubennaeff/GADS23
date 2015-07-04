@@ -78,7 +78,7 @@ Once git is installed, you can clone the course materials to your local machine.
 
 ```sh
 mkdir ~/repo
-cd repo
+cd ~/repo
 git clone http://github.com/ga-students/DAT-23-NYC
 ```
 
@@ -94,7 +94,7 @@ To pull the latest version of the course materials to your machine, type:
 git pull
 ```
 
-Note that the above statement can give an error if you had changed any of the files yourself. Please **make a copy** of the files you edited (e..g, using `cp`) and then type the following commands. If you did not copy your changes, they will be **overwritten** and your changes will be lost.
+Note that the above statement can give an error if you had changed any of the files yourself. Please **make a copy** of the files you edited (e.g, using `cp`) and then type the following commands. If you did not copy your changes, they will be **overwritten** and your changes will be lost.
 
 ```sh
 git reset --hard HEAD
