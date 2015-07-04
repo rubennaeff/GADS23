@@ -86,7 +86,7 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
   - How To Present Your Insights
   - [Visualizations](./4_presenting/visualizations.ipynb)
   - [Web scraping](./4_presenting/web_scraping.ipynb)
-  - APIs
+  - [Twitter API](./4_presenting/twitter_stream.py)
   - **[Assignment #1: Data exploration](./4_presenting/assignment_01.md)**
 
 <!-- **II. Modeling and Predicting** -->

@@ -5,6 +5,10 @@ Monitor the Twitter stream API for certain key words
 Note that you might have an easier time implementing Twitter by simply using the
 twitter python API, which can be found here: https://pypi.python.org/pypi/twitter
 
+You can run this application by typing in your terminal
+
+    ```python twitter_stream.py```
+
 General Assembly Data Science
 """
 import sys
