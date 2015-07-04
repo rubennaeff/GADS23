@@ -19,26 +19,8 @@ Please do not hesitate to contact any of us!
 after each class**
 
 
-## Copying the course notes to your machine
+You can use `git` to painlessly copy and update the course notes to your machine. Please see the section [Cloning the repo](./1_intro_to_data_science/setup.md#cloning-the-repo). 
 
-To clone the repo, type
-```sh
-git clone http://github.com/ga-students/DAT-23-NYC
-```
-
-To update the repo, so you have the latest course notes on your computer
-```sh
-git pull
-```
-
-Note that the above statement can give an error if you had changed any of the files yourself.
-Please **make a copy** of the files you edited (e..g, using `cp`) and then type the following commands.
-If you did not copy your changes, they will be **overwritten** and your changes will be lost.
-
-```sh
-git reset --hard HEAD
-git pull
-```
 
 ## Syllabus (tentative)
 

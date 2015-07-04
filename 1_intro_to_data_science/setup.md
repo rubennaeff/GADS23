@@ -73,6 +73,7 @@ On Windows, there's an installer available here: http://git-scm.com/download/win
 
 ### Cloning the repo
 
+#### Copying the course notes to your machine
 Once git is installed, you can clone the course materials to your local machine. You might want to keep all git repositories in a single folder, such as `~/repo`.
 
 ```sh
@@ -83,11 +84,23 @@ git clone http://github.com/ga-students/DAT-23-NYC
 
 You now have all course materials in your folder `~/repo/DAT-23-NYC`.
 
+#### Updating the course notes
+
+The repo will be updated throughout the duration of the course.
+
 To pull the latest version of the course materials to your machine, type:
 
 ```sh
 git pull
 ```
+
+Note that the above statement can give an error if you had changed any of the files yourself. Please **make a copy** of the files you edited (e..g, using `cp`) and then type the following commands. If you did not copy your changes, they will be **overwritten** and your changes will be lost.
+
+```sh
+git reset --hard HEAD
+git pull
+```
+
 
 ### Further reading
 
