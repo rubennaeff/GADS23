@@ -35,9 +35,9 @@ You can use `git` to painlessly copy and update the course notes to your machine
 |    |            | **II. Modeling and Predicting**                     |
 |  6 | Thu Jul 09 | Introduction to Machine Learning, kNN               |
 |  5 | Tue Jul 14 | Linear Algebra                                      |
-|  7 | Thu Jul 16 | Linear Regression                                   |
+|  7 | Thu Jul 16 | Linear Regression _(AG OOO)_                        |
 |    |            | _Assignment #2: regression_                         |
-|  8 | Tue Jul 21 | Logistic Regression and Regularization              |
+|  8 | Tue Jul 21 | Logistic Regression and Regularization _(AG OOO)_   |
 |  9 | Thu Jul 23 | Bayesian Statistics and Naive Bayes                 |
 | 10 | Tue Jul 28 | Decision Trees and Random Forests                   |
 | 11 | Thu Jul 30 | Review: regression and classification (competition) |
@@ -52,7 +52,7 @@ You can use `git` to painlessly copy and update the course notes to your machine
 | 16 | Tue Aug 18 | Further Topics in Unsupervised Learning             |
 | 17 | Thu Aug 20 | Scaling: Hadoop, Spark                              |
 | 18 | Tue Aug 25 | _TBD: guest speakers, ethics, requests, etc._       |
-| 19 | Thu Aug 27 | _TBD_                                               |
+| 19 | Thu Aug 27 | _TBD_ _(RN OOO?)_                                   |
 | 20 | Tue Sep 01 | _TBD_                                               |
 | 21 | Thu Sep 03 | _TBD_                                               |
 | 22 | Tue Sep 08 | _TBD_                                               |
