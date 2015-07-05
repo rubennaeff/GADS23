@@ -63,30 +63,36 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
 
 ## Resources
 
-- [All datasets](./data)
+- [All datasets](./data/)
 
 **I. Data Exploration (Analytics)**
 
-- [01: INTRODUCTION TO DATA SCIENCE](./1_intro_to_data_science)
+- [01: INTRODUCTION TO DATA SCIENCE](./1_intro_to_data_science/)
   - [Slides](./1_intro_to_data_science/gads23_01_intro.pdf)
   - [Setting Up Your Environment](./1_intro_to_data_science/setup.md)
   - [Data Science at the Command Line](./1_intro_to_data_science/unix.md)
 
-- [02: DATABASES, SQL, PYTHON](./2_sql_python)
+- [02: DATABASES, SQL, PYTHON](./2_sql_python/)
   - [Slides](./2_sql_python/gads23_02_sql_python.pdf)
   - [SQL Exercises](./2_sql_python/databases.md)
   - [Python Exercises](./2_sql_python/intro_to_python.ipynb)
   - [Data Exploration in Python](./2_sql_python/data_exploration_in_python.ipynb)
 
-- [03: PYTHON, PANDAS](./3_pandas)
+- [03: PYTHON, PANDAS](./3_pandas/)
   - [Slides](./3_pandas/gads23_03.pdf)
   - [Pandas Exercises](./3_pandas/intro_to_pandas.ipynb)
 
-- [04: DATA EXPLORATION](./4_presenting)
+- [04: VISUALIZATIONS AND MORE DATA GATHERING](./4_presenting/)
   - How To Present Your Insights
   - [Visualizations](./4_presenting/visualizations.ipynb)
   - [Web scraping](./4_presenting/web_scraping.ipynb)
   - [Twitter API](./4_presenting/twitter_stream.py)
   - **[Assignment #1: Data exploration](./4_presenting/assignment_01.md)**
 
-<!-- **II. Modeling and Predicting** -->
+**II. Modeling and Predicting**
+
+- [05: INTRO TO MACHINE LEARNING](./5_intro_to_ml/)
+  - [Slides]() 
+  - [kNN Classification](./5_intro_to_ml/k_nearest_neighbors.ipynb)
+
+

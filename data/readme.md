@@ -6,10 +6,10 @@
 This folder contains all the data sets we will be working with during the course.
 
 **Saved in repo**
-- [311 NYC Complaints](./311)
-- [538 Nate Silver polls](./538)
-- [Amazon movie reviews](./amazon)
-- [Iris dataset](./iris)
+- [311 NYC Complaints](./311/)
+- [538 Nate Silver polls](./538/)
+- [Amazon movie reviews](./amazon/)
+- [Iris dataset](./iris/)
 
 **External downloads**
 - [Lehman baseball dataset](http://seanlahman.com/files/database/lahman-csv_2014-02-14.zip)
