@@ -33,7 +33,7 @@ You can use `git` to painlessly copy and update the course notes to your machine
 |  4 | Tue Jul 07 | Presenting, visualizations, web scraping, APIs      |
 |    |            | _Assignment #1: Data exploration_                   |
 |    |            | **II. Modeling and Predicting**                     |
-|  6 | Thu Jul 09 | Intro to Machine Learning, kNN                      |
+|  6 | Thu Jul 09 | Introduction to Machine Learning, kNN               |
 |  5 | Tue Jul 14 | Linear Algebra                                      |
 |  7 | Thu Jul 16 | Linear Regression                                   |
 |    |            | _Assignment #2: regression_                         |
@@ -91,7 +91,7 @@ Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response 
 
 **II. Modeling and Predicting**
 
-- [05: INTRO TO MACHINE LEARNING](./5_intro_to_ml/)
+- [05: INTRODUCTION TO MACHINE LEARNING](./5_intro_to_ml/)
   - [Slides]() 
   - [kNN Classification](./5_intro_to_ml/k_nearest_neighbors.ipynb)
 
