@@ -66,6 +66,8 @@ You can use `git` to painlessly copy and update the course notes to your machine
 ## Resources
 
 - [All datasets](./data/)
+- [Extraneous](./extraneous.md) Irrelevant things we discussed
+
 
 **I. Data Exploration (Analytics)**
 
@@ -85,16 +87,17 @@ You can use `git` to painlessly copy and update the course notes to your machine
   - [Pandas Exercises](./3_pandas/intro_to_pandas.ipynb)
 
 - [04: VISUALIZATIONS AND MORE DATA GATHERING](./4_presenting/)
-  - How To Present Your Insights
-  - [Visualizations](./4_presenting/visualizations.ipynb)
+  - [Slides](./4_presenting/gads23_04.pdf)
   - [Web scraping](./4_presenting/web_scraping.ipynb)
   - [Twitter API](./4_presenting/twitter_stream.py)
+  - How To Present Your Insights
+  - [Visualizations](./4_presenting/visualizations.ipynb)
   - **[Assignment #1: Data exploration](./4_presenting/assignment_01.md)**
 
 **II. Modeling and Predicting**
 
 - [05: INTRODUCTION TO MACHINE LEARNING](./5_intro_to_ml/)
-  - [Slides]() 
+  - [Slides](./5_intro_to_ml/gads23_05_intro_to_ml.pdf)
   - [kNN Classification](./5_intro_to_ml/k_nearest_neighbors.ipynb)
 
 
