@@ -29,3 +29,6 @@ try your hand at webscraping.
 - mandatory for graduation
 
 
+#### Example
+
+The presentation [Complaining About New York](./assignment_01_example.pdf)  gives some statistics about New York's 311 complaints, based on a dataset from [NYC Open Data](http://nycopendata.socrata.com). This presentation already more than is required: any notenook with similar plots would suffice.
