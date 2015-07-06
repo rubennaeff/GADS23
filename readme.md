@@ -92,7 +92,8 @@ _OOO = Out of Office_
   - [Web scraping](./4_presenting/web_scraping.ipynb)
   - [Twitter API](./4_presenting/twitter_stream.py)
   - How To Present Your Insights
-  - [Visualizations](./4_presenting/visualizations.ipynb)
+  - [Visualizations](./4_presenting/visualizations.ipynb) including exercises
+  - [Anscombe's Quartet](./4_presenting/anscombe_quartet.ipynb)
   - **[Assignment #1: Data exploration](./4_presenting/assignment_01.md)**
 
 **II. Modeling and Predicting**
