@@ -57,16 +57,17 @@ You can use `git` to painlessly copy and update the course notes to your machine
 | 21 | Thu Sep 03 | _TBD_                                               |
 | 22 | Tue Sep 08 | _TBD_                                               |
 | 23 | Thu Sep 10 | Final presentations                                 |
+_OOO = Out of Office_
 
 - Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response Theory, graph theory, A/B testing, ethics, etc.
 - We'll invite guest speakers to come present in class. Let me know if there is a company you're particularly interested in.
-- OOO = Out of Office
+- 
 
 
 ## Resources
 
 - [All datasets](./data/)
-- [Extraneous](./extraneous.md) Irrelevant things we discussed
+- [Extraneous](./extraneous.md) (all irrelevant things we discussed)
 
 
 **I. Data Exploration (Analytics)**
