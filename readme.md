@@ -19,7 +19,7 @@ Please do not hesitate to contact any of us!
 after each class**
 
 
-You can use `git` to painlessly copy and update the course notes to your machine. Please see the section [Cloning the repo](./1_intro_to_data_science/setup.md#cloning-the-repo). 
+You can use `git` to painlessly copy and update the course notes to your machine. Please see the section [Cloning the repo](./1_intro_to_data_science/setup.md#cloning-the-repo).
 
 
 ## Syllabus (tentative)
@@ -61,7 +61,6 @@ _OOO = Out of Office_
 
 - Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response Theory, graph theory, A/B testing, ethics, etc.
 - We'll invite guest speakers to come present in class. Let me know if there is a company you're particularly interested in.
-- 
 
 
 ## Resources
