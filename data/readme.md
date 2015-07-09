@@ -17,6 +17,9 @@ This folder contains all the data sets we will be working with during the course
 **Sources**
 - [McKinsey report on big data](http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation), May 2011
 
+**Shared by students**
+- [Free Geographic Information System Data](http://freegisdata.rtwilson.com/)
+- [Quora thread on data sources](http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 
 ### Datasets used in other classes
 *By Arun Ahuja (GADS #21)*
