@@ -7,3 +7,5 @@
 # apple cruft
 .DS_Store
 
+# keys
+twitter_config_rn.py
