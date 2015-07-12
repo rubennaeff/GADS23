@@ -4,6 +4,7 @@ Things we discussed in class, which were not exactly relevant, but which will ma
 
 
 ### Bedtime reading
+- [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
 - [NY Times Bits Blog](http://bits.blogs.nytimes.com/) and its [big data](http://bits.blogs.nytimes.com/category/data/) subsection (also [on Twitter](https://twitter.com/nytimesbits)). For example,
   - [Companies Move On From Big Data Technology Hadoop](http://bits.blogs.nytimes.com/2015/06/15/companies-are-moving-on-from-big-data-technology-hadoop/) June 15, 2015
   - [Survey Finds Americans Don’t Trust Government and Companies to Protect Privacy](http://bits.blogs.nytimes.com/2015/05/20/survey-finds-americans-dont-trust-government-and-companies-to-protect-privacy/) May 20, 2015

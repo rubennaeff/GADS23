@@ -95,10 +95,46 @@ _OOO = Out of Office_
   - [Anscombe's Quartet](./4_presenting/anscombe_quartet.ipynb)
   - **[Assignment #1: Data exploration](./4_presenting/assignment_01.md)**
 
-**II. Modeling and Predicting**
+**II. Supervised Learning**
 
 - [05: INTRODUCTION TO MACHINE LEARNING](./5_intro_to_ml/)
   - [Slides](./5_intro_to_ml/gads23_05_intro_to_ml.pdf)
   - [kNN Classification](./5_intro_to_ml/k_nearest_neighbors.ipynb)
 
+- [06: LINEAR REGRESSION](./6_linear_regression/)
+  - [Slides](./6_linear_regression/gads23_06_linear_regression.pdf)
+  - [Introduction to numpy](./6_linear_regression/into_to_numpy.ipynb)
+  - [Linear Algebra recap](./6_linear_regression/linear_algebra.ipynb)
+  - [Linear Regression](./6_linear_regression/linear_regression.ipynb)
+  - [3D plot in Python](./6_linear_regression/3d_plot.ipynb) _example as reference_
+
+- [07: REGRESSION & REGULARIZATION](./7_log_regression/)
+
+<!--   - [Slides](./7_log_regression/gads23_07.pdf)
+  - Recap linear regression
+  - Polynomial regression
+  - Regularization
+  - Logistic regression
+ -->
+
+- [08: STATISTICS & BAYES](./8_statistics/)
+  - [Statistics & Probability recap](./8_statistics/8_statistics/intro_to_statistics.ipynb)
+
+
+<!--   - [Slides](./8_statistics/gads23_08.pdf)
+  - Statstictis & Probability
+  - Bayes Theorem
+  - Bayes and regression
+  - Naive Bayes
+  - Natural Language Processing (NLP)
+ -->
+
+<!-- - [09: DECISION TREES](./9_decision_trees/)
+  - [Slides](./9_decision_trees/gads23_09.pdf)
+ -->
+
+<!-- - [10: COMPETITION](--some kaggle competition in class w/pizza and beer!--)
+ -->
+
+<!-- **III. Unsupervised Learning** -->
 
