@@ -103,14 +103,15 @@ _OOO = Out of Office_
 
 - [06: LINEAR REGRESSION](./6_linear_regression/)
   - [Slides](./6_linear_regression/gads23_06_linear_regression.pdf)
-  - [Introduction to numpy](./6_linear_regression/into_to_numpy.ipynb)
+  - [Introduction to numpy](./6_linear_regression/intro_to_numpy.ipynb)
   - [Linear Algebra recap](./6_linear_regression/linear_algebra.ipynb)
   - [Linear Regression](./6_linear_regression/linear_regression.ipynb)
   - [3D plot in Python](./6_linear_regression/3d_plot.ipynb) _example as reference_
 
-- [07: REGRESSION & REGULARIZATION](./7_log_regression/)
+- 07: REGRESSION & REGULARIZATION
 
-<!--   - [Slides](./7_log_regression/gads23_07.pdf)
+<!-- - [07: REGRESSION & REGULARIZATION](./7_log_regression/)
+  - [Slides](./7_log_regression/gads23_07.pdf)
   - Recap linear regression
   - Polynomial regression
   - Regularization
@@ -118,7 +119,7 @@ _OOO = Out of Office_
  -->
 
 - [08: STATISTICS & BAYES](./8_statistics/)
-  - [Statistics & Probability recap](./8_statistics/8_statistics/intro_to_statistics.ipynb)
+  - [Statistics & Probability recap](./8_statistics/intro_to_statistics.ipynb)
 
 
 <!--   - [Slides](./8_statistics/gads23_08.pdf)
