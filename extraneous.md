@@ -3,8 +3,12 @@
 Things we discussed in class, which were not exactly relevant, but which will make your live as freshly-minted data scientist more pleasant.
 
 
-### Bedtime reading
+### Further studying
+- [Linear Algebra Explained In Four Pages](http://cnd.mcgill.ca/~ivan/miniref/linear_algebra_in_4_pages.pdf)
 - [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
+
+
+### Bedtime reading
 - [NY Times Bits Blog](http://bits.blogs.nytimes.com/) and its [big data](http://bits.blogs.nytimes.com/category/data/) subsection (also [on Twitter](https://twitter.com/nytimesbits)). For example,
   - [Companies Move On From Big Data Technology Hadoop](http://bits.blogs.nytimes.com/2015/06/15/companies-are-moving-on-from-big-data-technology-hadoop/) June 15, 2015
   - [Survey Finds Americans Don’t Trust Government and Companies to Protect Privacy](http://bits.blogs.nytimes.com/2015/05/20/survey-finds-americans-dont-trust-government-and-companies-to-protect-privacy/) May 20, 2015
@@ -20,3 +24,10 @@ Things we discussed in class, which were not exactly relevant, but which will ma
 
 ### Social
 - [NYC Data Science Meetups](http://www.meetup.com/find/events/?keywords=data+science&radius=5&userFreeform=New+York%2C+NY)
+
+
+### Tools
+
+- [Wordle](http://www.wordle.net/) Making word clouds
+- [Twitter API](https://pypi.python.org/pypi/twitter), [tweepy](http://www.tweepy.org/) and [many other libraries](https://dev.twitter.com/overview/api/twitter-libraries)
+
