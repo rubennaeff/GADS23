@@ -108,11 +108,9 @@ _OOO = Out of Office_
   - [Linear Regression](./6_linear_regression/linear_regression.ipynb)
   - [3D plot in Python](./6_linear_regression/3d_plot.ipynb) _example as reference_
 
-- [07: REGRESSION & REGULARIZATION](./7_log_regression/)
-  - [Slides](./7_log_regression/gads23_07.pdf)
-  - Recap linear regression
-  - Polynomial regression
-  - Regularization
+- [07: POLYNOMIAL REGRESSION & REGULARIZATION](./7_regularization/)
+  - [Slides](./7_regularization/gads23_07.pdf)
+  - [Regularization](./7_regularization/regularization.ipynb)
 
 <!--   - Logistic regression -->
 
