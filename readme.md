@@ -34,10 +34,10 @@ You can use `git` to painlessly copy and update the course notes to your machine
 |    |            | _Assignment #1: Data exploration_                   |
 |    |            | **II. Modeling and Predicting**                     |
 |  6 | Thu Jul 09 | Introduction to Machine Learning, kNN               |
-|  5 | Tue Jul 14 | Linear Algebra                                      |
-|  7 | Thu Jul 16 | Linear Regression _(AG OOO)_                        |
+|  5 | Tue Jul 14 | Presentations + Linear Regression                   |
+|  7 | Thu Jul 16 | Regression & Regularization, lin. alg. _(AG OOO)_   |
+|  8 | Tue Jul 21 | Text processing, logistic regression   _(AG OOO)_   |
 |    |            | _Assignment #2: regression_                         |
-|  8 | Tue Jul 21 | Logistic Regression and Regularization _(AG OOO)_   |
 |  9 | Thu Jul 23 | Bayesian Statistics and Naive Bayes                 |
 | 10 | Tue Jul 28 | Decision Trees and Random Forests                   |
 | 11 | Thu Jul 30 | Review: regression and classification (competition) |
@@ -112,12 +112,16 @@ _OOO = Out of Office_
   - [Slides](./7_regularization/gads23_07.pdf)
   - [Regularization](./7_regularization/regularization.ipynb)
 
+- [08: TEXT PROCESSING](./8_regression_final/)
+  - [Text Processing](./8_regression_final/text_processing.ipynb)
+  - **[Assignment #2: Linear regression](./8_regression_final/assignment_02_salary_prediction.ipynb)**
+
+<!--   - [Slides](./8_regression_final/gads23_07.pdf) -->
+
 <!--   - Logistic regression -->
 
-
-- [08: STATISTICS & BAYES](./8_statistics/)
-  - [Statistics & Probability recap](./8_statistics/intro_to_statistics.ipynb)
-
+- [09: STATISTICS & BAYES]()
+  - [Statistics & Probability recap](./9_logistic_regression/intro_to_statistics.ipynb)
 
 <!--   - [Slides](./8_statistics/gads23_08.pdf)
   - Statstictis & Probability
