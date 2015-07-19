@@ -101,8 +101,7 @@ git reset --hard HEAD
 git pull
 ```
 
-
-### Further reading
+#### Further reading
 
 Git falls outside the scope of the course, but it is widely used in the tech industry. It may take a while before you get comfortable with it. Below are useful resources that get you started.
 

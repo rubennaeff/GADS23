@@ -6,8 +6,10 @@ Things we discussed in class, which were not exactly relevant, but which will ma
 ### Further studying
 - [Linear Algebra Explained In Four Pages](http://cnd.mcgill.ca/~ivan/miniref/linear_algebra_in_4_pages.pdf)
 - [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
-- [Khan Academy: Linear regression and correlation](https://www.khanacademy.org/math/probability/regression/regression-correlation)
+- [Khan Academy: Linear Regression and Correlation](https://www.khanacademy.org/math/probability/regression/regression-correlation)
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/course/ml)
+- [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and the [Git Game](http://pcottle.github.io/learnGitBranching/) for learning git
+
 
 ### Bedtime reading
 - [NY Times Bits Blog](http://bits.blogs.nytimes.com/) and its [big data](http://bits.blogs.nytimes.com/category/data/) subsection (also [on Twitter](https://twitter.com/nytimesbits)). For example,
