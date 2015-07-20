@@ -9,6 +9,7 @@ This folder contains all the data sets we will be working with during the course
 - [311 NYC Complaints](./311/)
 - [538 Nate Silver polls](./538/)
 - [Amazon movie reviews](./amazon/)
+- [Insults](./insults/)
 - [Iris dataset](./iris/)
 
 **External downloads**

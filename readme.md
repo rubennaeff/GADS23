@@ -101,6 +101,8 @@ _OOO = Out of Office_
   - [Slides](./5_intro_to_ml/gads23_05_intro_to_ml.pdf)
   - [kNN Classification](./5_intro_to_ml/k_nearest_neighbors.ipynb)
 
+_Regression models_
+
 - [06: LINEAR REGRESSION](./6_linear_regression/)
   - [Slides](./6_linear_regression/gads23_06_linear_regression.pdf)
   - [Introduction to numpy](./6_linear_regression/intro_to_numpy.ipynb)
@@ -112,24 +114,29 @@ _OOO = Out of Office_
   - [Slides](./7_regularization/gads23_07.pdf)
   - [Regularization](./7_regularization/regularization.ipynb)
 
-- [08: TEXT PROCESSING](./8_regression_final/)
+- [08: REGRESSION & TEXT PROCESSING](./8_regression_final/)
+  - No slides
   - [Text Processing](./8_regression_final/text_processing.ipynb)
   - **[Assignment #2: Linear regression](./8_regression_final/assignment_02_salary_prediction.ipynb)**
 
-<!--   - [Slides](./8_regression_final/gads23_07.pdf) -->
+_Classification models_
 
-<!--   - Logistic regression -->
+- [09: LOGISTIC REGRESSION](./9_logistic_regression/)
+  - [Slides](./9_logistic_regression/gads23_09_logistic_regression.pdf)
+  - [Logistic Regression](./9_logistic_regression/logistic_regression.ipynb)
+  - [Insult Classification](./9_logistic_regression/insult_classification.ipynb)
 
-- [09: STATISTICS & BAYES]()
-  - [Statistics & Probability recap](./9_logistic_regression/intro_to_statistics.ipynb)
+- [10: STATISTICS & BAYES]()
+   - [Statistics & Probability recap](./9_logistic_regression/intro_to_statistics.ipynb)
+
 
 <!--   - [Slides](./8_statistics/gads23_08.pdf)
   - Statstictis & Probability
   - Bayes Theorem
   - Bayes and regression
   - Naive Bayes
-  - Natural Language Processing (NLP)
  -->
+
 
 <!-- - [09: DECISION TREES](./9_decision_trees/)
   - [Slides](./9_decision_trees/gads23_09.pdf)
