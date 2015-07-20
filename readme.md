@@ -110,7 +110,7 @@ _Regression models_
   - [Linear Regression](./06_linear_regression/linear_regression.ipynb)
   - [3D plot in Python](./06_linear_regression/3d_plot.ipynb) _example as reference_
 
-- [07: POLYNOMIAL REGRESSION & REGULARIZATION](./7_regularization/)
+- [07: POLYNOMIAL REGRESSION & REGULARIZATION](./07_regularization/)
   - [Slides](./07_regularization/gads23_07.pdf)
   - [Regularization](./07_regularization/regularization.ipynb)
 
@@ -126,7 +126,7 @@ _Classification models_
   - [Logistic Regression](./09_logistic_regression/logistic_regression.ipynb)
   - [Insult Classification](./09_logistic_regression/insult_classification.ipynb)
 
-- [10: STATISTICS & BAYES]()
+- [10: STATISTICS & BAYES](.)
    - [Statistics & Probability recap](./10_probabilities/intro_to_statistics.ipynb)
 
 
