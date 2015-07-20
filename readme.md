@@ -106,8 +106,8 @@ _Regression models_
 
 - [06: LINEAR REGRESSION](./06_linear_regression/)
   - [Slides](./06_linear_regression/gads23_06_linear_regression.pdf)
-  - [Introduction to numpy](./06_linear_regression/intro_to_numpy.ipynb)
-  - [Linear Algebra recap](./06_linear_regression/linear_algebra.ipynb)
+  - [Introduction to numpy](./06_linear_regression/intro_to_numpy.ipynb) _optional_
+  - [Linear Algebra recap](./06_linear_regression/linear_algebra.ipynb) _optional_
   - [Linear Regression](./06_linear_regression/linear_regression.ipynb)
   - [3D plot in Python](./06_linear_regression/3d_plot.ipynb) _example as reference_
 
@@ -126,6 +126,7 @@ _Classification models_
   - [Slides](./09_logistic_regression/gads23_09_logistic_regression.pdf)
   - [Logistic Regression](./09_logistic_regression/logistic_regression.ipynb)
   - [Insult Classification](./09_logistic_regression/insult_classification.ipynb)
+  - [Area Under the ROC Curve](./09_logistic_regression/roc_curve.ipynb) _optional_
 
 - [10: STATISTICS & BAYES](.)
    - [Statistics & Probability recap](./10_probabilities/intro_to_statistics.ipynb)
