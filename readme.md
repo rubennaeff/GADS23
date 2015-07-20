@@ -127,7 +127,7 @@ _Classification models_
   - [Logistic Regression](./09_logistic_regression/logistic_regression.ipynb) Iris dataset, precision/recall, decision boundaries; incl. exercises
   - [Insult Classification](./09_logistic_regression/insult_classification.ipynb) exercise
   - [Area Under the ROC Curve](./09_logistic_regression/roc_curve.ipynb) _optional_
-  - [Non-linear decision boundaries](./09_logistic_regression/roc_curve.ipynb) _optional_
+  - [Non-linear decision boundaries](./09_logistic_regression/non_linear_decision_boundaries.ipynb) _optional_
 
 - [10: STATISTICS & BAYES](.)
    - [Statistics & Probability recap](./10_probabilities/intro_to_statistics.ipynb) _optional_
