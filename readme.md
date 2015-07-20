@@ -75,13 +75,13 @@ _OOO = Out of Office_
 - [01: INTRODUCTION TO DATA SCIENCE](./01_intro_to_data_science/)
   - [Slides](./01_intro_to_data_science/gads23_01_intro.pdf)
   - [Setting Up Your Environment](./01_intro_to_data_science/setup.md)
-  - [Data Science at the Command Line](./01_intro_to_data_science/unix.md)
+  - [Data Science at the Command Line](./01_intro_to_data_science/unix.md) including exercises
 
 - [02: DATABASES, SQL, PYTHON](./02_sql_python/)
   - [Slides](./02_sql_python/gads23_02_sql_python.pdf)
   - [SQL Exercises](./02_sql_python/databases.md)
   - [Python Exercises](./02_sql_python/intro_to_python.ipynb)
-  - [Data Exploration in Python](./02_sql_python/data_exploration_in_python.ipynb)
+  - [Data Exploration in Python](./02_sql_python/data_exploration_in_python.ipynb) including exercises
 
 - [03: PYTHON, PANDAS](./03_pandas/)
   - [Slides](./03_pandas/gads23_03.pdf)
@@ -89,18 +89,18 @@ _OOO = Out of Office_
 
 - [04: VISUALIZATIONS AND MORE DATA GATHERING](./04_presenting/)
   - [Slides](./04_presenting/gads23_04.pdf)
-  - [Web scraping](./04_presenting/web_scraping.ipynb)
-  - [Twitter API](./04_presenting/twitter_stream.py)
+  - [Web scraping](./04_presenting/web_scraping.ipynb) _optional demo_
+  - [Twitter API](./04_presenting/twitter_stream.py) _optional demo_
   - How To Present Your Insights
   - [Visualizations](./04_presenting/visualizations.ipynb) including exercises
-  - [Anscombe's Quartet](./04_presenting/anscombe_quartet.ipynb)
-  - **[Assignment #1: Data exploration](./04_presenting/assignment_01.md)**
+  - [Anscombe's Quartet](./04_presenting/anscombe_quartet.ipynb) illustrating the need for visualizations
+  - **[Assignment #1: Data Exploration](./04_presenting/assignment_01.md)**
 
 **II. Supervised Learning**
 
 - [05: INTRODUCTION TO MACHINE LEARNING](./05_intro_to_ml/)
   - [Slides](./05_intro_to_ml/gads23_05_intro_to_ml.pdf)
-  - [kNN Classification](./05_intro_to_ml/k_nearest_neighbors.ipynb)
+  - [kNN Classification](./05_intro_to_ml/k_nearest_neighbors.ipynb) Iris dataset
 
 _Regression models_
 
@@ -108,28 +108,28 @@ _Regression models_
   - [Slides](./06_linear_regression/gads23_06_linear_regression.pdf)
   - [Introduction to numpy](./06_linear_regression/intro_to_numpy.ipynb) _optional_
   - [Linear Algebra recap](./06_linear_regression/linear_algebra.ipynb) _optional_
-  - [Linear Regression](./06_linear_regression/linear_regression.ipynb)
+  - [Linear Regression](./06_linear_regression/linear_regression.ipynb) Princeton Salaries, statsmodels, seaborn; exerc. Anscombe & Boston house prices
   - [3D plot in Python](./06_linear_regression/3d_plot.ipynb) _example as reference_
 
 - [07: POLYNOMIAL REGRESSION & REGULARIZATION](./07_regularization/)
   - [Slides](./07_regularization/gads23_07.pdf)
-  - [Regularization](./07_regularization/regularization.ipynb)
+  - [Regularization](./07_regularization/regularization.ipynb) polynomials, `makepipeline`, Ridge, Lasso
 
 - [08: REGRESSION & TEXT PROCESSING](./08_regression_final/)
   - [One slide](./08_regression_final/gads23_08_regression_final.pdf)
-  - [Text Processing](./08_regression_final/text_processing.ipynb)
-  - **[Assignment #2: Linear regression](./08_regression_final/assignment_02_salary_prediction.ipynb)**
+  - [Text Processing](./08_regression_final/text_processing.ipynb) Amazon movie reviews
+  - **[Assignment #2: Linear Regression](./08_regression_final/assignment_02_salary_prediction.ipynb) Salary Prediction**
 
 _Classification models_
 
 - [09: LOGISTIC REGRESSION](./09_logistic_regression/)
   - [Slides](./09_logistic_regression/gads23_09_logistic_regression.pdf)
-  - [Logistic Regression](./09_logistic_regression/logistic_regression.ipynb)
-  - [Insult Classification](./09_logistic_regression/insult_classification.ipynb)
+  - [Logistic Regression](./09_logistic_regression/logistic_regression.ipynb) Iris dataset, precision/recall, decision boundaries; incl. exerc.
+  - [Insult Classification](./09_logistic_regression/insult_classification.ipynb) exercise
   - [Area Under the ROC Curve](./09_logistic_regression/roc_curve.ipynb) _optional_
 
 - [10: STATISTICS & BAYES](.)
-   - [Statistics & Probability recap](./10_probabilities/intro_to_statistics.ipynb)
+   - [Statistics & Probability recap](./10_probabilities/intro_to_statistics.ipynb) _optional_
 
 
 <!--   - [Slides](./10_statistics/gads23_08.pdf)
