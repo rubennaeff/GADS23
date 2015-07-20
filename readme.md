@@ -71,66 +71,66 @@ _OOO = Out of Office_
 
 **I. Data Exploration (Analytics)**
 
-- [01: INTRODUCTION TO DATA SCIENCE](./1_intro_to_data_science/)
-  - [Slides](./1_intro_to_data_science/gads23_01_intro.pdf)
-  - [Setting Up Your Environment](./1_intro_to_data_science/setup.md)
-  - [Data Science at the Command Line](./1_intro_to_data_science/unix.md)
+- [01: INTRODUCTION TO DATA SCIENCE](./01_intro_to_data_science/)
+  - [Slides](./01_intro_to_data_science/gads23_01_intro.pdf)
+  - [Setting Up Your Environment](./01_intro_to_data_science/setup.md)
+  - [Data Science at the Command Line](./01_intro_to_data_science/unix.md)
 
-- [02: DATABASES, SQL, PYTHON](./2_sql_python/)
-  - [Slides](./2_sql_python/gads23_02_sql_python.pdf)
-  - [SQL Exercises](./2_sql_python/databases.md)
-  - [Python Exercises](./2_sql_python/intro_to_python.ipynb)
-  - [Data Exploration in Python](./2_sql_python/data_exploration_in_python.ipynb)
+- [02: DATABASES, SQL, PYTHON](./02_sql_python/)
+  - [Slides](./02_sql_python/gads23_02_sql_python.pdf)
+  - [SQL Exercises](./02_sql_python/databases.md)
+  - [Python Exercises](./02_sql_python/intro_to_python.ipynb)
+  - [Data Exploration in Python](./02_sql_python/data_exploration_in_python.ipynb)
 
-- [03: PYTHON, PANDAS](./3_pandas/)
-  - [Slides](./3_pandas/gads23_03.pdf)
-  - [Pandas Exercises](./3_pandas/intro_to_pandas.ipynb)
+- [03: PYTHON, PANDAS](./03_pandas/)
+  - [Slides](./03_pandas/gads23_03.pdf)
+  - [Pandas Exercises](./03_pandas/intro_to_pandas.ipynb)
 
-- [04: VISUALIZATIONS AND MORE DATA GATHERING](./4_presenting/)
-  - [Slides](./4_presenting/gads23_04.pdf)
-  - [Web scraping](./4_presenting/web_scraping.ipynb)
-  - [Twitter API](./4_presenting/twitter_stream.py)
+- [04: VISUALIZATIONS AND MORE DATA GATHERING](./04_presenting/)
+  - [Slides](./04_presenting/gads23_04.pdf)
+  - [Web scraping](./04_presenting/web_scraping.ipynb)
+  - [Twitter API](./04_presenting/twitter_stream.py)
   - How To Present Your Insights
-  - [Visualizations](./4_presenting/visualizations.ipynb) including exercises
-  - [Anscombe's Quartet](./4_presenting/anscombe_quartet.ipynb)
-  - **[Assignment #1: Data exploration](./4_presenting/assignment_01.md)**
+  - [Visualizations](./04_presenting/visualizations.ipynb) including exercises
+  - [Anscombe's Quartet](./04_presenting/anscombe_quartet.ipynb)
+  - **[Assignment #1: Data exploration](./04_presenting/assignment_01.md)**
 
 **II. Supervised Learning**
 
-- [05: INTRODUCTION TO MACHINE LEARNING](./5_intro_to_ml/)
-  - [Slides](./5_intro_to_ml/gads23_05_intro_to_ml.pdf)
-  - [kNN Classification](./5_intro_to_ml/k_nearest_neighbors.ipynb)
+- [05: INTRODUCTION TO MACHINE LEARNING](./05_intro_to_ml/)
+  - [Slides](./05_intro_to_ml/gads23_05_intro_to_ml.pdf)
+  - [kNN Classification](./05_intro_to_ml/k_nearest_neighbors.ipynb)
 
 _Regression models_
 
-- [06: LINEAR REGRESSION](./6_linear_regression/)
-  - [Slides](./6_linear_regression/gads23_06_linear_regression.pdf)
-  - [Introduction to numpy](./6_linear_regression/intro_to_numpy.ipynb)
-  - [Linear Algebra recap](./6_linear_regression/linear_algebra.ipynb)
-  - [Linear Regression](./6_linear_regression/linear_regression.ipynb)
-  - [3D plot in Python](./6_linear_regression/3d_plot.ipynb) _example as reference_
+- [06: LINEAR REGRESSION](./06_linear_regression/)
+  - [Slides](./06_linear_regression/gads23_06_linear_regression.pdf)
+  - [Introduction to numpy](./06_linear_regression/intro_to_numpy.ipynb)
+  - [Linear Algebra recap](./06_linear_regression/linear_algebra.ipynb)
+  - [Linear Regression](./06_linear_regression/linear_regression.ipynb)
+  - [3D plot in Python](./06_linear_regression/3d_plot.ipynb) _example as reference_
 
 - [07: POLYNOMIAL REGRESSION & REGULARIZATION](./7_regularization/)
-  - [Slides](./7_regularization/gads23_07.pdf)
-  - [Regularization](./7_regularization/regularization.ipynb)
+  - [Slides](./07_regularization/gads23_07.pdf)
+  - [Regularization](./07_regularization/regularization.ipynb)
 
-- [08: REGRESSION & TEXT PROCESSING](./8_regression_final/)
+- [08: REGRESSION & TEXT PROCESSING](./08_regression_final/)
   - No slides
-  - [Text Processing](./8_regression_final/text_processing.ipynb)
-  - **[Assignment #2: Linear regression](./8_regression_final/assignment_02_salary_prediction.ipynb)**
+  - [Text Processing](./08_regression_final/text_processing.ipynb)
+  - **[Assignment #2: Linear regression](./08_regression_final/assignment_02_salary_prediction.ipynb)**
 
 _Classification models_
 
-- [09: LOGISTIC REGRESSION](./9_logistic_regression/)
-  - [Slides](./9_logistic_regression/gads23_09_logistic_regression.pdf)
-  - [Logistic Regression](./9_logistic_regression/logistic_regression.ipynb)
-  - [Insult Classification](./9_logistic_regression/insult_classification.ipynb)
+- [09: LOGISTIC REGRESSION](./09_logistic_regression/)
+  - [Slides](./09_logistic_regression/gads23_09_logistic_regression.pdf)
+  - [Logistic Regression](./09_logistic_regression/logistic_regression.ipynb)
+  - [Insult Classification](./09_logistic_regression/insult_classification.ipynb)
 
 - [10: STATISTICS & BAYES]()
-   - [Statistics & Probability recap](./9_logistic_regression/intro_to_statistics.ipynb)
+   - [Statistics & Probability recap](./10_probabilities/intro_to_statistics.ipynb)
 
 
-<!--   - [Slides](./8_statistics/gads23_08.pdf)
+<!--   - [Slides](./10_statistics/gads23_08.pdf)
   - Statstictis & Probability
   - Bayes Theorem
   - Bayes and regression
