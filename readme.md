@@ -32,26 +32,27 @@ You can use `git` to painlessly copy and update the course notes to your machine
 |  3 | Thu Jul 02 | Python, pandas                                      |
 |  4 | Tue Jul 07 | Presenting, visualizations, web scraping, APIs      |
 |    |            | _Assignment #1: Data exploration_                   |
-|    |            | **II. Modeling and Predicting**                     |
+|    |            | **II. Supervised Learning**                         |
 |  6 | Thu Jul 09 | Introduction to Machine Learning, kNN               |
 |  5 | Tue Jul 14 | Presentations + Linear Regression                   |
 |  7 | Thu Jul 16 | Regression & Regularization, lin. alg. _(AG OOO)_   |
-|  8 | Tue Jul 21 | Text processing, logistic regression   _(AG OOO)_   |
+|  8 | Tue Jul 21 | Regression & Text Processing  _(AG OOO)_            |
 |    |            | _Assignment #2: regression_                         |
-|  9 | Thu Jul 23 | Bayesian Statistics and Naive Bayes                 |
-| 10 | Tue Jul 28 | Decision Trees and Random Forests                   |
-| 11 | Thu Jul 30 | Review: regression and classification (competition) |
-|    |            | _Assignment #3: regression and classification_      |
+|  9 | Thu Jul 23 | Logistic Regression                                 |
+| 10 | Tue Jul 28 | Bayesian Statistics and Naive Bayes                 |
+| 11 | Thu Jul 30 | Decision Trees and Random Forests                   |
 |    |            | _Deadline project proposals_                        |
-| 12 | Tue Aug 04 | Ensemble Learning                                   |
-| 13 | Thu Aug 06 | K-Means Clustering                                  |
-| 14 | Tue Aug 11 | PCA and Unsupervised Learning                       |
-| 15 | Thu Aug 13 | Recommendation Systems                              |
+| 12 | Tue Aug 04 | Support Vector Machines / Ensemble Learning         |
+| 13 | Thu Aug 06 | Review: regression and classification (competition) |
+|    |            | _Assignment #3: regression and classification_      |
+|    |            | **III. Unsupervised Learning**                      |
+| 14 | Tue Aug 11 |  K-Means Clustering                                 |
+| 15 | Thu Aug 13 | PCA and Unsupervised Learning                       |
 |    |            | Presentations data explorations for projects        |
-|    |            | **III. Various**                                    |
-| 16 | Tue Aug 18 | Further Topics in Unsupervised Learning             |
-| 17 | Thu Aug 20 | Scaling: Hadoop, Spark                              |
-| 18 | Tue Aug 25 | _TBD: guest speakers, ethics, requests, etc._       |
+| 16 | Tue Aug 18 | Recommendation Systems                              |
+| 17 | Thu Aug 20 | Further Topics in Unsupervised Learning             |
+|    |            | **IV. Various**                                     |
+| 18 | Tue Aug 25 | Scaling                                             |
 | 19 | Thu Aug 27 | _TBD_ _(RN OOO?)_                                   |
 | 20 | Tue Sep 01 | _TBD_                                               |
 | 21 | Thu Sep 03 | _TBD_                                               |
@@ -59,7 +60,7 @@ You can use `git` to painlessly copy and update the course notes to your machine
 | 23 | Thu Sep 10 | Final presentations                                 |
 _OOO = Out of Office_
 
-- Additional topics may include hasing, Bloom filters, HyperLogLog, Item Response Theory, graph theory, A/B testing, ethics, etc.
+- Additional topics may include: AWS, scaling, hadoop, spark, vowpal wabbit, hasing, Bloom filters, HyperLogLog, Item Response Theory, graph theory, A/B testing, ethics, etc.
 - We'll invite guest speakers to come present in class. Let me know if there is a company you're particularly interested in.
 
 
@@ -115,7 +116,7 @@ _Regression models_
   - [Regularization](./07_regularization/regularization.ipynb)
 
 - [08: REGRESSION & TEXT PROCESSING](./08_regression_final/)
-  - No slides
+  - [One slide](./08_regression_final/gads23_08_regression_final.pdf)
   - [Text Processing](./08_regression_final/text_processing.ipynb)
   - **[Assignment #2: Linear regression](./08_regression_final/assignment_02_salary_prediction.ipynb)**
 
