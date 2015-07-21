@@ -130,7 +130,8 @@ _Classification models_
   - [Non-linear decision boundaries](./09_logistic_regression/non_linear_decision_boundaries.ipynb) _optional_
 
 - [10: STATISTICS & BAYES](.)
-   - [Statistics & Probability recap](./10_probabilities/intro_to_statistics.ipynb) _optional_
+  - [Slides](./10_bayes/gads23_10_bayes.pdf)
+  - [Statistics & Probability recap](./10_bayes/intro_to_statistics.ipynb) _optional_
 
 
 <!--   - [Slides](./10_statistics/gads23_08.pdf)
