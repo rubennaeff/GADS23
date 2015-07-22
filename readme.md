@@ -129,7 +129,7 @@ _Classification models_
   - [Area Under the ROC Curve](./09_logistic_regression/roc_curve.ipynb) _optional_
   - [Non-linear decision boundaries](./09_logistic_regression/non_linear_decision_boundaries.ipynb) _optional_
 
-- [10: STATISTICS & BAYES](.)
+- [10: STATISTICS & BAYES](./10_bayes/)
   - [Slides](./10_bayes/gads23_10_bayes.pdf)
   - [Statistics & Probability recap](./10_bayes/intro_to_statistics.ipynb) _optional_
 
@@ -142,11 +142,11 @@ _Classification models_
  -->
 
 
-<!-- - [09: DECISION TREES](./9_decision_trees/)
-  - [Slides](./9_decision_trees/gads23_09.pdf)
+<!-- - [11: DECISION TREES](./11_decision_trees/)
+  - [Slides](./11_decision_trees/gads23_09.pdf)
  -->
 
-<!-- - [10: COMPETITION](--some kaggle competition in class w/pizza and beer!--)
+<!-- - [13: COMPETITION](--some kaggle competition in class w/pizza and beer!--)
  -->
 
 <!-- **III. Unsupervised Learning** -->
