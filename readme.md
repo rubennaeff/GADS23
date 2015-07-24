@@ -44,10 +44,10 @@ You can use `git` to painlessly copy and update the course notes to your machine
 | 11 | Thu Jul 30 | Decision Trees and Random Forests                                      |
 |    |            | _Deadline project proposals_                                           |
 | 12 | Tue Aug 04 | Support Vector Machines / Ensemble Learning                            |
-| 13 | Thu Aug 06 | Review & competition _Guest Sandy Griffith, Flatiron Health_           |
+| 13 | Thu Aug 06 | Review & competition. _Guest Sandy Griffith, Flatiron Health_          |
 |    |            | _Assignment #3: classification_                                        |
 |    |            | **IV. Unsupervised Learning**                                          |
-| 14 | Tue Aug 11 | K-Means Clustering _Guest Bob Filbin, Crisis Text Line                 |
+| 14 | Tue Aug 11 | K-Means Clustering. _Guest Bob Filbin, Crisis Text Line_               |
 | 15 | Thu Aug 13 | PCA and Unsupervised Learning                                          |
 |    |            | Presentations data explorations for projects                           |
 | 16 | Tue Aug 18 | Recommendation Systems                                                 |
