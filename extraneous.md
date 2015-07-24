@@ -11,6 +11,10 @@ Things we discussed in class, which were not exactly relevant, but which will ma
 - [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and the [Git Game](http://pcottle.github.io/learnGitBranching/) for learning git
 
 
+### Data & Ethics
+- [When Algorithms Discriminate](http://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html) _NY Times_, July 9, 2015
+
+
 ### Bedtime reading
 - [NY Times Bits Blog](http://bits.blogs.nytimes.com/) and its [big data](http://bits.blogs.nytimes.com/category/data/) subsection (also [on Twitter](https://twitter.com/nytimesbits)). For example,
   - [Companies Move On From Big Data Technology Hadoop](http://bits.blogs.nytimes.com/2015/06/15/companies-are-moving-on-from-big-data-technology-hadoop/) June 15, 2015
@@ -18,19 +22,17 @@ Things we discussed in class, which were not exactly relevant, but which will ma
   - [Less Noise but More Money in Data Science](http://bits.blogs.nytimes.com/2015/04/28/less-noise-but-more-money-in-data-science/) April 28, 2015
 
 
-### Further Watching & Listening
-- [Captain America: Winter Soldier](https://www.youtube.com/watch?v=82RKQPgeYRs) in which the Zola algorithm is deployed in three military helicarriers, combining cutting-edge facial recognition, big data and classification, instantly executing possibly dangerous people.
-- [HBO's Silicon Valley](http://www.hbo.com/silicon-valley) Comedy series about founding a startup
-- [Startup Podcast](http://gimletmedia.com/show/startup/) About founding a podcast startup (SE01) and a dating site (SE02)
-- [Monty Python Flying Circus: Greece vs Germany](https://www.youtube.com/watch?v=ur5fGSBsfq8) random sketch. Why python is called python
+### Miscelaneous Tools
+- [Wordle](http://www.wordle.net/) Making word clouds
+- [Twitter API](https://pypi.python.org/pypi/twitter), [tweepy](http://www.tweepy.org/) and [many other libraries](https://dev.twitter.com/overview/api/twitter-libraries)
 
 
 ### Social
 - [NYC Data Science Meetups](http://www.meetup.com/find/events/?keywords=data+science&radius=5&userFreeform=New+York%2C+NY)
 
 
-### Tools
-
-- [Wordle](http://www.wordle.net/) Making word clouds
-- [Twitter API](https://pypi.python.org/pypi/twitter), [tweepy](http://www.tweepy.org/) and [many other libraries](https://dev.twitter.com/overview/api/twitter-libraries)
-
+### Further Watching & Listening
+- [Captain America: Winter Soldier](https://www.youtube.com/watch?v=82RKQPgeYRs) in which the Zola algorithm is deployed in three military helicarriers, combining cutting-edge facial recognition, big data and classification, instantly executing possibly dangerous people.
+- [HBO's Silicon Valley](http://www.hbo.com/silicon-valley) Comedy series about founding a startup
+- [Startup Podcast](http://gimletmedia.com/show/startup/) About founding a podcast startup (SE01) and a dating site (SE02)
+- [Monty Python Flying Circus: Greece vs Germany](https://www.youtube.com/watch?v=ur5fGSBsfq8) random sketch. Why python is called python
