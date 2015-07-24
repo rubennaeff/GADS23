@@ -14,6 +14,10 @@ This folder contains all the data sets we will be working with during the course
 
 **External downloads**
 - [Lehman baseball dataset](http://seanlahman.com/files/database/lahman-csv_2014-02-14.zip)
+- [Princeton salaries](http://data.princeton.edu/wws509/datasets/#salary)
+- [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+- [sklearn Boston house prices](http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
+- [Adzuna](http://www.adzuna.co.uk/)'s Salary Prediction: [datasets in notebook](https://github.com/ga-students/DAT-23-NYC/blob/master/08_regression_final/assignment_02_salary_prediction.ipynb) and [original](http://www.kaggle.com/c/job-salary-prediction)
 
 **Sources**
 - [McKinsey report on big data](http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation), May 2011
