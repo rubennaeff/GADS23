@@ -25,6 +25,7 @@ Please reach out to your instructional team if you think you won't make any of t
 Address a data-related problem in your professional field or a field you're interested in. Pick a subject that you're passionate about. If you're strongly interested in the subject matter it'll be more fun for you and you'll produce a better project!
 
 To stimulate your thinking, you can take a look at the following resources
+
 1. [Gallery of past GADS projects](https://gallery.generalassemb.ly/DS)
 1. [Another overview of past GADS projects](https://github.com/justmarkham/DAT-project-examples)
 1. Our own [data folder](./data/) lists many public data sources
