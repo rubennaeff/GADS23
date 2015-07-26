@@ -10,6 +10,12 @@ Things we discussed in class, which were not exactly relevant, but which will ma
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/course/ml)
 - [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and the [Git Game](http://pcottle.github.io/learnGitBranching/) for learning git
 
+#### Not vetted yet
+- [A History of Bayes' Theorem](http://lesswrong.com/lw/774/a_history_of_bayes_theorem/) non-mathematical history
+- [Bayesian statistics: principles and benefits](http://edepot.wur.nl/134085) Mathematical exploration: Bayes vs frequentists
+- [Naive Bayes vs Logistic Regression](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) Mathematical exploration
+
+
 
 ### Data & Ethics
 - [When Algorithms Discriminate](http://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html) _NY Times_, July 9, 2015
