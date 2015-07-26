@@ -9,13 +9,13 @@ You are responsible for creating a **project paper** and a **project presentatio
 
 Please complete the following steps:
 
-- [Choose your topic][]: a data related problem in a field you are interested in, or a Kaggle competition
-- [Vet your ideas][] with the instructional team - ASAP, ultimately **due Tue Aug 04** (lesson #12)
-- [Submit an outline][] for review - **due Tue Aug 11** (lesson #14)
-- [Initial data exploration][] presentation - **on Tue Aug 18** (lesson #16)
-- [Submit your work-in-progress][] - **due Tue Sept 1** (lesson #20)
-- [Final presentation][], for a non-tech audience - **on Thu Sept 10** (lesson #23)
-- [Submit your paper][] or annotated notebook (for tech audience) - **due Thu Sept 10** (lesson #23)
+- [Choose your topic](#choose-your-topic): a data related problem in a field you are interested in, or a Kaggle competition
+- [Vet your ideas](#vet-your-ideas) with the instructional team - ASAP, ultimately **due Tue Aug 04** (lesson #12)
+- [Submit an outline](#submit-an-outline) for review - **due Tue Aug 11** (lesson #14)
+- [Initial data exploration](#initial-data-exploration) presentation - **on Tue Aug 18** (lesson #16)
+- [Submit your work-in-progress](#submit-your-work-in-progress) - **due Tue Sept 1** (lesson #20)
+- [Final presentation](#final-presentation), for a non-tech audience - **on Thu Sept 10** (lesson #23)
+- [Submit your paper](#submit-your-paper) or annotated notebook (for tech audience) - **due Thu Sept 10** (lesson #23)
 
 Please reach out to your instructional team if you think you won't make any of these deadlines.
 
