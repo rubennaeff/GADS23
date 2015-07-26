@@ -43,7 +43,7 @@ Don't keep your thoughts to yourself: please talk frequently with your instructo
 Please check in as soon as possible with your instructors to see if your idea is achievable. Ideally, it is challenging yet small enough to do it well in a limited time span.
 
 
-### Submit your outline
+### Submit an outline
 
 Please submit a consice plan of your project
 - Main problem to solve
