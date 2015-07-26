@@ -102,6 +102,7 @@ _OOO = Out of Office_
 - [05: INTRODUCTION TO MACHINE LEARNING](./05_intro_to_ml/)
   - [Slides](./05_intro_to_ml/gads23_05_intro_to_ml.pdf)
   - [kNN Classification](./05_intro_to_ml/k_nearest_neighbors.ipynb) Iris dataset
+  - [kNN implementation](./05_intro_to_ml/knn.py) _optional_ exercise
 
 _Regression models_
 
@@ -125,15 +126,16 @@ _Classification models_
 
 - [09: LOGISTIC REGRESSION](./09_logistic_regression/)
   - [Slides](./09_logistic_regression/gads23_09_logistic_regression.pdf)
-  - [Logistic Regression](./09_logistic_regression/logistic_regression.ipynb) Iris dataset, precision/recall, decision boundaries; incl. exercises
+  - [Logistic Regression](./09_logistic_regression/logistic_regression.ipynb) Iris dataset, precision/recall, decision boundaries; exercises
   - [Insult Classification](./09_logistic_regression/insult_classification.ipynb) exercise
   - [Area Under the ROC Curve](./09_logistic_regression/roc_curve.ipynb) _optional_
   - [Non-linear decision boundaries](./09_logistic_regression/non_linear_decision_boundaries.ipynb) _optional_
 
 - [10: STATISTICS & BAYES](./10_bayes/)
   - [Slides](./10_bayes/gads23_10_bayes.pdf)
-  - [Statistics & Probability recap](./10_bayes/intro_to_statistics.ipynb) _optional_
-
+  - [Statistics & Probability recap](./10_bayes/intro_to_statistics.ipynb) basic recap _optional_
+  - [Bayesian coin flips](./10_bayes/bayesian_coin_tosses.ipynb) deep dive _optional_
+  - [Naive Bayes implementation](./10_bayes/naive_bayes_exercise.py) deep dive _optional_
 
 <!--   - [Slides](./10_statistics/gads23_08.pdf)
   - Statstictis & Probability
