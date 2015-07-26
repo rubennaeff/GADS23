@@ -1,18 +1,23 @@
 # Course Project
 
+The final project should represent significant original work applying data science techniques to an interesting problem. Final projects are **individual** attainments, but you should be talking frequently with your instructors and classmates about them.
+
+You are responsible for creating a **project paper** and a **project presentation**. The paper should be written with a technical audience in mind, while the presentation should target a more general audience. Optionally, it would be exciting to actually implement a "live" system based on your work, and to the degree this is possible within the time frame of the course, it is certainly encouraged!
+
+
 ### Overview
 
-The final project should represent significant original work applying data science techniques to an interesting problem. Final projects are individual attainments, but you should be talking frequently with your instructors and classmates about them.
+Please complete the following steps:
 
+- [Choose your topic][]: a data related problem in a field you are interested in, or a Kaggle competition
+- [Vet your ideas][] with the instructional team - ASAP, ultimately **due Tue Aug 04** (lesson #12)
+- [Submit an outline][] for review - **due Tue Aug 11** (lesson #14)
+- [Initial data exploration][] presentation - **on Tue Aug 18** (lesson #16)
+- [Submit your work-in-progress][] - **due Tue Sept 1** (lesson #20)
+- [Final presentation][], for a non-tech audience - **on Thu Sept 10** (lesson #23)
+- [Submit your paper][] or annotated notebook (for tech audience) - **due Thu Sept 10** (lesson #23)
 
-Please complete the following steps individually:
-
-- Address a data related problem in a field you are interested in, or choose a Kaggle competition
-- Vet your idea with the instructional team - ASAP, ultimately due
-- Submit an outline for review - due
-- Initial data exploration presentation - due
-- Final data science presentation, for a non-tech audience - due
-- Submit a paper or annotated notebook (for tech audience) - due
+Please reach out to your instructional team if you think you won't make any of these deadlines.
 
 
 ### Choosing a topic
@@ -31,14 +36,14 @@ Additionally (and optionally), you could spend some time outlining how your mode
 
 It doesn't really matter what you choose as long as there is plenty of data, and you are genuinely interested in it.
 
-### Vetting your idea
+### Vet your ideas
 
 Don't keep your thoughts to yourself: please talk frequently with your instructors and classmates about them!
 
 Please check in as soon as possible with your instructors to see if your idea is achievable. Ideally, it is challenging yet small enough to do it well in a limited time span.
 
 
-### Writing your outline
+### Submit your outline
 
 Please submit a consice plan of your project
 - Main problem to solve
@@ -54,12 +59,19 @@ Just to make sure your dataset is viable and rich enough, we will start a round 
 
 You could use this presentation to gather ideas from your classmates as well. Often the data turn out even more interesting than you already thought!
 
-Keep it short, though: 2-5 minutes is enough. We'll spend probably plenty of time discussing it in the Q&A.
+You may keep it short: 2-5 minutes is enough. We'll spend probably plenty of time discussing it in the Q&A.
+
+
+### Submit your work-in-progress
+
+Submit a rough copy of your work so far, including code, narrative, and visualizations.  An annotated ipython notebook would suffice.  Briefly describe your successess and challenges, and explain next steps. Your peers and instructors will provide feedback.
+
+We might set up some code reviews. Each students will review two submissions to provide feedback, tips and tricks. It's not only usefull to get suggestions from peers, but reviewing other people's code goes a long way as well.
 
 
 ### Final presentation
 
-The final presentation is the center piece of the course, and will take place on the last day of class. give Aim for a **5-7 minute** talk that summarizes the results in an engaging way. The presentations should target a **non-technical audience** and serve the purpose of having students practice the highly sought after communication skills that data scientists need. You could think of students of GA's other courses as your audience.
+The final presentation is the center piece of the course, and will take place on the last day of class. give Aim for a **5-7 minute** talk that summarizes the results in an engaging way. The presentations should target a **non-technical audience** and serve the purpose of having students practice the highly sought after communication skills that data scientists need. You could think of students of GA's other courses as your audience. Focus on creating an engaging, clear, and informative presentation that tells the story of your project.
 
 What to cover in presentation:
 - Overview of problem and hypothesis
@@ -84,11 +96,16 @@ Students are also required to submit a short paper or a well-annotated ipython n
 What to cover in paper:
 - Description of problem and hypothesis
 - Detailed description your data set
+  - Description of your dataset and how it was obtained
   - Some basic statistics (# of rows, some aggregates)
-  - How did you decide what features to use in your analysis?
-  - What challenges did you face in terms of obtaining and organizing the data? 
   - What did you learn in the initial data exploration phase?
-- Describe what kinds of statistical methods you used, and perhaps others you considered but did not use, and how you decided what to use. Think of regression, classification, recommendations, cross-validation, overfitting, etc.
+  - How did you decide what features to use in your analysis?
+  - Description of any pre-processing steps you took
+- Detailed description your models
+  - Describe what kinds of statistical methods and machine learning algorithms you used
+  - How did you validate your models?
+  - What other models did you consider, and why didn't you proceed with those?
+  - Some suggested keywords are regression, classification, recommendations, cross-validation, overfitting, etc.
 - What business applications do your findings have? 
 - _Optionally_, describe how your analyses would be implemented in a live system (e.g., a personal recommendation system or a tweetbot). Where would the data live, how would you represent your results, how would end-users access it? When would your model learn new parameters? Describe in detail the pipeline from data ingestion to end-user experience.
 
@@ -101,103 +118,29 @@ What to cover in paper:
 
 
 
+## Example
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Project Deliverables
-
-You are responsible for creating a **project paper** and a **project presentation**. The paper should be written with a technical audience in mind, while the presentation should target a more general audience. You will deliver your presentation (including slides) during the final week of class, though you are also encouraged to present it to other audiences.
-
-Here are the components you should aim to cover in your paper:
-
-* Problem statement and hypothesis
-* Description of your data set and how it was obtained
-* Description of any pre-processing steps you took
-* What you learned from exploring the data, including visualizations
-* How you chose which features to use in your analysis
-* Details of your modeling process, including how you selected your models and validated them
-* Your challenges and successes
-* Possible extensions or business applications of your project
-* Conclusions and key learnings
-
-Your presentation should cover these components with less breadth and depth. Focus on creating an engaging, clear, and informative presentation that tells the story of your project.
-
-Your project paper, presentation slides, and code should be included a **GitHub repository**, along with all of your data and a data dictionary. If it's not possible or practical to include your data, you should link to your data source and provide a sample of the data (anonymized if necessary).
-
-Optionally, it would be exciting to actually implement a "live" system based on your work, and to the degree this is possible within the time frame of the course, it is certainly encouraged!
-
-
-## Milestones
-
-### Week 3 (10/21): Question and Data Set(s)
-
-What is the question you hope to answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose this topic?
-
-Example:
+#### Outline
 * I'm planning to predict passenger survival on the Titanic.
-* I have Kaggle's Titanic dataset with 10 passenger characteristics.
-* I know that many of the fields have missing values, that some of the text fields are messy and will require cleaning, and that about 38% of the passengers in the training set survive.
 * I chose this topic because I'm fascinated by the history of the Titanic.
-
-### Week 5 (11/4): Data Exploration and Analysis Plan
-
-What data have you gathered, and how did you gather it? What steps have you taken to explore the data? Which areas of the data have you cleaned, and which areas still need cleaning? What insights have you gained from your exploration? Will you be able to answer your question with this data, or do you need to gather more data (or adjust your question)? How might you use modeling to answer your question?
-
-Example:
-* I've created visualizations and numeric summaries to explore how survivability differs by passenger characteristic, and it appears that gender and class have a large role in determining survivability.
-* I estimated missing values for age using the titles provided in the Name column.
-* I created features to represent "spouse on board" and "child on board" by further analyzing names.
-* I think that the fare and ticket columns might be useful for predicting survival, but I still need to clean those columns.
-* I analyzed the differences between the training and testing sets, and found that the average fare was slightly higher in the testing set.
+* I feel everyone knows this competition, so I have become curious.
+* I am an extremely ambitious person and would like to beat the leaderboard right away.
+* At a first sight, the data looks very structured, and the problem is very straightforward, so I think this would be perfect for my first steps as a data scientist.
 * Since I'm predicting a binary outcome, I plan to use a classification method such as logistic regression to make my predictions.
 
-### Week 8 (11/25): First Draft Due
+#### Data Exploration
+* I have Kaggle's Titanic dataset with 10 passenger characteristics.
+* The dataset has less than 900 rows, which I think is enough for some nice insights, but not too much to be overwhelming. I should be careful not to add too many features, though.
+* I know that many of the fields have missing values, that some of the text fields are messy and will require cleaning, and that about 38% of the passengers in the training set survive.
+* I've created visualizations and numeric summaries to explore how survivability differs by passenger characteristic, and it appears that gender and class have a large role in determining survivability.
+* I think that the fare and ticket columns might be useful for predicting survival, but I still need to clean those columns.
+* I analyzed the differences between the training and testing sets, and found that the average fare was slightly higher in the testing set.
 
-Submit a rough copy of your work so far, including code, narrative, and visualizations. Describe your successess and challenges, and provide a detailed plan going forwards. Your peers and instructors will provide feedback.
+#### Work-in-progress
+* I estimated missing values for age using the titles provided in the Name column.
+* I created features to represent "spouse on board" and "child on board" by further analyzing names.
+* My logistic regression models never reached a satisfying accuracy, as they all stayed under 56%. My precision and recall were even lower than that, around 50% and 35%, respectively.
+* Looking at these visualizations, I think my data cannot be separated by a straight line. So I am considering applying a second degree polynomial before applying a logistic regression, as we did in lesson #9 in the [Non-linear decision boundaries notebook](./09_logistic_regression/non_linear_decision_boundaries.ipynb).
+* I tried Logistic Regression and Naive Bayes, but I still want to give Random Forest a shot. I see structure in the data, but it's not very linear, I think.
 
-### Week 10 (12/9): Second Draft Due
-
-Submit a more polished version of your work, including drafts of your paper and your presentation. Your instructors will provide feedback.
-
-### Week 11 (12/16): Presentation
-
-Deliver your project presentation and submit all required deliverables (paper, slides, code, data, and data dictionary).
