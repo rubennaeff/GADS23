@@ -128,14 +128,14 @@ _Classification models_
   - [Slides](./09_logistic_regression/gads23_09_logistic_regression.pdf)
   - [Logistic Regression](./09_logistic_regression/logistic_regression.ipynb) Iris dataset, precision/recall, decision boundaries; exercises
   - [Insult Classification](./09_logistic_regression/insult_classification.ipynb) exercise
-  - [Area Under the ROC Curve](./09_logistic_regression/roc_curve.ipynb) _optional_
+  - [Area Under the ROC Curve](./09_logistic_regression/roc_curve.ipynb) _optional_ deep dive
   - [Non-linear decision boundaries](./09_logistic_regression/non_linear_decision_boundaries.ipynb) _optional_
 
 - [10: STATISTICS & BAYES](./10_bayes/)
   - [Slides](./10_bayes/gads23_10_bayes.pdf)
-  - [Statistics & Probability recap](./10_bayes/intro_to_statistics.ipynb) basic recap _optional_
+  - [Statistics & Probability recap](./10_bayes/intro_to_statistics.ipynb) _optional_ basic recap
   - [Bayesian coin flips](./10_bayes/bayesian_coin_tosses.ipynb) deep dive _optional_
-  - [Naive Bayes implementation](./10_bayes/naive_bayes_exercise.py) deep dive _optional_
+  - [Naive Bayes implementation](./10_bayes/naive_bayes_exercise.py) exercise
 
 <!--   - [Slides](./10_statistics/gads23_08.pdf)
   - Statstictis & Probability
