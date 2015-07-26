@@ -36,10 +36,10 @@ You can use `git` to painlessly copy and update the course notes to your machine
 |  6 | Thu Jul 09 | Introduction to Machine Learning, kNN                                  |
 |  5 | Tue Jul 14 | Presentations + Linear Regression                                      |
 |  7 | Thu Jul 16 | Regression & Regularization, linear algebra, numpy _(AG OOO)_          |
-|  8 | Tue Jul 21 | Regression & Text Processing  _(AG OOO)_                               |
+|  8 | Tue Jul 21 | Regression & Text Processing                                           |
 |    |            | _Assignment #2: regression_                                            |
 |    |            | **III. Supervised Learning: Classification**                           |
-|  9 | Thu Jul 23 | Logistic Regression                                                    |
+|  9 | Thu Jul 23 | Logistic Regression _(AG OOO)_                                         |
 | 10 | Tue Jul 28 | Bayesian Statistics & Naive Bayes. _Guest Rohit Acharya, First Access_ |
 | 11 | Thu Jul 30 | Decision Trees and Random Forests                                      |
 |    |            | _Deadline project proposals_                                           |
@@ -52,7 +52,7 @@ You can use `git` to painlessly copy and update the course notes to your machine
 |    |            | Presentations data explorations for projects                           |
 | 16 | Tue Aug 18 | Recommendation Systems                                                 |
 | 17 | Thu Aug 20 | Further Topics in Unsupervised Learning                                |
-|    |            | **IV. Various**                                                        |
+|    |            | **V. Various**                                                         |
 | 18 | Tue Aug 25 | Scaling                                                                |
 | 19 | Thu Aug 27 | _TBD_ _(RN OOO)_                                                       |
 | 20 | Tue Sep 01 | _TBD_                                                                  |
