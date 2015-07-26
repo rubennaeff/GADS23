@@ -60,7 +60,7 @@ Just to make sure your dataset is viable and rich enough, we will start a round 
 
 You could use this presentation to gather ideas from your classmates as well. Often the data turn out even more interesting than you already thought!
 
-You may keep it short: 2-5 minutes is enough. We'll spend probably plenty of time discussing it in the Q&A.
+You may keep it short: **2-5 minutes** is enough, but it's fine if you go a little longer. We'll spend probably plenty of time discussing it in the Q&A.
 
 
 ### Submit your work-in-progress
