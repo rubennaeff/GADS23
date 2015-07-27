@@ -110,7 +110,7 @@ _Regression models_
   - [Slides](./06_linear_regression/gads23_06_linear_regression.pdf)
   - [Introduction to numpy](./06_linear_regression/intro_to_numpy.ipynb) _optional_
   - [Linear Algebra recap](./06_linear_regression/linear_algebra.ipynb) _optional_
-  - [Linear Regression](./06_linear_regression/linear_regression.ipynb) Princeton salaries, statsmodels, seaborn; Boston house prices
+  - [Linear Regression](./06_linear_regression/linear_regression.ipynb) `statsmodels`, `patsy`, `seaborn`; salaries, house prices
   - [3D plot in Python](./06_linear_regression/3d_plot.ipynb) _example as reference_
 
 - [07: POLYNOMIAL REGRESSION & REGULARIZATION](./07_regularization/)
@@ -119,7 +119,7 @@ _Regression models_
 
 - [08: REGRESSION & TEXT PROCESSING](./08_regression_final/)
   - [One slide](./08_regression_final/gads23_08_regression_final.pdf)
-  - [Text Processing](./08_regression_final/text_processing.ipynb) Amazon movie reviews (demo)
+  - [Text Processing](./08_regression_final/text_processing.ipynb) Amazon movie reviews, `CountVectorizer` (demo)
   - **[Assignment #2: Linear Regression](./08_regression_final/assignment_02_salary_prediction.ipynb) Salary Prediction**
 
 _Classification models_
