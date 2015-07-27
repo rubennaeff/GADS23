@@ -133,9 +133,11 @@ _Classification models_
 
 - [10: STATISTICS & BAYES](./10_bayes/)
   - [Slides](./10_bayes/gads23_10_bayes.pdf)
+  - [20 Newsgroups](./10_bayes/20_newsgroups.ipynb) `CountVectorizer`, `TfidfVectorizer`, `MultinomialNB` (demo)
+  - [Naive Bayes implementation](./10_bayes/naive_bayes_exercise.py) exercise
   - [Statistics & Probability recap](./10_bayes/intro_to_statistics.ipynb) _optional_ basic recap
   - [Bayesian coin flips](./10_bayes/bayesian_coin_tosses.ipynb) deep dive _optional_
-  - [Naive Bayes implementation](./10_bayes/naive_bayes_exercise.py) exercise
+
 
 <!--   - [Slides](./10_statistics/gads23_08.pdf)
   - Statstictis & Probability

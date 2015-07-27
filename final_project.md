@@ -26,8 +26,9 @@ Address a data-related problem in your professional field or a field you're inte
 
 To stimulate your thinking, you can take a look at the following resources
 
-1. [Gallery of past GADS projects](https://gallery.generalassemb.ly/DS)
-1. [Another overview of past GADS projects](https://github.com/justmarkham/DAT-project-examples)
+1. [Selected projects](#selected-projects) listed below
+1. GA's public [Gallery of projects](https://gallery.generalassemb.ly/DS)
+1. Another [overview of past GADS projects](https://github.com/justmarkham/DAT-project-examples)
 1. Our own [data folder](./data/) lists many public data sources
 1. [Kaggle competitions](https://www.kaggle.com/competitions)
 
@@ -85,8 +86,8 @@ What to cover in presentation:
 |-------------|:-----------------------------------------------------------------------|
 | Excellent   | Student's presentation is engaging, clear, and informative, describing the project, approach, and conclusions, and is suitable for a non-technical audience. |
 | Good        | Student's presentation is as above but is either inadequately engaging, clear, or informative. |
-| Fair        | Student's presentation fails on two out of three of engaging, clear, and informative. 
-| Poor        | Student's presentation fails on all three or is off-topic with respect to his or her paper. 
+| Fair        | Student's presentation fails on two out of three of engaging, clear, and informative. |
+| Poor        | Student's presentation fails on all three or is off-topic with respect to his or her paper. |
 
 
 
@@ -119,8 +120,17 @@ What to cover in paper:
 
 
 
-## Example
+## Examples
 
+
+### Selected projects
+
+- [Predicting Kickstarter](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/kickstarter_presentation.pdf) Ruben's own final project
+- [VoteLikeYouTweet](http://votelikeyoutweet.com/)Classifying tweets according to political engagement (by Ruben)
+- [Haterz gon' hate](http://haternews.herokuapp.com/?network=twitter) Computing hater score of your tweets (or news groups or reddit posts) by Kevin McAlear
+
+
+### Example milestones
 
 #### Outline
 * I'm planning to predict passenger survival on the Titanic.
