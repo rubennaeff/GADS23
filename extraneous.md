@@ -8,7 +8,9 @@ Things we discussed in class, which were not exactly relevant, but which will ma
 - [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
 - [Khan Academy: Linear Regression and Correlation](https://www.khanacademy.org/math/probability/regression/regression-correlation)
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/course/ml)
+- [Coursera: Introduction to Data Science by Bill Howe](https://www.coursera.org/course/datasci)
 - [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and the [Git Game](http://pcottle.github.io/learnGitBranching/) for learning git
+- [Random Forests intro on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests)
 
 #### Not vetted yet
 - [A History of Bayes' Theorem](http://lesswrong.com/lw/774/a_history_of_bayes_theorem/) non-mathematical history
