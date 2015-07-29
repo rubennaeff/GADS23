@@ -4,7 +4,7 @@
 - [Daniel Demoray](mailto:ddemoray@ga.co), producer
 - [Ruben Naeff](mailto:rubennaeff@gmail.com), instructor
 - [Antoine Grant](mailto:antoinejgrant@gmail.com), expert in residence
-- [egroup](mailto:dat-nyc-23@ga-groups.com) & [Slack channel](https://ganyceveningcourses.slack.com/messages/data-science-23/), everyone
+- [egroup](mailto:dat-nyc-23@ga-groups.com) & [Slack channel](https://ganyceveningcourses.slack.com/messages/data-science-23/), [Google Drive folder](https://drive.google.com/drive/folders/0B4Z0Mpa9wB9rfm5PQWhXRUVZRnQzTFY5a1I0d0hsZnZ4MnkxVWV0Q1psbUdBX2RUMVBsZ3M), everyone
 
 Please do not hesitate to contact any of us!
 
@@ -19,7 +19,7 @@ Please do not hesitate to contact any of us!
 after each class**
 
 
-You can use `git` to painlessly copy and update the course notes to your machine. Please see the section [Cloning the repo](./1_intro_to_data_science/setup.md#cloning-the-repo).
+You can use `git` to painlessly copy and update the course notes to your machine. Please see the section [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-repo).
 
 
 ## Syllabus (tentative)
@@ -40,18 +40,18 @@ You can use `git` to painlessly copy and update the course notes to your machine
 |    |            | _Assignment #2: regression_                                            |
 |    |            | **III. Supervised Learning: Classification**                           |
 |  9 | Thu Jul 23 | Logistic Regression _(AG OOO)_                                         |
-| 10 | Tue Jul 28 | Bayesian Statistics & Naive Bayes. _Guest Rohit Acharya, First Access_ |
-| 11 | Thu Jul 30 | Decision Trees and Random Forests                                      |
+| 10 | Tue Jul 28 | Review Assignment #2. _Guest Rohit Acharya, First Access_              |
+| 11 | Thu Jul 30 | Bayesian Statistics & Naive Bayes.                                     |
 |    |            | _Deadline project proposals_                                           |
-| 12 | Tue Aug 04 | Support Vector Machines / Ensemble Learning                            |
-| 13 | Thu Aug 06 | Review & competition. _Guest Sandy Griffith, Flatiron Health_          |
+| 12 | Tue Aug 04 | Decision Trees and Random Forests                                      |
+| 13 | Thu Aug 06 | Support Vector Machines / Ensemble Learning _Guest Sandy Griffith, Flatiron Health_   |
 |    |            | _Assignment #3: classification_                                        |
 |    |            | **IV. Unsupervised Learning**                                          |
-| 14 | Tue Aug 11 | K-Means Clustering. _Guest Bob Filbin, Crisis Text Line_               |
-| 15 | Thu Aug 13 | PCA and Unsupervised Learning                                          |
+| 14 | Tue Aug 11 | Review & competition. _Guest Bob Filbin, Crisis Text Line_  |
+| 15 | Thu Aug 13 | K-Means Clustering.  |
 |    |            | Presentations data explorations for projects                           |
-| 16 | Tue Aug 18 | Recommendation Systems                                                 |
-| 17 | Thu Aug 20 | Further Topics in Unsupervised Learning                                |
+| 16 | Tue Aug 18 | PCA and Unsupervised Learning  |
+| 17 | Thu Aug 20 | Recommendation Systems & Further Topics in Unsupervised Learning |
 |    |            | **V. Various**                                                         |
 | 18 | Tue Aug 25 | Scaling                                                                |
 | 19 | Thu Aug 27 | _TBD_ _(RN OOO)_                                                       |
@@ -131,12 +131,18 @@ _Classification models_
   - [Area Under the ROC Curve](./09_logistic_regression/roc_curve.ipynb) _optional_ deep dive
   - [Non-linear decision boundaries](./09_logistic_regression/non_linear_decision_boundaries.ipynb) _optional_
 
-- [10: STATISTICS & BAYES](./10_bayes/)
-  - [Slides](./10_bayes/gads23_10_bayes.pdf)
-  - [20 Newsgroups](./10_bayes/20_newsgroups.ipynb) `CountVectorizer`, `TfidfVectorizer`, `MultinomialNB` (demo)
-  - [Naive Bayes implementation](./10_bayes/naive_bayes_exercise.py) exercise
-  - [Statistics & Probability recap](./10_bayes/statistics_recap.ipynb) _optional_ basic recap
-  - [Bayesian coin flips](./10_bayes/bayesian_coin_tosses.ipynb) deep dive _optional_
+- [10: REVIEW](./10_review/)
+  - [Slides](./10_review/gads23_10_exit_tickets_review.pdf) Exit tickets review
+  - [Review Assignment #2](./08_regression_final/assignment_02_salary_prediction_solutions.ipynb) and [Leaderboard](./08_regression_final/assignment_02_salary_prediction_submissions.ipynb)
+  - [Rohit Acharya, Chief Data Scientist at First Access](./guest_speakers.md), guest speaker
+  - [Final project announcement](./10_review/gads23_10_bayes.pdf) guidelines, deadlines, sample projects
+
+- [11: STATISTICS & BAYES](./11_bayes/)
+  - [Slides](./11_bayes/gads23_10_bayes.pdf)
+  - [20 Newsgroups](./11_bayes/20_newsgroups.ipynb) `CountVectorizer`, `TfidfVectorizer`, `MultinomialNB` (demo)
+  - [Naive Bayes implementation](./11_bayes/naive_bayes_exercise.py) exercise
+  - [Statistics & Probability recap](./11_bayes/statistics_recap.ipynb) _optional_ basic recap
+  - [Bayesian coin flips](./11_bayes/bayesian_coin_tosses.ipynb) deep dive _optional_
 
 
 <!--   - [Slides](./10_statistics/gads23_08.pdf)
