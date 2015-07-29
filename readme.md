@@ -138,10 +138,10 @@ _Classification models_
   - [Slides](./10_review/gads23_10_exit_tickets_review.pdf) Exit tickets review
   - [Review Assignment #2](./08_regression_final/assignment_02_salary_prediction_solutions.ipynb) and [Leaderboard](./08_regression_final/assignment_02_salary_prediction_submissions.ipynb)
   - [Rohit Acharya, Chief Data Scientist at First Access](./guest_speakers.md), guest speaker
-  - [Final project announcement](./10_review/gads23_10_bayes.pdf) guidelines, deadlines, sample projects
+  - [Final project announcement](./final_project.md) guidelines, deadlines, sample projects
 
 - [11: STATISTICS & BAYES](./11_bayes/)
-  - [Slides](./11_bayes/gads23_10_bayes.pdf)
+  - [Slides](./11_bayes/gads23_11_bayes.pdf)
   - [20 Newsgroups](./11_bayes/20_newsgroups.ipynb) `CountVectorizer`, `TfidfVectorizer`, `MultinomialNB` (demo)
   - [Naive Bayes implementation](./11_bayes/naive_bayes_exercise.py) exercise
   - [Statistics & Probability recap](./11_bayes/statistics_recap.ipynb) _optional_ basic recap
