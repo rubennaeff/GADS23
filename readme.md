@@ -62,8 +62,8 @@ You can use `git` to painlessly copy and update the course notes to your machine
 | 23 | Thu Sep 10 | Final presentations
 _OOO = Out of Office_
 
-- Additional topics may include: neural nets, AWS, scaling, hadoop, spark, vowpal wabbit, hasing, Bloom filters, HyperLogLog, Item Response Theory, graph theory, A/B testing, ethics, etc.
-- We'll invite guest speakers to come present in class. Let me know if there is a company you're particularly interested in.
+- Additional topics may include: Neural Nets, Markov Chain Monte Carlo, Multi Armed Bandits, Gaussian Processes, Item Response Theory, Graph Theory, Hashing, Bloom filters, HyperLogLog, Vowpal Wabbit, Torch, MapReduce, AWS, EC2, Hadoop, Spark, A/B testing, ethics, etc.
+- We'll invite guest speakers to present in class. Let me know if there is a company you're particularly interested in.
 
 
 ## Resources
