@@ -40,9 +40,7 @@ It doesn't really matter what you choose as long as there is plenty of data, and
 
 ### Vet your ideas
 
-Don't keep your thoughts to yourself: please talk frequently with your instructors and classmates about them!
-
-Please check in as soon as possible with your instructors to see if your idea is achievable. Ideally, it is challenging yet small enough to do it well in a limited time span.
+Don't keep your thoughts to yourself: please talk frequently with your instructors and classmates about them! Please check in as soon as possible with your instructors to see if your idea is achievable. Ideally, it is challenging yet small enough to do it well in a limited time span.
 
 
 ### Submit an outline
