@@ -26,13 +26,12 @@ You can use `git` to painlessly copy and update the course notes to your machine
 
 |  # | Date       | Topic                                                                  |
 |---:|:-----------|:-----------------------------------------------------------------------|
-|    |            | **I. Data Exploration (Analytics)**                                    |
+|    |            | **I. Data Exploration (Analytics)**
 |  1 | Thu Jun 25 | Introduction to data science, Unix                                     |
 |  2 | Tue Jun 30 | Databases, SQL, Python                                                 |
 |  3 | Thu Jul 02 | Python, pandas                                                         |
 |  4 | Tue Jul 07 | Presenting, visualizations, web scraping, APIs
-_Assignment #1: Data exploration_ |
-|    |            |
+|    |            | _Assignment #1: Data exploration_
 |    |            | **II. Supervised Learning: Regression**                                |
 |  6 | Thu Jul 09 | Introduction to Machine Learning, kNN                                  |
 |  5 | Tue Jul 14 | Presentations + Linear Regression                                      |
@@ -68,8 +67,10 @@ _OOO = Out of Office_
 
 ## Resources
 
+- [Final Project](./final_project.md)
+- [Guest speakers](./guest_speakers.md)
 - [All datasets](./data/)
-- [Extraneous](./extraneous.md) (all irrelevant things we discussed)
+- [Extraneous](./extraneous.md) both relevant and irrelevant
 
 
 **I. Data Exploration (Analytics)**
@@ -108,6 +109,7 @@ _OOO = Out of Office_
 _Regression models_
 
 - [06: LINEAR REGRESSION](./06_linear_regression/)
+  - Presentations Assignment #1
   - [Slides](./06_linear_regression/gads23_06_linear_regression.pdf)
   - [Introduction to numpy](./06_linear_regression/intro_to_numpy.ipynb) _optional_
   - [Linear Algebra recap](./06_linear_regression/linear_algebra.ipynb) _optional_
@@ -146,15 +148,8 @@ _Classification models_
   - [Bayesian coin flips](./11_bayes/bayesian_coin_tosses.ipynb) deep dive _optional_
 
 
-<!--   - [Slides](./10_statistics/gads23_08.pdf)
-  - Statstictis & Probability
-  - Bayes Theorem
-  - Bayes and regression
-  - Naive Bayes
- -->
 
-
-<!-- - [11: DECISION TREES](./11_decision_trees/)
+<!-- - [12: DECISION TREES](./11_decision_trees/)
   - [Slides](./11_decision_trees/gads23_09.pdf)
  -->
 
