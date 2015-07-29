@@ -30,8 +30,9 @@ You can use `git` to painlessly copy and update the course notes to your machine
 |  1 | Thu Jun 25 | Introduction to data science, Unix                                     |
 |  2 | Tue Jun 30 | Databases, SQL, Python                                                 |
 |  3 | Thu Jul 02 | Python, pandas                                                         |
-|  4 | Tue Jul 07 | Presenting, visualizations, web scraping, APIs                         |
-|    |            | _Assignment #1: Data exploration_                                      |
+|  4 | Tue Jul 07 | Presenting, visualizations, web scraping, APIs
+_Assignment #1: Data exploration_ |
+|    |            |
 |    |            | **II. Supervised Learning: Regression**                                |
 |  6 | Thu Jul 09 | Introduction to Machine Learning, kNN                                  |
 |  5 | Tue Jul 14 | Presentations + Linear Regression                                      |
@@ -44,7 +45,7 @@ You can use `git` to painlessly copy and update the course notes to your machine
 | 11 | Thu Jul 30 | Bayesian Statistics & Naive Bayes.                                     |
 |    |            | _Deadline project proposals_                                           |
 | 12 | Tue Aug 04 | Decision Trees and Random Forests                                      |
-| 13 | Thu Aug 06 | Support Vector Machines / Ensemble Learning _Guest Sandy Griffith, Flatiron Health_   |
+| 13 | Thu Aug 06 | SVM / Ensemble Learning _Guest Sandy Griffith, Flatiron Health_   |
 |    |            | _Assignment #3: classification_                                        |
 |    |            | **IV. Unsupervised Learning**                                          |
 | 14 | Tue Aug 11 | Review & competition. _Guest Bob Filbin, Crisis Text Line_  |
