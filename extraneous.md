@@ -1,23 +1,21 @@
 # Extraneous
 
-Things we discussed in class, which were not exactly relevant, but which will make your live as freshly-minted data scientist more pleasant.
-
 
 ### Further studying
 - [Linear Algebra Explained In Four Pages](http://cnd.mcgill.ca/~ivan/miniref/linear_algebra_in_4_pages.pdf)
 - [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
 - [Khan Academy: Linear Regression and Correlation](https://www.khanacademy.org/math/probability/regression/regression-correlation)
-- [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/course/ml)
-- [Coursera: Introduction to Data Science by Bill Howe](https://www.coursera.org/course/datasci)
+- [Coursera: Machine Learning](https://www.coursera.org/course/ml) by Andrew Ng
+- [Coursera: Introduction to Data Science](https://www.coursera.org/course/datasci) by Bill Howe
 - [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and the [Git Game](http://pcottle.github.io/learnGitBranching/) for learning git
 - [Random Forests intro on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests)
+- Google's orginal [MapReduce paper (2004)](http://research.google.com/archive/mapreduce.html)
 
-#### Not vetted yet
+**Not vetted yet**
+
 - [A History of Bayes' Theorem](http://lesswrong.com/lw/774/a_history_of_bayes_theorem/) non-mathematical history
 - [Bayesian statistics: principles and benefits](http://edepot.wur.nl/134085) Mathematical exploration: Bayes vs frequentists
 - [Naive Bayes vs Logistic Regression](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) Mathematical exploration
-
-
 
 ### Data & Ethics
 - [When Algorithms Discriminate](http://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html) _NY Times_, July 9, 2015
@@ -40,6 +38,9 @@ Things we discussed in class, which were not exactly relevant, but which will ma
 
 
 ### Further Watching & Listening
+
+Things we discussed in class, which were not exactly relevant, but which will make your live as freshly-minted data scientist more pleasant.
+
 - [Captain America: Winter Soldier](https://www.youtube.com/watch?v=82RKQPgeYRs) in which the Zola algorithm is deployed in three military helicarriers, combining cutting-edge facial recognition, big data and classification, instantly executing possibly dangerous people.
 - [HBO's Silicon Valley](http://www.hbo.com/silicon-valley) Comedy series about founding a startup
 - [Startup Podcast](http://gimletmedia.com/show/startup/) About founding a podcast startup (SE01) and a dating site (SE02)

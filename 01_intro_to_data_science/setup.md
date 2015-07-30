@@ -2,14 +2,13 @@
 
 There are many utilities that may be useful throughout this course to manage your environment. These include:
 
-1. Python - Python is currently on version 3.4
+1. Python - We'll use Python 2.7, but you're welcome to use Python 3
 2. [Sublime Text](http://www.sublimetext.com/)
 3. git - a version control system to manage code you write
 4. brew (Mac only) - a package manager to install software and manage updates
 5. cygwin (Windows only) - an alternative command line enviroment to mimic a Unix enviroment
-6. brew (Mac only) - a package manager to install software and manage updates
 
-Note: If you have issues with the brew install because of an XCode error, you may need to upgrade XCode or install XCode Developer tools.
+Note: If you have issues with the brew install because of an XCode error, you may need to upgrade XCode or install XCode Developer tools. Open up App Store, and look in the top right for the updates section, and search for XCode.  If it's not listed under updates, you might need to install it from scratch.
 
 ## Anaconda Python
 
@@ -49,10 +48,7 @@ If you are using Python actively for other purpose, you may not want to upgrade 
 
 ## Installing Homebrew
 
-Brew is a fantastic package manager for Mac that will allow you to easily install packages.
-http://mxcl.github.io/homebrew/
-
-To install:
+[Brew](http://mxcl.github.io/homebrew/) is a fantastic package manager for Mac that will allow you to easily install packages. To install, type:
 
 ```sh
 ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
@@ -68,8 +64,7 @@ Git is a very popular and efficient open source version control system, which ma
 brew install git
 ```
 
-Alternatively, you can choose an OS based installation from this guide:  http://git-scm.com/book/en/Getting-Started-Installing-Git
-On Windows, there's an installer available here: http://git-scm.com/download/win
+Alternatively, you can choose an OS-based installation from [this guide](http://git-scm.com/book/en/Getting-Started-Installing-Git). On Windows, there's an installer available [here](http://git-scm.com/download/win).
 
 ### Cloning the repo
 

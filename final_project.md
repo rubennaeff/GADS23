@@ -124,7 +124,7 @@ What to cover in paper:
 ### Selected projects
 
 - [Predicting Kickstarter](https://github.com/justmarkham/DAT-project-examples/blob/master/pdf/kickstarter_presentation.pdf) Ruben's own final project
-- [VoteLikeYouTweet](http://votelikeyoutweet.com/)Classifying tweets according to political engagement (by Ruben)
+- [VoteLikeYouTweet](http://votelikeyoutweet.com/) Classifying tweets according to political engagement (by Ruben)
 - [Haterz gon' hate](http://haternews.herokuapp.com/?network=twitter) Computing hater score of your tweets (or news groups or reddit posts) by Kevin McAlear
 
 

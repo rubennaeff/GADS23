@@ -18,8 +18,7 @@ Please do not hesitate to contact any of us!
 [exit ticket](https://docs.google.com/forms/d/1-3HioTz5qPSaqvDvUw1xXSQjGsgD9OVMtVaVWhPjgcg/viewform)
 after each class**
 
-
-You can use `git` to painlessly copy and update the course notes to your machine. Please see the section [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-repo).
+Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-repo) for how to copy and update the course notes to your laptop.
 
 
 ## Syllabus (tentative)
@@ -124,6 +123,7 @@ _Regression models_
 - [08: REGRESSION & TEXT PROCESSING](./08_regression_final/)
   - [One slide](./08_regression_final/gads23_08_regression_final.pdf)
   - [Text Processing](./08_regression_final/text_processing.ipynb) Amazon movie reviews, `CountVectorizer` (demo)
+  - [Amy Roberts](./guest_speakers.md), CEO & Founder of Healthy Bytes, guest speaker
   - **[Assignment #2: Linear Regression](./08_regression_final/assignment_02_salary_prediction.ipynb) Salary Prediction**
 
 _Classification models_
@@ -137,8 +137,8 @@ _Classification models_
 
 - [10: REVIEW](./10_review/)
   - [Slides](./10_review/gads23_10_exit_tickets_review.pdf) Exit tickets review
-  - [Review Assignment #2](./08_regression_final/assignment_02_salary_prediction_solutions.ipynb) and [Leaderboard](./08_regression_final/assignment_02_salary_prediction_submissions.ipynb)
-  - [Rohit Acharya, Chief Data Scientist at First Access](./guest_speakers.md), guest speaker
+  - [Review Assignment #2](./08_regression_final/assignment_02_salary_prediction_solutions.ipynb) and [leaderboard](./08_regression_final/assignment_02_salary_prediction_submissions.ipynb)
+  - [Rohit Acharya](./guest_speakers.md), Chief Data Scientist at First Access, guest speaker
   - [Final project announcement](./final_project.md) guidelines, deadlines, sample projects
 
 - [11: STATISTICS & BAYES](./11_bayes/)
@@ -146,7 +146,7 @@ _Classification models_
   - [20 Newsgroups](./11_bayes/20_newsgroups.ipynb) `CountVectorizer`, `TfidfVectorizer`, `MultinomialNB` (demo)
   - [Naive Bayes implementation](./11_bayes/naive_bayes_exercise.py) exercise
   - [Statistics & Probability recap](./11_bayes/statistics_recap.ipynb) _optional_ basic recap
-  - [Bayesian coin flips](./11_bayes/bayesian_coin_tosses.ipynb) deep dive _optional_
+  - [Bayesian coin flips](./11_bayes/bayesian_coin_tosses.ipynb) _optional_ deep dive
 
 
 
