@@ -10,6 +10,7 @@
 - [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and the [Git Game](http://pcottle.github.io/learnGitBranching/) for learning git
 - [Random Forests intro on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests)
 - Google's orginal [MapReduce paper (2004)](http://research.google.com/archive/mapreduce.html)
+- [Random Forests](http://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#overview) by Leo Breiman and Adele Cutler (cf. their [original paper](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf) (2001))
 
 **Not vetted yet**
 
