@@ -176,7 +176,6 @@ class RandomForest():
         - If float, then `max_features` is a percentage of `n_features`
         - If "auto" or "sqrt", then `max_features=sqrt(n_features)`.
         - If None, then `max_features=n_features`.
-
     """
     def __init__(self, n_estimators=10, criterion='gini', max_features='sqrt'):
         self.n_estimators = n_estimators
@@ -186,11 +185,12 @@ class RandomForest():
     def fit(self, X, y):
         self.trees = []
         self.classes = list(set(y))
-        self._scores = []
+        self._scores = []  # We'll save the out-of-bag scores
         X, y = np.array(X), np.array(y)
         self.n_samples, self.n_features = X.shape
         for no in xrange(self.n_estimators):
             tree = DecisionTree(max_features=self.max_features, criterion=self.criterion)
+            # Bagging: select n instances out of the n samples (wih replacement)
             idx = np.random.choice(self.n_samples, self.n_samples, replace=True)
             self.trees.append(tree.fit(X[idx], y[idx]))
             oob = list(set(xrange(self.n_samples)) - set(idx))
