@@ -7,5 +7,10 @@
 # apple cruft
 .DS_Store
 
-# keys
+# secret keys
 twitter_config_rn.py
+
+# original powerpoint and keynote slides
+*.ppt
+*.pptx
+*.key

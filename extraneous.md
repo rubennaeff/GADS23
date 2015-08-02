@@ -5,13 +5,15 @@
 - [Linear Algebra Explained In Four Pages](http://cnd.mcgill.ca/~ivan/miniref/linear_algebra_in_4_pages.pdf)
 - [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
 - [Khan Academy: Linear Regression and Correlation](https://www.khanacademy.org/math/probability/regression/regression-correlation)
-- [Coursera: Machine Learning](https://www.coursera.org/course/ml) by Andrew Ng
+- [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/1) by Andrew Ng (cf. the webpage of his corresponding [Stanford ML course](http://cs229.stanford.edu/))
 - [Coursera: Introduction to Data Science](https://www.coursera.org/course/datasci) by Bill Howe
 - [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and the [Git Game](http://pcottle.github.io/learnGitBranching/) for learning git
 - [Random Forests intro on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests)
 - Google's orginal [MapReduce paper (2004)](http://research.google.com/archive/mapreduce.html)
 - [Random Forests](http://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#overview) by Leo Breiman and Adele Cutler (cf. their [original paper (2001)](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf))
 - [Bagging Predictors (1994)](http://www.stat.berkeley.edu/~breiman/bagging.pdf) by Leo Breiman
+- [A User’s Guide to Support Vector Machines](http://pyml.sourceforge.net/doc/howto.pdf) academic paper by Asa Ben-Hur & Jason Weston
+- [Support Vector Machines: Hype or Hallelujah?](http://www.bioconductor.org/help/course-materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Colin Campbell
 
 **Not vetted yet**
 
