@@ -150,9 +150,11 @@ _Classification models_
 
 - [12: DECISION TREES](./12_random_forest/)
   - [Slides](./12_random_forest/gads23_12_random_forests.pdf)
-  - [Random Forests in `sklearn`](./12_random_forest/random_forests_in_sklearn.ipynb)
-  - [Drawing trees in `sklearn`](./12_random_forest/drawing_trees_in_sklearn.ipynb) _optional_
+  - [Random Forests in `sklearn`](./12_random_forest/random_forests_in_sklearn.ipynb) `DecisionTree`, `RandomForestClassifier`, `AdaBoostClassifier`, `GradientBoostingClassifier`
+  - [Drawing trees in `sklearn`](./12_random_forest/drawing_trees_in_sklearn.ipynb) _optional_ `Graphviz`, `pydot`
+  - [Plotting decision boundaries](./12_random_forest/plotting_decision_boundaries.ipynb) _optional_ `ExtraTreesClassifier`, `AdaBoost`
   - [Random Forests implementation](./12_random_forest/random_forest.py) with [notebook demonstration](./12_random_forest/random_forests_deep_dive.ipynb) _optional_ deep dive
+
 
 
 <!-- - [13: COMPETITION](--some kaggle competition in class w/pizza and beer!--)
