@@ -41,9 +41,9 @@ Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-re
 |  9 | Thu Jul 23 | Logistic Regression _(AG OOO)_                                         |
 | 10 | Tue Jul 28 | Review Assignment #2. _Guest Rohit Acharya, First Access_              |
 | 11 | Thu Jul 30 | Bayesian Statistics & Naive Bayes                                      |
-| 12 | Tue Aug 04 | Decision Trees and Random Forests                                      |
+| 12 | Tue Aug 04 | Decision Trees, Ensembles and Random Forests
 |    |            | _Deadline project proposals_                                           |
-| 13 | Thu Aug 06 | SVM / Ensemble Learning _Guest Sandy Griffith, Flatiron Health_   |
+| 13 | Thu Aug 06 | Suppoert Vector Machines _Guest Sandy Griffith, Flatiron Health_   |
 | 14 | Tue Aug 11 | Review & competition. _Guest Bob Filbin, Crisis Text Line_  |
 |    |            | _Assignment #3: Classification_                                        |
 |    |            | _Deadline project outline submissions_
@@ -148,11 +148,12 @@ _Classification models_
   - [Statistics & Probability recap](./11_bayes/statistics_recap.ipynb) _optional_ basic recap
   - [Bayesian coin flips](./11_bayes/bayesian_coin_tosses.ipynb) _optional_ deep dive
 
+- [12: DECISION TREES](./12_random_forest/)
+  - [Slides](./12_random_forest/gads23_12_random_forests.pdf)
+  - [Random Forests in `sklearn`](./12_random_forest/random_forests_in_sklearn.ipynb)
+  - [Drawing trees in `sklearn`](./12_random_forest/drawing_trees_in_sklearn.ipynb) _optional_
+  - [Random Forests implementation](./12_random_forest/random_forest.py) with [notebook demonstration](./12_random_forest/random_forests_deep_dive.ipynb) _optional_ deep dive
 
-
-<!-- - [12: DECISION TREES](./11_decision_trees/)
-  - [Slides](./11_decision_trees/gads23_09.pdf)
- -->
 
 <!-- - [13: COMPETITION](--some kaggle competition in class w/pizza and beer!--)
  -->
