@@ -14,3 +14,6 @@ twitter_config_rn.py
 *.ppt
 *.pptx
 *.key
+
+# hide files and folders starting with _
+_*

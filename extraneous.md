@@ -5,7 +5,7 @@
 - [Linear Algebra Explained In Four Pages](http://cnd.mcgill.ca/~ivan/miniref/linear_algebra_in_4_pages.pdf)
 - [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
 - [Khan Academy: Linear Regression and Correlation](https://www.khanacademy.org/math/probability/regression/regression-correlation)
-- [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/1) by Andrew Ng (cf. the webpage of his corresponding [Stanford ML course](http://cs229.stanford.edu/))
+- [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/1) by Andrew Ng (cf. the webpage of his corresponding [Stanford ML course](http://cs229.stanford.edu/)
 - [Coursera: Introduction to Data Science](https://www.coursera.org/course/datasci) by Bill Howe
 - [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and the [Git Game](http://pcottle.github.io/learnGitBranching/) for learning git
 - [Random Forests intro on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests)

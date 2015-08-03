@@ -157,13 +157,11 @@ _Classification models_
 
 <!--
 - [13: SUPPORT VECTOR MACHINES](./13_svm/)
-  - [Slides]()
+  - Slides
   - [Plotting support vectors](./13_svm/plotting_support_vectors.ipynb) demo
 
- -->
+- 14: COMPETITION
 
-<!-- - [13: COMPETITION](--some kaggle competition in class w/pizza and beer!--)
  -->
-
 <!-- **III. Unsupervised Learning** -->
 
