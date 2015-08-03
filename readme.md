@@ -43,8 +43,8 @@ Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-re
 | 11 | Thu Jul 30 | Bayesian Statistics & Naive Bayes                                      |
 | 12 | Tue Aug 04 | Decision Trees, Ensembles and Random Forests
 |    |            | _Deadline project proposals_                                           |
-| 13 | Thu Aug 06 | Suppoert Vector Machines _Guest Sandy Griffith, Flatiron Health_   |
-| 14 | Tue Aug 11 | Review & competition. _Guest Bob Filbin, Crisis Text Line_  |
+| 13 | Thu Aug 06 | Support Vector Machines _Guest Sandy Griffith, Flatiron Health_
+| 14 | Tue Aug 11 | Review & competition. _Guest Bob Filbin, Crisis Text Line_
 |    |            | _Assignment #3: Classification_                                        |
 |    |            | _Deadline project outline submissions_
 |    |            | **IV. Unsupervised Learning**                                          |
@@ -126,7 +126,8 @@ _Regression models_
   - [Amy Roberts](./guest_speakers.md), CEO & Founder of Healthy Bytes, guest speaker
   - **[Assignment #2: Linear Regression](./08_regression_final/assignment_02_salary_prediction.ipynb) Salary Prediction**
 
-_Classification models_
+
+**III. Supervised Learning: Classification**
 
 - [09: LOGISTIC REGRESSION](./09_logistic_regression/)
   - [Slides](./09_logistic_regression/gads23_09_logistic_regression.pdf)
@@ -157,11 +158,11 @@ _Classification models_
 
 <!--
 - [13: SUPPORT VECTOR MACHINES](./13_svm/)
-  - Slides
+  - [Slides]((./13_svm/gads23_13_svm.pdf)
   - [Plotting support vectors](./13_svm/plotting_support_vectors.ipynb) demo
 
 - 14: COMPETITION
 
  -->
-<!-- **III. Unsupervised Learning** -->
+<!-- **IV. Unsupervised Learning** -->
 
