@@ -59,11 +59,11 @@ class DecisionTree():
                 for i in xrange(n_samples):
                     indices[X[i, feature]].add(i)
                 thresholds = sorted(indices.keys())[:-1]  # bigger than biggest makes no sense
-                parent_cost = cost(y)  # either entropy or gini
-                child1, child2 = set(xrange(len(y))), set([])
-                for cutoff in thresholds:
-                    child1 -= indices[cutoff]  # child1 <= cutoff
-                    child2 = child2.union(indices[cutoff])  # child2 > cutoff
+                parent_cost = cost(y)  # either entropy or gini impurity
+                child1, child2 = set(xrange(len(y))), set([])  # child1 = parent, child2 = empty
+                for cutoff in thresholds:  # walk through all thresholds, from low to high
+                    child1 -= indices[cutoff]  # child1 = {all samples >= cutoff}
+                    child2 = child2.union(indices[cutoff])  # child2 = {all samples < cutoff}
                     n1 = float(len(child1))
                     new_cost = n1 / n_samples * cost(y[list(child1)]) \
                         + (n_samples - n1) / n_samples * cost(y[list(child2)])
@@ -76,12 +76,14 @@ class DecisionTree():
             return best_feature, best_cutoff, best_gain
 
         def split(X, y, max_features):
-            """X and y are resp. a matrix and a vector, and should be an np.ndarrays"""
+            """X and y are resp. a matrix and a vector, and should be an np.ndarrays
+            :param max_features: choose a random subset of features to consider for the split"""
             if len(np.unique(y)) == 1:
                 node = {'leaf': y[0]}
             else:
-                n_samples, n_features = X.shape  # pick m random features
-                new_features = np.random.choice(n_features, max_features, replace=False)
+                n_samples, n_features = X.shape
+                new_features = np.random.choice(
+                    n_features, max_features, replace=False)  # pick `max_features` random features
                 feature, cutoff, gain = find_best_split(X[:, new_features], y)
                 feature = new_features[feature]
                 node = dict(feature=feature, cutoff=cutoff, gain=gain)
