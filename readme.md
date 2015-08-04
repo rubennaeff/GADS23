@@ -123,7 +123,7 @@ _Regression models_
 - [08: REGRESSION & TEXT PROCESSING](./08_regression_final/)
   - [One slide](./08_regression_final/gads23_08_regression_final.pdf)
   - [Text Processing](./08_regression_final/text_processing.ipynb) Amazon movie reviews, `CountVectorizer` (demo)
-  - [Amy Roberts](./guest_speakers.md), CEO & Founder of Healthy Bytes, guest speaker
+  - _[Guest Speaker](./guest_speakers.md): Amy Roberts, CEO & Founder of Healthy Bytes_
   - **[Assignment #2: Linear Regression](./08_regression_final/assignment_02_salary_prediction.ipynb) Salary Prediction**
 
 
@@ -139,8 +139,8 @@ _Regression models_
 - [10: REVIEW](./10_review/)
   - [Slides](./10_review/gads23_10_exit_tickets_review.pdf) Exit tickets review
   - [Review Assignment #2](./08_regression_final/assignment_02_salary_prediction_solutions.ipynb) and [leaderboard](./08_regression_final/assignment_02_salary_prediction_submissions.ipynb)
-  - [Rohit Acharya](./guest_speakers.md), Chief Data Scientist at First Access, guest speaker
   - [Final project announcement](./final_project.md) guidelines, deadlines, sample projects
+  - _[Guest Speaker](./guest_speakers.md): Rohit Acharya, Chief Data Scientist at First Access_
 
 - [11: STATISTICS & BAYES](./11_bayes/)
   - [Slides](./11_bayes/gads23_11_bayes.pdf)
@@ -161,9 +161,12 @@ _Regression models_
   - [Plotting hyperplanes and support vectors](./13_svm/plotting_hyperplanes_and_support_vectors.ipynb) demo
   - [Plotting different SVM kernels](./13_svm/plotting_different_svm_kernels.ipynb) _optional_ demo of non-linear kernels
   - [Comparison of all classifiers](./13_svm/review_compare_all_classifiers.ipynb) Exercise
+  - _[Guest Speaker](./guest_speakers.md): Sandy Griffith, Biostatistician and Technical Lead at Flatiron Health_
 
-<!-- - 14: COMPETITION
- -->
+- 14: TBD
+  - _[Guest Speaker](./guest_speakers.md): Bob Filbin, Chief Data Scientist at Crisis Text Line_
+
+
 
 <!-- **IV. Unsupervised Learning** -->
 
