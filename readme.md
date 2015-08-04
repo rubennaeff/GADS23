@@ -162,23 +162,20 @@ _Regression models_
   - _[Guest Speaker](./guest_speakers.md): Sandy Griffith, Biostatistician and Technical Lead at Flatiron Health_
 
 - [14: REVIEW & COMPETITION](./14_review/)
-  - Competition
+  - Slides
+  - [Comparison of all classifiers](./14_review/classification_models.ipynb) exercise
+  - _[Guest Speaker](./guest_speakers.md): Bob Filbin, Chief Data Scientist at Crisis Text Line_
+  - **Assignment #3: Classification**
 
 <!-- tips for classification: see Andrew Ng. Bias vs Variance -->
 
-  - [Comparison of all classifiers](./14_review/classification_models.ipynb) exercise
-  - _[Guest Speaker](./guest_speakers.md): Bob Filbin, Chief Data Scientist at Crisis Text Line_
-
-
-
-
-<!-- **IV. Unsupervised Learning** -->
+**IV. Unsupervised Learning**
 
 <!--
 - [15: K-MEANS]()
   - k-means
-  - Flask
 - [16: PRESENTATIONS PROJECT DATA EXPLORATIONS]()
+  - Flask
   - TBD
 - [17: UNSUPERVISED LEARNING WITH SVD AND PCA]()
   - TBD
@@ -191,7 +188,7 @@ _Regression models_
 - 19: TBD _(RN OOO)_
 - 20: CODE REVIEWS _(Deadline work-in-progress)_
 - 21: Advanced topics: LDA, Neural Networks
-- 22: TBD
+- 22: TBD: Scaling, MapReduce, Hashing
 - 23: FINAL PRESENTATIONS
 
  -->
