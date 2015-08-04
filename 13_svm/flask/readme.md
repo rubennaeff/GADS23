@@ -55,6 +55,7 @@ Please refer to the [Quickstart](http://flask.pocoo.org/docs/0.10/quickstart/#qu
 
 The second example is a [website displaying tweets](./02_twitter/main.py). Please take your time going through the different files and the lines of code.
 
+  ```sh
   main.py  # the python code using Flask
   twitter_config.py  # your private Twitter keys (never publish these!)
   static/  # folder containing static files such as images, scripts, static html webpages, etc.
@@ -67,5 +68,7 @@ The second example is a [website displaying tweets](./02_twitter/main.py). Pleas
   templates/  # your dynamic webpages (pages that depend on your python code)
     index.html  # your homepagem, using HTML and Jinja2
   tweets/  # an empty folder to store the raw tweets in
+  ```
+
 
 
