@@ -41,13 +41,13 @@ Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-re
 |  9 | Thu Jul 23 | Logistic Regression _(AG OOO)_                                         |
 | 10 | Tue Jul 28 | Review Assignment #2. _Guest Rohit Acharya, First Access_              |
 | 11 | Thu Jul 30 | Bayesian Statistics & Naive Bayes                                      |
-| 12 | Tue Aug 04 | Decision Trees, Ensembles and Random Forests (_deadline project proposals_)
+| 12 | Tue Aug 04 | Random Forests (_deadline project proposals_)
 | 13 | Thu Aug 06 | Support Vector Machines _Guest Sandy Griffith, Flatiron Health_
 | 14 | Tue Aug 11 | Review & competition. _Guest Bob Filbin, Crisis Text Line_
 |    |            | _Assignment #3: Classification_                                        |
 |    |            | _Deadline project outline submissions_
 |    |            | **IV. Unsupervised Learning**                                          |
-| 15 | Thu Aug 13 | K-Means Clustering, Flask websites
+| 15 | Thu Aug 13 | K-Means Clustering  _(Flask websites)_
 | 16 | Tue Aug 18 | Presentations project data explorations, _TBD_
 | 17 | Thu Aug 20 | PCA and Unsupervised Learning
 | 18 | Tue Aug 25 | Recommendation Systems & Further Topics in Unsupervised Learning
@@ -156,17 +156,42 @@ _Regression models_
 
 - [13: SUPPORT VECTOR MACHINES](./13_svm/)
   - [Slides](./13_svm/gads23_13_svm.pdf)
+  - [Separating mushrooms](./13_svm/separating_mushrooms.ipynb) exercise
   - [Plotting hyperplanes and support vectors](./13_svm/plotting_hyperplanes_and_support_vectors.ipynb) demo
   - [Plotting different SVM kernels](./13_svm/plotting_different_svm_kernels.ipynb) _optional_ demo of non-linear kernels
   - _[Guest Speaker](./guest_speakers.md): Sandy Griffith, Biostatistician and Technical Lead at Flatiron Health_
 
 - [14: REVIEW & COMPETITION](./14_review/)
   - Competition
+
+<!-- tips for classification: see Andrew Ng. Bias vs Variance -->
+
   - [Comparison of all classifiers](./14_review/classification_models.ipynb) exercise
   - _[Guest Speaker](./guest_speakers.md): Bob Filbin, Chief Data Scientist at Crisis Text Line_
 
-<!-- tips for classification: see Andrew Ng. Bias vs Variance -->
+
 
 
 <!-- **IV. Unsupervised Learning** -->
 
+<!--
+- [15: K-MEANS]()
+  - k-means
+  - Flask
+- [16: PRESENTATIONS PROJECT DATA EXPLORATIONS]()
+  - TBD
+- [17: UNSUPERVISED LEARNING WITH SVD AND PCA]()
+  - TBD
+- 18: RECOMMENDATION SYSTEMS
+ -->
+
+<!-- **V. Various** -->
+
+<!--
+- 19: TBD _(RN OOO)_
+- 20: CODE REVIEWS _(Deadline work-in-progress)_
+- 21: Advanced topics: LDA, Neural Networks
+- 22: TBD
+- 23: FINAL PRESENTATIONS
+
+ -->
