@@ -156,13 +156,14 @@ _Regression models_
   - [Plotting decision boundaries](./12_random_forest/plotting_decision_boundaries.ipynb) _optional_ `ExtraTreesClassifier`, `AdaBoost`
   - [Random Forests implementation](./12_random_forest/random_forest.py) with [notebook demonstration](./12_random_forest/random_forests_deep_dive.ipynb) _optional_ deep dive
 
-<!--
 - [13: SUPPORT VECTOR MACHINES](./13_svm/)
-  - [Slides]((./13_svm/gads23_13_svm.pdf)
-  - [Plotting support vectors](./13_svm/plotting_support_vectors.ipynb) demo
+  - [Slides](./13_svm/gads23_13_svm.pdf)
+  - [Plotting hyperplanes and support vectors](./13_svm/plotting_hyperplanes_and_support_vectors.ipynb) demo
+  - [Plotting different SVM kernels](./13_svm/plotting_different_svm_kernels.ipynb) _optional_ demo of non-linear kernels
+  - [Comparison of all classifiers](./13_svm/review_compare_all_classifiers.ipynb) Exercise
 
-- 14: COMPETITION
-
+<!-- - 14: COMPETITION
  -->
+
 <!-- **IV. Unsupervised Learning** -->
 
