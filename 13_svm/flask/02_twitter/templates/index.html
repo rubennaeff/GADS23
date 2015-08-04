@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Get Some Tweets</title>
+        <meta name="description" content="The Worst Twitter Interface Ever">
+        <meta name="keywords" content="Twitter Flask Demo">
+        <meta charset="UTF-8">
+
+        <!-- Favicon icons for in browser -->
+        <link rel="icon" href="/static/images/favicon.ico">
+        <link rel="shortcut icon" href="/static/images/favicon.ico">
+
+        <!-- You could steal GA's style sheets -->
+        <meta content='https://ga-core-production-herokuapp-com.global.ssl.fastly.net/assets/apple-touch-icon-152x152-99d7b80b8b5f4eb6751e4baa35fe58f3.png' name='msapplication-TileImage'>
+        <meta content='7dc9da01bd1d54afbb191ba94edbba29' name='p:domain_verify'>
+        <link cache="false" href="https://ga-core-production-herokuapp-com.global.ssl.fastly.net/assets/public-libs-059901b17cc9c5a9373274d9f59e6f9d.css" media="all" rel="stylesheet" />
+        <link cache="false" href="https://ga-core-production-herokuapp-com.global.ssl.fastly.net/assets/public-547f2540364c8bb94466fa72100baf5d.css" media="all" rel="stylesheet" />
+        <link cache="false" href="https://ga-core-production-herokuapp-com.global.ssl.fastly.net/assets/slick-3d8363006236442acf46fe347730e823.css" media="all" rel="stylesheet" />
+        <link href="https://ga-core-production-herokuapp-com.global.ssl.fastly.net/assets/public/homepage-headers-4521e0c7de57953337f283b862746c36.css" media="screen" rel="stylesheet" />
+
+        <!-- .. or use your own style sheet -->
+        <link rel="stylesheet" href="/static/css/style_sheet.css">
+
+    </head>
+    <body >
+        <div>
+            <p>
+                <b>Please enter a twitter handle</b>
+            </p>
+            <div>
+                <form name="login" method="post" action="/show">
+                    <input type="text" name="screen_name" placeholder="" required id="screen_name_input" >
+                </form>
+            </div>
+            <div>
+                {% for tweet in tweets %}
+                    <p>
+                        <img src='static/images/twitter_logo.png' height=20 align="left">
+                        {{ tweet|e|safe }}
+                    </p>
+                {% endfor %}
+            </div>
+        </div>
+    </body>
+</html>

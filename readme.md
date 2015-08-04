@@ -169,6 +169,7 @@ _Regression models_
 
 <!-- tips for classification: see Andrew Ng. Bias vs Variance -->
 
+
 **IV. Unsupervised Learning**
 
 <!--
@@ -176,6 +177,7 @@ _Regression models_
   - k-means
 - [16: PRESENTATIONS PROJECT DATA EXPLORATIONS]()
   - Flask
+  - Maybe hashing & Bloom filters
   - TBD
 - [17: UNSUPERVISED LEARNING WITH SVD AND PCA]()
   - TBD
@@ -186,7 +188,7 @@ _Regression models_
 
 <!--
 - 19: TBD _(RN OOO)_
-- 20: CODE REVIEWS _(Deadline work-in-progress)_
+- 20: TBD: ... + CODE REVIEWS _(Deadline work-in-progress)_
 - 21: Advanced topics: LDA, Neural Networks
 - 22: TBD: Scaling, MapReduce, Hashing
 - 23: FINAL PRESENTATIONS

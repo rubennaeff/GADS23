@@ -1,0 +1,16 @@
+html, body {
+    font-family: "Gotham Narrow SSm", "Gotham Narrow", "Gotham",
+    "Helvetica Neue", "HelveticaNeue", Helvetica, Tahoma, Arial, sans-serif; /* Twitter style*/
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px dotted rgba(0, 0, 0, 0.3);
+}
+
+p {
+    margin:10px;
+    padding:10px;
+}
+
