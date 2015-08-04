@@ -34,29 +34,27 @@ Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-re
 |    |            | **II. Supervised Learning: Regression**                                |
 |  6 | Thu Jul 09 | Introduction to Machine Learning, kNN                                  |
 |  5 | Tue Jul 14 | Presentations Assignment #1, Intro to Linear Regression
-|  7 | Thu Jul 16 | Regression & Regularization, linear algebra, numpy _(AG OOO)_          |
+|  7 | Thu Jul 16 | Regression & Regularization, Linear Algebra, `numpy` _(AG OOO)_
 |  8 | Tue Jul 21 | Regression & Text Processing                                           |
 |    |            | _Assignment #2: Regression_                                            |
 |    |            | **III. Supervised Learning: Classification**                           |
 |  9 | Thu Jul 23 | Logistic Regression _(AG OOO)_                                         |
 | 10 | Tue Jul 28 | Review Assignment #2. _Guest Rohit Acharya, First Access_              |
 | 11 | Thu Jul 30 | Bayesian Statistics & Naive Bayes                                      |
-| 12 | Tue Aug 04 | Decision Trees, Ensembles and Random Forests
-|    |            | _Deadline project proposals_                                           |
+| 12 | Tue Aug 04 | Decision Trees, Ensembles and Random Forests (_deadline project proposals_)
 | 13 | Thu Aug 06 | Support Vector Machines _Guest Sandy Griffith, Flatiron Health_
 | 14 | Tue Aug 11 | Review & competition. _Guest Bob Filbin, Crisis Text Line_
 |    |            | _Assignment #3: Classification_                                        |
 |    |            | _Deadline project outline submissions_
 |    |            | **IV. Unsupervised Learning**                                          |
-| 15 | Thu Aug 13 | K-Means Clustering
-| 16 | Tue Aug 18 | PCA and Unsupervised Learning
-|    |            | Presentations data explorations for projects
-| 17 | Thu Aug 20 | Recommendation Systems & Further Topics in Unsupervised Learning
+| 15 | Thu Aug 13 | K-Means Clustering, Flask websites
+| 16 | Tue Aug 18 | Presentations project data explorations, _TBD_
+| 17 | Thu Aug 20 | PCA and Unsupervised Learning
+| 18 | Tue Aug 25 | Recommendation Systems & Further Topics in Unsupervised Learning
 |    |            | **V. Various**
-| 18 | Tue Aug 25 | Scaling
 | 19 | Thu Aug 27 | _TBD_ _(RN OOO)_
-| 20 | Tue Sep 01 | _TBD_  _Deadline work-in-progress_  (possibly code reviews)
-| 21 | Thu Sep 03 | _TBD_
+| 20 | Tue Sep 01 | _TBD_ _Deadline work-in-progress_  (possibly code reviews)
+| 21 | Thu Sep 03 | _TBD_ _Scaling_
 | 22 | Tue Sep 08 | _TBD_
 | 23 | Thu Sep 10 | Final presentations
 _OOO = Out of Office_
@@ -160,12 +158,14 @@ _Regression models_
   - [Slides](./13_svm/gads23_13_svm.pdf)
   - [Plotting hyperplanes and support vectors](./13_svm/plotting_hyperplanes_and_support_vectors.ipynb) demo
   - [Plotting different SVM kernels](./13_svm/plotting_different_svm_kernels.ipynb) _optional_ demo of non-linear kernels
-  - [Comparison of all classifiers](./13_svm/review_compare_all_classifiers.ipynb) Exercise
   - _[Guest Speaker](./guest_speakers.md): Sandy Griffith, Biostatistician and Technical Lead at Flatiron Health_
 
-- 14: TBD
+- [14: REVIEW & COMPETITION](./14_review/)
+  - Competition
+  - [Comparison of all classifiers](./14_review/classification_models.ipynb) exercise
   - _[Guest Speaker](./guest_speakers.md): Bob Filbin, Chief Data Scientist at Crisis Text Line_
 
+<!-- tips for classification: see Andrew Ng. Bias vs Variance -->
 
 
 <!-- **IV. Unsupervised Learning** -->
