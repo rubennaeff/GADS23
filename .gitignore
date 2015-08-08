@@ -17,3 +17,7 @@ twitter_config_rn.py
 
 # hide files and folders starting with _
 _*
+
+
+# exclude any downloaded tweets
+tweets/
