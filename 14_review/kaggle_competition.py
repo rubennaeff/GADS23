@@ -123,7 +123,7 @@ class KaggleCompetition():
 # You don't need to do much below here
 
     def make_predictions(self, model, X, y, submission_file=SUBMISSION_FILE):
-        """Disect training and test set from data, train model on training set
+        """Dissect training and test set from data, train model on training set
         and make predictions for the test set. Then save predictions to disk."""
 
         # Convert to numpy arrays in case that wasn't done yet

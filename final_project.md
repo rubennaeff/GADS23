@@ -52,6 +52,7 @@ Please submit a consice plan of your project
 - Statistical & Machine Learning methods you plan to use (and why)
 - What business applications do you think your findings will have?
 
+Please keep it concise. A paragraph with five sentences would suffice. It is understood that things might change during the course of your research.
 
 ### Initial data exploration
 
