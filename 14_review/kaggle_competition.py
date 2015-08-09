@@ -50,14 +50,11 @@ class KaggleCompetition():
         print "Loading %s..." % test_file
         self.test = pd.read_csv(test_file, index_col=0)
 
-        all_columns = list(self.train.columns)
-        self.data = self.train.append(self.test)[all_columns]  # perserve column order
-
         self.n_train, self.n_test = len(self.train), len(self.test)
         print "Loaded", self.n_train, "training samples and", self.n_test, "testing samples"
 
         # Just checking if you have indeed the right file
-        if (self.n_train != 140272) or (self.n_test != 73290) or (len(all_columns) != 15):
+        if (self.n_train != 140272) or (self.n_test != 73290):
             raise ValueError("It seems like you have loaded the wrong datasets!")
 
 # ------------------------------------------------------------------------------------ #
@@ -92,10 +89,13 @@ class KaggleCompetition():
 
         return model
 
-    def extract_features(self, data):
+    def extract_features(self, data, training=True):
         """Create additional features by adding columns to your dataset
         :param dataset: both training and test set
+        :param training: if True, fit vectorizers, otherwise just transform
         :return: X, y  -- feature matrix and target values"""
+
+        print "Extracting features from %s set..." % ['test', 'training'][training]
 
         # You can choose from the following columns (and you can make more, obviously)
         # all_columns = \
@@ -103,6 +103,9 @@ class KaggleCompetition():
         #      'ReputationAtPostCreation', 'OwnerUndeletedAnswerCountAtPostTime',
         #      'Title', 'BodyMarkdown', 'Tag1', 'Tag2', 'Tag3', 'Tag4', 'Tag5',
         #      'PostClosedDate', 'OpenStatus']
+
+        # Add some simple basic feature for text metadata
+        data["Title_n_words"] = data.Title.map(lambda x: len(x.split()))
 
         # ....
         # You could do much, much more to improve your score here
@@ -114,26 +117,20 @@ class KaggleCompetition():
         features = \
             ['OwnerUserId', 'ReputationAtPostCreation', 'OwnerUndeletedAnswerCountAtPostTime']
 
-        X = data[features]  # Create feature matrix
-        y = data.OpenStatus  # In case of test set, these will be all NaNs
+        # Create feature matrix
+        X = data[features]
 
-        return X, y
+        if training:
+            return X, data.OpenStatus
+        else:
+            return X
 
 # ------------------------------------------------------------------------------------ #
 # You don't need to do much below here
 
-    def make_predictions(self, model, X, y, submission_file=SUBMISSION_FILE):
-        """Dissect training and test set from data, train model on training set
-        and make predictions for the test set. Then save predictions to disk."""
-
-        # Convert to numpy arrays in case that wasn't done yet
-        X = np.array(X)
-        y = np.array(y)
-
-        # split total dataset into a training set and a test set
-        test_idx = np.isnan(y)  # find which samples were from the test set
-        X_train, y_train = X[~test_idx, :], y[~test_idx]
-        X_test = X[test_idx, :]  # test set has no y-values (those were NaNs)
+    def make_predictions(self, model, X_train, y_train, X_test, submission_file=SUBMISSION_FILE):
+        """Train model on training set and make predictions for the test set.
+        Then save predictions to disk."""
 
         if self.n_test != len(X_test):
             raise ValueError("Somewhere along the way you lost test samples! Please fix.")
@@ -158,9 +155,10 @@ class KaggleCompetition():
 def main():
     start_time = time.time()
     kaggle = KaggleCompetition()
-    X, y = kaggle.extract_features(kaggle.data)
+    X_train, y_train = kaggle.extract_features(kaggle.train)
+    X_test = kaggle.extract_features(kaggle.test, training=False)
     model = kaggle.setup_model()
-    kaggle.make_predictions(model, X, y)
+    kaggle.make_predictions(model, X_train, y_train, X_test)
     duration = time.time() - start_time
     print "Done! That took %dm%02ds" % (duration / 60, int(duration) % 60)
 
