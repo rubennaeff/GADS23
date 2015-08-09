@@ -177,8 +177,8 @@ _Regression models_
 
 - [15: K-MEANS](./15_kmeans/)
   - Slides
-  - [KMeans in `sklearn`](./15_kmeans/15_kmeans.ipynb) simple demo
-  - KMeans implementation: [notebook](./15_kmeans/15_kmeans_exercise.ipynb) and [code](./15_kmeans/15_kmeans_exercise.py) exercise
+  - [KMeans in `sklearn`](./15_kmeans/kmeans.ipynb) simple demo
+  - KMeans implementation: [notebook](./15_kmeans/kmeans_exercise.ipynb) and [code](./15_kmeans/kmeans_exercise.py) exercise
 
 
 <!--
