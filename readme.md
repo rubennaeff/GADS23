@@ -160,21 +160,28 @@ _Regression models_
   - [Plotting hyperplanes and support vectors](./13_svm/plotting_hyperplanes_and_support_vectors.ipynb) demo
   - [Plotting different SVM kernels](./13_svm/plotting_different_svm_kernels.ipynb) _optional_ demo of non-linear kernels
   - _[Guest Speaker](./guest_speakers.md): Sandy Griffith, Biostatistician and Technical Lead at Flatiron Health_
+  - [Flask demonstration](./13_svm/flask/)
 
-- [14: REVIEW & COMPETITION](./14_review/)
-  - Slides
-  - [Comparison of all classifiers](./14_review/classification_models.ipynb) exercise
+- [14: REVIEW & COMPETITION](./14_competition/)
+  - [Comparison of all classifiers](./14_competition/classification_models.ipynb) exercise
   - _[Guest Speaker](./guest_speakers.md): Bob Filbin, Chief Data Scientist at Crisis Text Line_
   - **Assignment #3: Classification**
 
-<!-- tips for classification: see Andrew Ng. Bias vs Variance -->
+<!--
+  [data exploration](./14_competition/stack_overflow_exploration.ipynb) and [demo solution](./14_competition/kaggle_competition.py)
+ -->
 
+<!-- tips for classification: see Andrew Ng. Bias vs Variance -->
 
 **IV. Unsupervised Learning**
 
+- [15: K-MEANS](./15_kmeans/)
+  - Slides
+  - [KMeans in `sklearn`](./15_kmeans/15_kmeans.ipynb) simple demo
+  - KMeans implementation: [notebook](./15_kmeans/15_kmeans_exercise.ipynb) and [code](./15_kmeans/15_kmeans_exercise.py) exercise
+
+
 <!--
-- [15: K-MEANS]()
-  - k-means
 - [16: PRESENTATIONS PROJECT DATA EXPLORATIONS]()
   - Flask
   - Maybe hashing & Bloom filters
