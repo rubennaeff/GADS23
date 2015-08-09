@@ -42,12 +42,12 @@ Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-re
 | 10 | Tue Jul 28 | Review Assignment #2. _Guest Rohit Acharya, First Access_              |
 | 11 | Thu Jul 30 | Bayesian Statistics & Naive Bayes                                      |
 | 12 | Tue Aug 04 | Random Forests (_deadline project proposals_)
-| 13 | Thu Aug 06 | Support Vector Machines _Guest Sandy Griffith, Flatiron Health_
+| 13 | Thu Aug 06 | Support Vector Machines, Flask. _Guest Sandy Griffith, Flatiron Health_
 | 14 | Tue Aug 11 | Review & competition. _Guest Bob Filbin, Crisis Text Line_
 |    |            | _Assignment #3: Classification_                                        |
 |    |            | _Deadline project outline submissions_
 |    |            | **IV. Unsupervised Learning**                                          |
-| 15 | Thu Aug 13 | K-Means Clustering  _(Flask websites)_
+| 15 | Thu Aug 13 | K-Means Clustering
 | 16 | Tue Aug 18 | Presentations project data explorations, _TBD_
 | 17 | Thu Aug 20 | PCA and Unsupervised Learning
 | 18 | Tue Aug 25 | Recommendation Systems & Further Topics in Unsupervised Learning
@@ -163,20 +163,17 @@ _Regression models_
   - [Flask demonstration](./13_svm/flask/)
 
 - [14: REVIEW & COMPETITION](./14_competition/)
+  - [Slides](./14_competition/gads23_14_classification_review.pdf) Classification Review
   - [Comparison of all classifiers](./14_competition/classification_models.ipynb) exercise
   - _[Guest Speaker](./guest_speakers.md): Bob Filbin, Chief Data Scientist at Crisis Text Line_
-  - **Assignment #3: Classification**
-
-<!--
-  [data exploration](./14_competition/stack_overflow_exploration.ipynb) and [demo solution](./14_competition/kaggle_competition.py)
- -->
+  - **Assignment #3: Classification** [data exploration](./14_competition/stack_overflow_exploration.ipynb) and [demo solution](./14_competition/kaggle_competition.py)
 
 <!-- tips for classification: see Andrew Ng. Bias vs Variance -->
 
 **IV. Unsupervised Learning**
 
 - [15: K-MEANS](./15_kmeans/)
-  - Slides
+  - [Slides](./15_kmeans/gads23_14_kmeans.pdf)
   - [KMeans in `sklearn`](./15_kmeans/kmeans.ipynb) simple demo
   - KMeans implementation: [notebook](./15_kmeans/kmeans_exercise.ipynb) and [code](./15_kmeans/kmeans_exercise.py) exercise
 

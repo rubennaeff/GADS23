@@ -19,8 +19,9 @@
 materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Colin Campbell
 - Beautiful [decision tree visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) with explanation
 - [A User’s Guide to Support Vector Machines](http://pyml.sourceforge.net/doc/howto.pdf) academic paper by Asa Ben-Hur & Jason Weston
-- [Support Vector Machines: Hype or Hallelujah?](http://www.bioconductor.org/help/course-
-
+- [Support Vector Machines: Hype or Hallelujah?](http://www.sigkdd.org/sites/default/files/issues/2-2-2000-12/bennett.pdf)
+- [A Tour Of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+- [Choosing A Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 
 ### Data & Ethics
 - [Datakind](http://www.datakind.org/) data science in the service of humanity
@@ -45,7 +46,6 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 
 
 ### Further Watching & Listening
-
 Things we discussed in class, which were not exactly relevant, but which will make your live as freshly-minted data scientist more pleasant.
 
 - [Captain America: Winter Soldier](https://www.youtube.com/watch?v=82RKQPgeYRs) in which the Zola algorithm is deployed in three military helicarriers, combining cutting-edge facial recognition, big data and classification, instantly executing possibly dangerous people.
