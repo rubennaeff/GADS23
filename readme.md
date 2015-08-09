@@ -173,8 +173,8 @@ _Regression models_
 **IV. Unsupervised Learning**
 
 - [15: K-MEANS](./15_kmeans/)
-  - [Slides](./15_kmeans/gads23_14_kmeans.pdf)
-  - [KMeans in `sklearn`](./15_kmeans/kmeans.ipynb) simple demo
+  - [Slides](./15_kmeans/gads23_15_kmeans.pdf)
+  - [KMeans in `sklearn`](./15_kmeans/kmeans_in_sklearn.ipynb) simple demo
   - KMeans implementation: [notebook](./15_kmeans/kmeans_exercise.ipynb) and [code](./15_kmeans/kmeans_exercise.py) exercise
 
 
