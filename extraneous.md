@@ -2,6 +2,7 @@
 
 
 ### Further studying
+- [GA Data Science](http://www.gadatascience.com/) Complete summary of GADS Course by [Arun Ahuja](https://generalassemb.ly/instructors/arun-ahuja/214)
 - [Linear Algebra Explained In Four Pages](http://cnd.mcgill.ca/~ivan/miniref/linear_algebra_in_4_pages.pdf)
 - [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/) 8-page [pdf(http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/550ca811e4b0907feb972414/1426892817877/probability_cheatsheet.pdf) with all stats you'll ever need
 - [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
@@ -22,6 +23,7 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 - [Support Vector Machines: Hype or Hallelujah?](http://www.sigkdd.org/sites/default/files/issues/2-2-2000-12/bennett.pdf)
 - [A Tour Of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Choosing A Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
+- [Princeton Course Notes on PCA](http://www.cs.princeton.edu/courses/archive/spr08/cos424/scribe_notes/0424.pdf) by Dave Blei, written down by CJ Bell and Ana Pop
 
 ### Data & Ethics
 - [Datakind](http://www.datakind.org/) data science in the service of humanity

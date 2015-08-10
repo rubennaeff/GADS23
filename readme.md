@@ -174,20 +174,20 @@ _Regression models_
 
 - [15: K-MEANS](./15_kmeans/)
   - [Slides](./15_kmeans/gads23_15_kmeans.pdf)
-  - [KMeans in `sklearn`](./15_kmeans/kmeans_in_sklearn.ipynb) simple demo
+  - [Clustering irises](./15_kmeans/clustering_irises.ipynb) `sklearn`, simple demo
+  - [Clustering texts](./15_kmeans/clustering_texts.ipynb) `sklearn`, 20-newsgroups
   - KMeans implementation: [notebook](./15_kmeans/kmeans_exercise.ipynb) and [code](./15_kmeans/kmeans_exercise.py) exercise
 
+- [16: PRESENTATIONS PROJECT DATA EXPLORATIONS](.)
+  - Presentations data explorations final project
 
 <!--
-- [16: PRESENTATIONS PROJECT DATA EXPLORATIONS]()
-  - Flask
   - Maybe hashing & Bloom filters
   - TBD
 - [17: UNSUPERVISED LEARNING WITH SVD AND PCA]()
   - TBD
 - 18: RECOMMENDATION SYSTEMS
  -->
-
 <!-- **V. Various** -->
 
 <!--
