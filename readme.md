@@ -68,7 +68,8 @@ _OOO = Out of Office_
 - [Final Project](./final_project.md)
 - [Guest speakers](./guest_speakers.md)
 - [All datasets](./data/)
-- [Extraneous](./extraneous.md) both relevant and irrelevant
+- [Further Reading](./further_reading.md) to continue your studies
+- [Extraneous](./extraneous.md) to make your life more pleasant
 
 
 **I. Data Exploration (Analytics)**
