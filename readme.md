@@ -175,7 +175,7 @@ _Regression models_
 - [15: K-MEANS](./15_kmeans/)
   - [Slides](./15_kmeans/gads23_15_kmeans.pdf)
   - [Clustering irises](./15_kmeans/clustering_irises.ipynb) `sklearn`, simple demo
-  - [Clustering texts](./15_kmeans/clustering_texts.ipynb) `sklearn`, 20-newsgroups
+  - [Clustering text](./15_kmeans/clustering_text.ipynb) `sklearn`, 20-newsgroups
   - KMeans implementation: [notebook](./15_kmeans/kmeans_exercise.ipynb) and [code](./15_kmeans/kmeans_exercise.py) exercise
 
 - [16: PRESENTATIONS PROJECT DATA EXPLORATIONS](.)
