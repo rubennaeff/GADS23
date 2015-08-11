@@ -18,6 +18,7 @@ from datetime import datetime
 import numpy as np
 import pandas as pd
 import time
+import os
 
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.linear_model import LogisticRegression
@@ -32,12 +33,13 @@ from sklearn.cross_validation import train_test_split, cross_val_score
 
 
 PATH_TO_DATA = "/Users/ruben/Downloads/"  # change this to your local path
+USER = os.getlogin()  # you could change this to your own name if you like
 
 TRAIN_FILE = PATH_TO_DATA + "train.csv"
 TEST_FILE = PATH_TO_DATA + "test.csv"
 
 NOW = datetime.now().strftime("%y%m%d_%H%M%S")  # get timestamp
-SUBMISSION_FILE = PATH_TO_DATA + "submission_%s.csv" % NOW  # include timestamp for archiving
+SUBMISSION_FILE = PATH_TO_DATA + "%s_submission_%s.csv" % (USER, NOW)  # include timestamp for archiving
 
 
 class KaggleCompetition():
