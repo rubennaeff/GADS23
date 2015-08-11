@@ -157,9 +157,10 @@ _Regression models_
 
 - [13: SUPPORT VECTOR MACHINES](./13_svm/)
   - [Slides](./13_svm/gads23_13_svm.pdf)
-  - [Separating mushrooms](./13_svm/separating_mushrooms.ipynb) exercise
+  - [Recognizing hand-written digits](./13_svm/digit_recognition.ipynb) demo
   - [Plotting hyperplanes and support vectors](./13_svm/plotting_hyperplanes_and_support_vectors.ipynb) demo
   - [Plotting different SVM kernels](./13_svm/plotting_different_svm_kernels.ipynb) _optional_ demo of non-linear kernels
+  - [Separating mushrooms](./13_svm/separating_mushrooms.ipynb) exercise
   - _[Guest Speaker](./guest_speakers.md): Sandy Griffith, Biostatistician and Technical Lead at Flatiron Health_
   - [Flask demonstration](./13_svm/flask/)
 
