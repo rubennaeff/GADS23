@@ -41,6 +41,7 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 
 ### Dimensionality Reduction
 - [Princeton Course Notes on PCA](http://www.cs.princeton.edu/courses/archive/spr08/cos424/scribe_notes/0424.pdf) by Dave Blei, written down by CJ Bell and Ana Pop
+- A step-by-step [SVD Tutorial](https://www.ling.ohio-state.edu/~kbaker/pubs/Singular_Value_Decomposition_Tutorial.pdf) incl. Latent Semantic Analysis (LSA), by Kirk Baker (no prior knowlegde required)
 
 
 ### Git

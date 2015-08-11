@@ -168,7 +168,7 @@ _Regression models_
   - [Slides](./14_competition/gads23_14_classification_review.pdf) Classification Review
   - [Comparison of all classifiers](./14_competition/classification_models.ipynb) exercise
   - _[Guest Speaker](./guest_speakers.md): Bob Filbin, Chief Data Scientist at Crisis Text Line_
-  - **Assignment #3: Classification** [data exploration](./14_competition/stack_overflow_exploration.ipynb) and [demo solution](./14_competition/kaggle_competition.py)
+  - **Assignment #3: Classification** [Kaggle competition](https://inclass.kaggle.com/c/gads23-stack-overflow), [data exploration](./14_competition/stack_overflow_exploration.ipynb) and [demo solution](./14_competition/kaggle_competition.py)
 
 <!-- tips for classification: see Andrew Ng. Bias vs Variance -->
 
