@@ -26,6 +26,7 @@ An overview of where you could learn more.
 - [Bayesian statistics: principles and benefits](http://edepot.wur.nl/134085) Mathematical exploration: Bayes vs frequentists
 - [Naive Bayes vs Logistic Regression](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf) Mathematical exploration
 
+
 ### Random Forests
 - [Random Forests intro on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests)
 - Google's orginal [MapReduce paper (2004)](http://research.google.com/archive/mapreduce.html)
@@ -34,6 +35,7 @@ An overview of where you could learn more.
 materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Colin Campbell
 - Beautiful [decision tree visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) with explanation
 
+
 ### Support Vector Machines
 - [A User’s Guide to Support Vector Machines](http://pyml.sourceforge.net/doc/howto.pdf) academic paper by Asa Ben-Hur & Jason Weston
 - [Support Vector Machines: Hype or Hallelujah?](http://www.sigkdd.org/sites/default/files/issues/2-2-2000-12/bennett.pdf)
@@ -41,6 +43,7 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 
 ### Dimensionality Reduction
 - [Princeton Course Notes on PCA](http://www.cs.princeton.edu/courses/archive/spr08/cos424/scribe_notes/0424.pdf) by Dave Blei, written down by CJ Bell and Ana Pop
+- [Randomized PCA](http://arxiv.org/pdf/0909.4061v2.pdf) orginal paper by Halko et al., 2009
 - A step-by-step [SVD Tutorial](https://www.ling.ohio-state.edu/~kbaker/pubs/Singular_Value_Decomposition_Tutorial.pdf) incl. Latent Semantic Analysis (LSA), by Kirk Baker (no prior knowlegde required)
 
 
