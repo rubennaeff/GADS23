@@ -32,13 +32,12 @@ from sklearn.cross_validation import train_test_split, cross_val_score
 
 
 PATH_TO_DATA = "/Users/ruben/Downloads/"  # change this to your local path
-USER = os.getlogin()  # you could change this to your own name if you like
 
 TRAIN_FILE = PATH_TO_DATA + "train.csv"
 TEST_FILE = PATH_TO_DATA + "test.csv"
 
 NOW = datetime.now().strftime("%y%m%d_%H%M%S")  # get timestamp
-SUBMISSION_FILE = PATH_TO_DATA + "%s_submission_%s.csv" % (USER, NOW)  # include timestamp for archiving
+SUBMISSION_FILE = PATH_TO_DATA + "submission_%s.csv" % NOW  # include timestamp for archiving
 
 
 class KaggleCompetition():
@@ -69,10 +68,10 @@ class KaggleCompetition():
 
         # Logistic Regression: inverse-regularization parameter C, with L1 or L2 norm
         # (big C leads to overfitting)
-        # model = LogisticRegression()
+        model = LogisticRegression()
 
         # Naive Bayes: options include alpha for smoothing (see doc)
-        model = MultinomialNB()
+        # model = MultinomialNB()
 
         # Decision Trees and Random Forests: options include n_estimators (number of trees),
         # gini or entropy purtiy measures, pruning settings, etc.
@@ -105,17 +104,20 @@ class KaggleCompetition():
         #      'Title', 'BodyMarkdown', 'Tag1', 'Tag2', 'Tag3', 'Tag4', 'Tag5',
         #      'PostClosedDate', 'OpenStatus']
 
-        # Convert dates to datetime format, aggregate by year, compute ages
-        print "Converting dates to datetime format..."
-        data['PostCreationDate_dt'] = pd.to_datetime(data.PostCreationDate)
-        data['PostCreationDate_ord'] = data.PostCreationDate_dt.astype(int)  # just ordinal no
-        data['PostCreationDate_year'] = data.PostCreationDate_dt.dt.year
-        data["PostAge"] = (data.PostCreationDate_dt.max() - data.PostCreationDate_dt).dt.days
+        # Maybe the number of tags is a good indicator of a post will be closed
+        print "Counting number of tags per post..."
+        data["n_tags"] = np.array([data["Tag%d" % i].notnull() for i in xrange(1, 6)]).sum(axis=0)
 
-        data['OwnerCreationDate_dt'] = pd.to_datetime(data.OwnerCreationDate)
-        data['OwnerCreationDate_ord'] = data.OwnerCreationDate_dt.astype(int)
-        data['OwnerCreationDate_year'] = data.OwnerCreationDate_dt.dt.year
-        data["OwnerAgeAtPosting"] = (data.PostCreationDate_dt - data.OwnerCreationDate_dt).dt.days
+        # Create features for words in tags, title and body
+        data['tags'] = data.apply(lambda x: " ".join(set(str(x['Tag%d' % i]) for i in xrange(1, 6))), axis=1)
+        data['tags'] = data['tags'].str.replace('nan', '').str.replace("  ", " ").str.strip()
+
+        if training:
+            print "Creating features for each tag..."
+            self.cv_tags = CountVectorizer(stop_words='english', ngram_range=(1, 1), max_features=5000)
+            X_tags = self.cv_tags.fit_transform(data.tags)
+        else:
+            X_tags = self.cv_tags.transform(data.tags)
 
         # ....
         # You could do much, much more to improve your score here
@@ -124,15 +126,12 @@ class KaggleCompetition():
         # ....
 
         # Include the following columns in your feature matrix
-        self.features = \
+        features = \
             ['OwnerUserId', 'ReputationAtPostCreation', 'OwnerUndeletedAnswerCountAtPostTime',
-             'PostCreationDate_ord', 'PostCreationDate_year',
-             'PostAge',
-             'OwnerCreationDate_ord', 'OwnerCreationDate_year',
-             'OwnerAgeAtPosting']
+             'n_tags']
 
         # Create feature matrix
-        X = data[self.features]
+        X = np.hstack([data[features], X_tags.toarray()])
 
         if training:
             return X, data.OpenStatus
@@ -151,23 +150,11 @@ class KaggleCompetition():
 
         print "Training %s using %d samples (%d%% of original training set)" % \
             (model.__class__.__name__, len(X_train), 100. * len(X_train) / self.n_train)
-
-        try:
-            model.fit(X_train, y_train)
-        except ValueError:
-            scale_features = self.features  # ['ReputationAtPostCreation', 'AgeAccount']
-            scaler = MinMaxScaler()
-            X_train.loc[:, scale_features] = scaler.fit_transform(X_train[scale_features].astype(float))
-            X_test.loc[:, scale_features] = scaler.transform(X_test[scale_features].astype(float))
-            model.fit(X_train, y_train)
+        model.fit(X_train, y_train)
 
         print "Making predictions on the test set.."
         # We want the probabilities, not just 0 or 1. Just take 2nd column
-        try:
-            y_pred = model.predict_proba(X_test)[:, 1]
-        except:
-            sigmoid = lambda x: 1. / (1 + np.exp(-x))
-            y_pred = sigmoid(model.decision_function(X_test))
+        y_pred = model.predict_proba(X_test)[:, 1]
 
         print "Cross-validating model..."
         scores = cross_val_score(model, X_train, y_train, cv=3, scoring="roc_auc")
