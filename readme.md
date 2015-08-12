@@ -54,8 +54,8 @@ Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-re
 |    |            | **V. Various**
 | 19 | Thu Aug 27 | _TBD_ _(RN OOO)_
 | 20 | Tue Sep 01 | _TBD_ _Deadline work-in-progress_  (possibly code reviews)
-| 21 | Thu Sep 03 | _TBD_ _Scaling_
-| 22 | Tue Sep 08 | _TBD_
+| 21 | Thu Sep 03 | Ethics _Guest Monica Bulger, Data & Society_, _TBD_
+| 22 | Tue Sep 08 | _TBD_ _Scaling_
 | 23 | Thu Sep 10 | Final presentations
 _OOO = Out of Office_
 
