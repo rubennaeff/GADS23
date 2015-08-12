@@ -49,7 +49,7 @@ Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-re
 |    |            | **IV. Unsupervised Learning**                                          |
 | 15 | Thu Aug 13 | K-Means Clustering
 | 16 | Tue Aug 18 | Presentations project data explorations, _TBD_
-| 17 | Thu Aug 20 | PCA and Unsupervised Learning
+| 17 | Thu Aug 20 | Dimensionality Reduction, PCA and SVD
 | 18 | Tue Aug 25 | Recommendation Systems & Further Topics in Unsupervised Learning
 |    |            | **V. Various**
 | 19 | Thu Aug 27 | _TBD_ _(RN OOO)_
@@ -193,10 +193,13 @@ _Regression models_
 <!-- **V. Various** -->
 
 <!--
-- 19: TBD _(RN OOO)_
-- 20: TBD: ... + CODE REVIEWS _(Deadline work-in-progress)_
-- 21: Advanced topics: LDA, Neural Networks
-- 22: TBD: Scaling, MapReduce, Hashing
-- 23: FINAL PRESENTATIONS
+- 16 | 08/18 | Presentations project data explorations, PCA? (or graph theory?)
+- 17 | 08/20 | Dimensionality Reduction, PCA and SVD
+- 18 | 08/25 | Recommendation Systems & Further Topics in Unsupervised Learning
+- 19 | 08/27 | TBD _(RN OOO)_  ** field trip OR AWS ***
+- 20 | 09/01 | Spark, AWS, EC2 TBD: ... + CODE REVIEWS _(Deadline work-in-progress)_
+- 21 | 09/03 |  Ethics (guest speaker). Advanced topics: LDA, Neural Networks
+- 22 | 09/08 |  TBD: Scaling, MapReduce, Hashing
+- 23 | 09/10 |  FINAL PRESENTATIONS
 
  -->
