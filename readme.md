@@ -170,18 +170,20 @@ _Regression models_
   - _[Guest Speaker](./guest_speakers.md): Bob Filbin, Chief Data Scientist at Crisis Text Line_
   - **Assignment #3: Classification** [Kaggle competition](https://inclass.kaggle.com/c/gads23-stack-overflow), [data exploration](./14_competition/stack_overflow_exploration.ipynb) and [demo solution](./14_competition/kaggle_competition.py)
 
-<!-- tips for classification: see Andrew Ng. Bias vs Variance -->
-
 **IV. Unsupervised Learning**
 
 - [15: K-MEANS](./15_kmeans/)
   - [Slides](./15_kmeans/gads23_15_kmeans.pdf)
   - [Clustering irises](./15_kmeans/clustering_irises.ipynb) `sklearn`, simple demo
   - [Clustering text](./15_kmeans/clustering_text.ipynb) `sklearn`, 20-newsgroups
+  - [Clustering tags in Stack Overflow](15_kmeans/clustering_tags_on_stack_overflow.ipynb) Jaccard distance
   - KMeans implementation: [notebook](./15_kmeans/kmeans_exercise.ipynb) and [code](./15_kmeans/kmeans_exercise.py) exercise
 
-- [16: PRESENTATIONS PROJECT DATA EXPLORATIONS](.)
+- [16: DIMENSIONALITY REDUCTION, PCA AND SVD](./pca)
   - Presentations data explorations final project
+  - Slides
+  - [PCA Demo](./pca/pca_demo.ipynb) demo of the math
+  - [Facial recognition](./pca/facial_recognition.ipynb) demo and exercise
 
 <!--
   - Maybe hashing & Bloom filters
