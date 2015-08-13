@@ -179,11 +179,11 @@ _Regression models_
   - [Clustering tags in Stack Overflow](15_kmeans/clustering_tags_on_stack_overflow.ipynb) Jaccard distance
   - KMeans implementation: [notebook](./15_kmeans/kmeans_exercise.ipynb) and [code](./15_kmeans/kmeans_exercise.py) exercise
 
-- [16: DIMENSIONALITY REDUCTION, PCA AND SVD](./pca)
+- [16: DIMENSIONALITY REDUCTION, PCA AND SVD](./16_pca)
   - Presentations data explorations final project
   - Slides
-  - [PCA Demo](./pca/pca_demo.ipynb) demo of the math
-  - [Facial recognition](./pca/facial_recognition.ipynb) demo and exercise
+  - [PCA Demo](./16_pca/pca_demo.ipynb) demo of the math
+  - [Facial recognition](./16_pca/facial_recognition.ipynb) demo and exercise
 
 <!--
   - Maybe hashing & Bloom filters
