@@ -182,7 +182,7 @@ _Regression models_
 - [16: DIMENSIONALITY REDUCTION, PCA AND SVD](./16_pca)
   - Presentations data explorations final project
   - Slides
-  - [PCA Demo](./16_pca/pca_demo.ipynb) demo of the math
+  - [PCA Demo](./16_pca/pca_demo_math.ipynb) demo of the math
   - [Facial recognition](./16_pca/facial_recognition.ipynb) demo and exercise
 
 <!--
