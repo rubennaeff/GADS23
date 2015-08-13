@@ -196,13 +196,13 @@ _Regression models_
 <!-- **V. Various** -->
 
 <!--
-- 16 | 08/18 | Presentations project data explorations, PCA? (or graph theory?)
-- 17 | 08/20 | Dimensionality Reduction, PCA and SVD
-- 18 | 08/25 | Recommendation Systems & Further Topics in Unsupervised Learning
-- 19 | 08/27 | TBD _(RN OOO)_  ** field trip OR AWS ***
-- 20 | 09/01 | Spark, AWS, EC2 TBD: ... + CODE REVIEWS _(Deadline work-in-progress)_
-- 21 | 09/03 |  Ethics (guest speaker). Advanced topics: LDA, Neural Networks
-- 22 | 09/08 |  TBD: Scaling, MapReduce, Hashing
+- 16 | 08/18 | Presentations project data explorations, Dimensionality Reduction, PCA and SVD
+- 17 | 08/20 | Recommendation Systems & Further Topics in Unsupervised Learning
+- 18 | 08/25 | Advanced topics: LDA, Neural Networks
+- 19 | 08/27 | TBD _(RN OOO)_  ** field trip OR AWS *** Rob: streaming, hashing, sketch, HLL, AB testing
+- 20 | 09/01 | Field trip // _(Deadline work-in-progress)_  CODE REVIEWS
+- 21 | 09/03 | Ethics (guest speaker) // Scaling, MapReduce, Hashing, Spark, AWS, EC2 TBD: ... +
+- 22 | 09/08 | More AWS % mapreduce
 - 23 | 09/10 |  FINAL PRESENTATIONS
 
  -->
