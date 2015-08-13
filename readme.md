@@ -176,14 +176,15 @@ _Regression models_
   - [Slides](./15_kmeans/gads23_15_kmeans.pdf)
   - [Clustering irises](./15_kmeans/clustering_irises.ipynb) `sklearn`, simple demo
   - [Clustering text](./15_kmeans/clustering_text.ipynb) `sklearn`, 20-newsgroups
-  - [Clustering tags in Stack Overflow](15_kmeans/clustering_tags_on_stack_overflow.ipynb) Jaccard distance
+  - [Clustering tags in Stack Overflow](15_kmeans/clustering_tags_on_stack_overflow.ipynb) Jaccard distance, exercise
   - KMeans implementation: [notebook](./15_kmeans/kmeans_exercise.ipynb) and [code](./15_kmeans/kmeans_exercise.py) exercise
 
 - [16: DIMENSIONALITY REDUCTION, PCA AND SVD](./16_pca)
   - Presentations data explorations final project
   - Slides
   - [PCA Demo](./16_pca/pca_demo_math.ipynb) demo of the math
-  - [Facial recognition](./16_pca/facial_recognition.ipynb) demo and exercise
+  - [Clustering House Legislatures](./16_pca/clustering_house_legislatures.ipynb) demo PCA, polarizing politics
+  - [Facial recognition](./16_pca/facial_recognition.ipynb) demo PCA, SVM and exercise
 
 <!--
   - Maybe hashing & Bloom filters

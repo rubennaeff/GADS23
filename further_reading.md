@@ -47,6 +47,10 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 - A step-by-step [SVD Tutorial](https://www.ling.ohio-state.edu/~kbaker/pubs/Singular_Value_Decomposition_Tutorial.pdf) incl. Latent Semantic Analysis (LSA), by Kirk Baker (no prior knowlegde required)
 
 
+### Sklearn
+- [Tutorials](http://scikit-learn.org/stable/tutorial)
+- [Examples](http://scikit-learn.org/stable/auto_examples/)
+
 ### Git
 - [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) official Getting Started giude
 - The [Git Game](http://pcottle.github.io/learnGitBranching/) for playfully learning git
