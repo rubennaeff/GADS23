@@ -48,14 +48,14 @@ Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-re
 |    |            | _Deadline project outline submissions_
 |    |            | **IV. Unsupervised Learning**                                          |
 | 15 | Thu Aug 13 | K-Means Clustering
-| 16 | Tue Aug 18 | Presentations project data explorations, _TBD_
-| 17 | Thu Aug 20 | Dimensionality Reduction, PCA and SVD
-| 18 | Tue Aug 25 | Recommendation Systems & Further Topics in Unsupervised Learning
+| 16 | Tue Aug 18 | Presentations explorations, Dimensionality Reduction, PCA and SVD
+| 17 | Thu Aug 20 | Recommendation Systems & Further Topics in Unsupervised Learning
+| 18 | Tue Aug 25 | Advanced topics: LDA, Neural Networks
 |    |            | **V. Various**
 | 19 | Thu Aug 27 | _TBD_ _(RN OOO)_
 | 20 | Tue Sep 01 | _TBD_ _Deadline work-in-progress_  (possibly code reviews)
-| 21 | Thu Sep 03 | Ethics _Guest Monica Bulger, Data & Society_, _TBD_
-| 22 | Tue Sep 08 | _TBD_ _Scaling_
+| 21 | Thu Sep 03 | Ethics _Guest Monica Bulger, Data & Society_, Scaling
+| 22 | Tue Sep 08 | _TBD_ Scaling
 | 23 | Thu Sep 10 | Final presentations
 _OOO = Out of Office_
 
@@ -185,6 +185,7 @@ _Regression models_
   - [PCA Demo](./16_pca/pca_demo_math.ipynb) demo of the math
   - [Clustering House Legislatures](./16_pca/clustering_house_legislatures.ipynb) demo PCA, polarizing politics
   - [Facial recognition](./16_pca/facial_recognition.ipynb) demo PCA, SVM and exercise
+  - [Latent Semantic Analysis](16_pca/svd_lsa_demo.ipynb) demo SVD, text clustering
 
 <!--
   - Maybe hashing & Bloom filters
