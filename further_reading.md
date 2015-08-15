@@ -3,7 +3,7 @@
 An overview of where you could learn more.
 
 
-### Full courses
+### Full Courses
 - [GA Data Science](http://www.gadatascience.com/) Complete summary of GADS Course by [Arun Ahuja](https://generalassemb.ly/instructors/arun-ahuja/214)
 - [Khan Academy: Linear Regression and Correlation](https://www.khanacademy.org/math/probability/regression/regression-correlation)
 - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/1) by Andrew Ng (cf. the webpage of his corresponding [Stanford ML course](http://cs229.stanford.edu/)
@@ -16,7 +16,7 @@ An overview of where you could learn more.
 - [Choosing A Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 
 
-### Quick recaps
+### Quick Recaps
 - [Linear Algebra Explained In Four Pages](http://cnd.mcgill.ca/~ivan/miniref/linear_algebra_in_4_pages.pdf)
 - [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/) 8-page [pdf(http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/550ca811e4b0907feb972414/1426892817877/probability_cheatsheet.pdf) with all stats you'll ever need
 

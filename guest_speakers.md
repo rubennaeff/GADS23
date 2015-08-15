@@ -26,3 +26,9 @@ George is the CEO of Instadat, a 3 year old Fintech / Artificial Intelligence co
 #### Monica Bulger, Researcher at Data & Society
 Data & Society is an NYC-based think/do tank focused on social, cultural, and ethical issues arising from data-centric technological development.  Monica Bulger is a Fellow at the Harvard Berkman Center for Internet and Society and a Research Associate at the Oxford Internet Institute. She is an educational researcher contributing policy research to multi-national groups such as UNICEF, ECPAT, and the European Commission. Her work focuses on the implications of technology use for youth with a particular focus on learning, safety, and empowerment. [LinkedIn](https://www.linkedin.com/in/monicab), [monicabulger.com](http://monicabulger.com/), [Data & Society](http://www.datasociety.net/)
 
+
+### Guest Lecturer
+
+#### Robert Doherty, Lead Data Science at Outbrain
+Rob is a lead on the Data Science Team at Outbrain, where he is responsible for data science and engineering projects for a real-time decision support platform for online news media editors. Rob studied engineering and applied linguisitics at Boston University and has built web-scale recommendation and analytics applications at a number of data-driven startups. In his spare time he enjoys craft beer, playing go and upright bass.
+
