@@ -140,10 +140,11 @@ _Regression models_
 
 - [16: DIMENSIONALITY REDUCTION, PCA AND SVD](./16_dim_reduction)
   - Presentations data explorations final project
-  - Slides
-  - [PCA Demo](./16_dim_reduction/pca_demo_math.ipynb) demo of the math
+  - [Slides](./16_dim_reduction/gads23_16_dim_reduction.pdf)
+  - [PCA demo](./16_dim_reduction/pca_demo_math.ipynb) demo of the math
+  - [SVD demo](./16_dim_reduction/svd_pca_math.ipynb) demo of the math
   - [Clustering House Legislatures](./16_dim_reduction/clustering_house_legislatures.ipynb) demo PCA, polarizing politics
-  - [Facial recognition](./16_dim_reduction/facial_recognition.ipynb) demo PCA, SVM and exercise
+  - [Facial Recognition](./16_dim_reduction/facial_recognition.ipynb) demo PCA, SVM and exercise
   - [Latent Semantic Analysis](16_dim_reduction/svd_lsa_demo.ipynb) demo SVD, text clustering
 
 <!--
