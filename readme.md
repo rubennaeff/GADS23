@@ -138,22 +138,26 @@ _Regression models_
   - [Clustering tags in Stack Overflow](15_clustering/clustering_tags_on_stack_overflow.ipynb) Jaccard distance, exercise
   - KMeans implementation: [notebook](./15_clustering/kmeans_exercise.ipynb) and [code](./15_clustering/kmeans_exercise.py) exercise
 
-- [16: DIMENSIONALITY REDUCTION, PCA AND SVD](./16_dim_reduction)
+- [16: DIMENSIONALITY REDUCTION, PCA AND SVD](./16_dim_reduction/)
   - Presentations data explorations final project
   - [Slides](./16_dim_reduction/gads23_16_dim_reduction.pdf)
   - [PCA demo](./16_dim_reduction/pca_demo_math.ipynb) demo of the math
   - [SVD demo](./16_dim_reduction/svd_pca_math.ipynb) demo of the math
   - [Clustering House Legislatures](./16_dim_reduction/clustering_house_legislatures.ipynb) demo PCA, polarizing politics
   - [Facial Recognition](./16_dim_reduction/facial_recognition.ipynb) demo PCA, SVM and exercise
-  - [Latent Semantic Analysis](16_dim_reduction/svd_lsa_demo.ipynb) demo SVD, text clustering
+  - [Latent Semantic Analysis](16_dim_reduction/clustering_text.ipynb) demo SVD, text clustering
 
-<!--
-- 17: RECOMMENDATION SYSTEMS & FURTHER TOPICS IN UNSUPERVISED LEARNING
+- [17: RECOMMENDATION SYSTEMS](./17_recommendations/)
   - Slides
+  - [Recommending Beers](./17_recommendations/recommending_beers.ipynb) Overview of different recommendation methods
+  - [Who To Follow](./17_recommendations/who_to_follow_exercise.ipynb) exercise
   - _[Guest Speaker](./guest_speakers.md): George Kailas, CEO at Instadat_
 
+<!--
 - 18: ADVANCED TOPICS: Neural Networks & LDA
+  - & FURTHER TOPICS IN UNSUPERVISED LEARNING
   - Slides
+
 
 **V. Various**
 
