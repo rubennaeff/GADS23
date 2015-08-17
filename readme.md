@@ -18,12 +18,12 @@ Please do not hesitate to contact any of us!
 [exit ticket](https://docs.google.com/forms/d/1-3HioTz5qPSaqvDvUw1xXSQjGsgD9OVMtVaVWhPjgcg/viewform)
 after each class**
 
-Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-repo) for how to copy and update the course notes to your laptop.
+Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-repo) for how to download the latest course notes to your laptop.
 
 
 ## Resources
 
-- [Syllabus](./syllabus.md)
+- [Calendar](./calendar.md)
 - [Final Project](./final_project.md)
 - [Guest speakers](./guest_speakers.md)
 - [All datasets](./data/)
@@ -131,14 +131,14 @@ _Regression models_
 
 **IV. Unsupervised Learning**
 
-- [15: K-MEANS](./15_clustering/)
+- [15: CLUSTERING](./15_clustering/)
   - [Slides](./15_clustering/gads23_15_kmeans.pdf)
   - [Clustering irises](./15_clustering/clustering_irises.ipynb) `sklearn`, simple demo
   - [Clustering text](./15_clustering/clustering_text.ipynb) `sklearn`, 20-newsgroups
   - [Clustering tags in Stack Overflow](15_clustering/clustering_tags_on_stack_overflow.ipynb) Jaccard distance, exercise
   - KMeans implementation: [notebook](./15_clustering/kmeans_exercise.ipynb) and [code](./15_clustering/kmeans_exercise.py) exercise
 
-- [16: DIMENSIONALITY REDUCTION, PCA AND SVD](./16_dim_reduction/)
+- [16: DIMENSIONALITY REDUCTION](./16_dim_reduction/)
   - Presentations data explorations final project
   - [Slides](./16_dim_reduction/gads23_16_dim_reduction.pdf)
   - [PCA demo](./16_dim_reduction/pca_demo_math.ipynb) demo of the math
@@ -149,8 +149,8 @@ _Regression models_
 
 - [17: RECOMMENDATION SYSTEMS](./17_recommendations/)
   - Slides
-  - [Recommending Beers](./17_recommendations/recommending_beers.ipynb) Overview of different recommendation methods
-  - [Who To Follow](./17_recommendations/who_to_follow_exercise.ipynb) exercise
+  - [Recommending Beers](./17_recommendations/recommending_beers.ipynb) demo of several recommendation methods
+  - [Who To Follow](./17_recommendations/who_to_follow_exercise.ipynb) exercise item-based collaborative filtering
   - _[Guest Speaker](./guest_speakers.md): George Kailas, CEO at Instadat_
 
 <!--
