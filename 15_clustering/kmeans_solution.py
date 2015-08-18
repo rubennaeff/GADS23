@@ -55,7 +55,7 @@ class KMeans():
         distances = np.array([np.sqrt(np.square(X - centroid).sum(axis=1))
                               for centroid in centroids])
         labels = distances.argmin(axis=0)
-        score = distances.min(axis=1).mean()
+        score = distances.min(axis=0).mean()
         return labels, score
 
     def predict(self, X):

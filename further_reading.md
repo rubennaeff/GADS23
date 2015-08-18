@@ -8,7 +8,7 @@ An overview of where you could learn more.
 - [Khan Academy: Linear Regression and Correlation](https://www.khanacademy.org/math/probability/regression/regression-correlation)
 - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/1) by Andrew Ng (cf. the webpage of his corresponding [Stanford ML course](http://cs229.stanford.edu/)
 - [Coursera: Introduction to Data Science](https://www.coursera.org/course/datasci) by Bill Howe
-
+- [Coursera: Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 
 ### General
 - [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
