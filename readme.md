@@ -174,6 +174,8 @@ _Regression models_
   - Ethics by _[Guest Speaker](./guest_speakers.md): Monica Bulger, Researcher at Data & Society
 
 - 22: _TBD_
+  - probably lots of material from previous classes
+  - short talk about predicting student responses (i.e. your talk for Sonia's class)
 
 - 23: FINAL PRESENTATIONS
  -->

@@ -47,9 +47,20 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 - A step-by-step [SVD Tutorial](https://www.ling.ohio-state.edu/~kbaker/pubs/Singular_Value_Decomposition_Tutorial.pdf) incl. Latent Semantic Analysis (LSA), by Kirk Baker (no prior knowlegde required)
 
 
+### Recommendations
+- [Matrix factorization techniques](http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf) Yahoo! and AT&T
+- [Netflix Prize](http://www.netflixprize.com/) and the [BellKor Solution](http://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf)
+- [Netflix Recommendations](http://techblog.netflix.com/2012/04/netflix-recommendations-beyond-5-stars.html) blog posts
+
+
+### Distributed Systems
+- [Yahoo! Hadoop Tutorial](https://developer.yahoo.com/hadoop/tutorial/)
+
+
 ### Sklearn
 - [Tutorials](http://scikit-learn.org/stable/tutorial)
 - [Examples](http://scikit-learn.org/stable/auto_examples/)
+
 
 ### Git
 - [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) official Getting Started giude
