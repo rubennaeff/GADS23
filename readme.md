@@ -148,7 +148,7 @@ _Regression models_
   - [Latent Semantic Analysis](16_dim_reduction/clustering_text.ipynb) demo SVD, text clustering
 
 - [17: RECOMMENDATION SYSTEMS](./17_recommendations/)
-  - Slides
+  - [Slides](./17_recommendations/gads23_17_recommendations.pdf)
   - [Recommending Beers](./17_recommendations/recommending_beers.ipynb) demo of several recommendation methods
   - [Who To Follow](./17_recommendations/who_to_follow_exercise.ipynb) exercise item-based collaborative filtering
   - _[Guest Speaker](./guest_speakers.md): George Kailas, CEO at Instadat_
