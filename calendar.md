@@ -28,8 +28,8 @@ This syllabus might be subject to change during the course.  We will tailor topi
 |    |            | **IV. Unsupervised Learning**
 | 15 | Thu Aug 13 | K-Means Clustering
 | 16 | Tue Aug 18 | Presentations explorations, Dimensionality Reduction, PCA, SVD
-| 17 | Thu Aug 20 | Recommendation Systems
-| 18 | Tue Aug 25 | Advanced topics: LDA, Neural Networks _Guest George Kailas, Instadat_
+| 17 | Thu Aug 20 | Recommendation Systems, _Guest George Kailas, Instadat_
+| 18 | Tue Aug 25 | Advanced topics: LDA, Neural Networks
 |    |            | **V. Various**
 | 19 | Thu Aug 27 | Hashing, by Robert Doherty, Lead Data Science at Outbrain _(RN OOO)_
 | 20 | Tue Sep 01 | _TBD_ _Deadline work-in-progress_  (possibly code reviews)
