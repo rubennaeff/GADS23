@@ -22,11 +22,6 @@ Also see [Further Reading](./further_reading.md) for a more serious overview of 
   - [Less Noise but More Money in Data Science](http://bits.blogs.nytimes.com/2015/04/28/less-noise-but-more-money-in-data-science/) April 28, 2015
 
 
-### Miscelaneous Tools
-- [Wordle](http://www.wordle.net/) Making word clouds
-- [Twitter API](https://pypi.python.org/pypi/twitter), [tweepy](http://www.tweepy.org/) and [many other libraries](https://dev.twitter.com/overview/api/twitter-libraries)
-
-
 ### Social
 - [NYC Data Science Meetups](http://www.meetup.com/find/events/?keywords=data+science&radius=5&userFreeform=New+York%2C+NY)
 

@@ -175,9 +175,10 @@ _Regression models_
 - 20: FIELD TRIP
   - Code Reviews work-in-progress
 
-- 21: DISTRIBUTED SYSTEMS
+- [21: MAPREDUCE](./21_mapreduce/)
+  - [Slides](./21_mapreduce/gads23_21_mapreduce.pdf)
+  - [Multiprocessing in Python](./21_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
   - Scaling, MapReduce, Spark, AWS, EC2
-  -  (guest speaker)
   - Ethics by _[Guest Speaker](./guest_speakers.md): Monica Bulger, Researcher at Data & Society
 
 - 22: _TBD_

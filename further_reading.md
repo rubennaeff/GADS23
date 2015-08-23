@@ -2,6 +2,11 @@
 
 An overview of where you could learn more.
 
+- [Theory](#theory)
+- [Tools](#tools)
+
+
+## Theory
 
 ### Full Courses
 - [GA Data Science](http://www.gadatascience.com/) Complete summary of GADS Course by [Arun Ahuja](https://generalassemb.ly/instructors/arun-ahuja/214)
@@ -9,6 +14,7 @@ An overview of where you could learn more.
 - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/1) by Andrew Ng (cf. his corresponding [college course](http://cs229.stanford.edu/), Stanford University
 - [Coursera: Introduction to Data Science](https://www.coursera.org/course/datasci) by Bill Howe, University of Washington
 - [Coursera: Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) by Geoffrey Hinton, University of Toronto
+
 
 ### Books
 - [Pattern Recognition and Machine Learning](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738) by Christopher Bishop
@@ -35,7 +41,6 @@ An overview of where you could learn more.
 
 ### Random Forests
 - [Random Forests intro on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests)
-- Google's orginal [MapReduce paper (2004)](http://research.google.com/archive/mapreduce.html)
 - [Random Forests](http://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#overview) by Leo Breiman and Adele Cutler (cf. their [original paper (2001)](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf))
 - [Bagging Predictors (1994)](http://www.stat.berkeley.edu/~breiman/bagging.pdf) by Leo Breiman
 materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Colin Campbell
@@ -76,7 +81,17 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 
 
 ### Distributed Systems
+- Google's original [MapReduce paper (2004)](http://research.google.com/archive/mapreduce.html)
+- Google's original [Google File System (GFS) paper (2003)](http://research.google.com/archive/gfs.html)
 - [Yahoo! Hadoop Tutorial](https://developer.yahoo.com/hadoop/tutorial/)
+- O'Reilly's [Hadoop: The Definitive Guide](http://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520)
+- [Helpful Design Patterns](http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
+- [Map-Reduce for Machine Learning on Multicore](http://ai.stanford.edu/~ang/papers/nips06-mapreducemulticore.pdf), Stanford University, NIPS 2006 paper
+- [Twitter deck](http://www.slideshare.net/kevinweil/hadoop-pig-and-twitter-nosql-east-2009) on their use of Hadoop & Pig
+- [Implementing map-reduce in python from scratch])(http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/) (just for fun)
+
+
+## Tools
 
 
 ### Sklearn
@@ -87,5 +102,23 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 ### Git
 - [Pro Git](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) official Getting Started giude
 - The [Git Game](http://pcottle.github.io/learnGitBranching/) for playfully learning git
+
+
+### Amazon Web Services
+- [Instructional Videos and Labs](https://aws.amazon.com/training/intro_series/)
+- [My $2375 Amazon EC2 Mistake](http://www.devfactor.net/2014/12/30/2375-amazon-mistake/) **never** share your key pairs!
+
+### Scaling ML packages
+- [Keras](https://github.com/fchollet/keras)
+- [Vopal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)
+- [Torch](http://torch.ch/)
+- [Caffe](http://caffe.berkeleyvision.org/)
+- [Theano](http://deeplearning.net/software/theano/)
+
+
+### Miscelaneous
+- [d3js](http://d3js.org/) visualizations
+- [Wordle](http://www.wordle.net/) Making word clouds
+- [Twitter API](https://pypi.python.org/pypi/twitter), [tweepy](http://www.tweepy.org/) and [many other libraries](https://dev.twitter.com/overview/api/twitter-libraries)
 
 
