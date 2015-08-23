@@ -129,6 +129,7 @@ _Regression models_
   - _[Guest Speaker](./guest_speakers.md): Bob Filbin, Chief Data Scientist at Crisis Text Line_
   - **Assignment #3: Classification** [Kaggle competition](https://inclass.kaggle.com/c/gads23-stack-overflow), [data exploration](./14_competition/stack_overflow_exploration.ipynb) and [demo solution](./14_competition/kaggle_competition.py)
 
+
 **IV. Unsupervised Learning**
 
 - [15: CLUSTERING](./15_clustering/)
@@ -153,14 +154,18 @@ _Regression models_
   - [Who To Follow](./17_recommendations/who_to_follow_exercise.ipynb) exercise item-based collaborative filtering
   - _[Guest Speaker](./guest_speakers.md): George Kailas, CEO at Instadat_
 
-<!--
-- 18: ADVANCED TOPICS: Neural Networks & LDA
-  - & FURTHER TOPICS IN UNSUPERVISED LEARNING
-  - Slides
-
 
 **V. Various**
 
+- [18: NEURAL NETWORKS](./18_neural_nets/)
+  - [Slides](./18_neural_nets/gads23_18_neural_nets.pdf)
+  - [Neurons and the brain](https://class.coursera.org/ml-005/lecture/44), [Handwritten digit recognition](https://class.coursera.org/ml-005/lecture/48) and [Autonomous driving example](https://class.coursera.org/ml-005/lecture/57) by Andrew Ng
+  - [Python implementation](./18_neural_nets/neural_network.py) and demonstrating notebook (./18_neural_nets/nn_implementation.ipynb) _optional_ deep dive
+
+- 19: STREAMING
+  - _[Guest Lecturer](./guest_speakers.md): Robert Doherty, Lead Data Science at Outbrain
+
+<!--
 - 19: STREAMING
   - _[Guest Lecturer](./guest_speakers.md): Robert Doherty, Lead Data Science at Outbrain
   - Streaming, hashing, sketch, HLL, AB testing

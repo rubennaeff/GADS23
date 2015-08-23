@@ -10,6 +10,9 @@ An overview of where you could learn more.
 - [Coursera: Introduction to Data Science](https://www.coursera.org/course/datasci) by Bill Howe
 - [Coursera: Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 
+### Books
+- [Pattern Recognition and Machine Learning by Christopher Bishop](http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+
 ### General
 - [A Few Useful Things to Know about Machine Learning](http://www.astro.caltech.edu/~george/ay122/cacm12.pdf)
 - [A Tour Of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
