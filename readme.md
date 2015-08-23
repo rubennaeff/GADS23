@@ -161,6 +161,8 @@ _Regression models_
   - [Slides](./18_neural_nets/gads23_18_neural_nets.pdf)
   - [Neurons and the brain](https://class.coursera.org/ml-005/lecture/44), [Handwritten digit recognition](https://class.coursera.org/ml-005/lecture/48) and [Autonomous driving example](https://class.coursera.org/ml-005/lecture/57) by Andrew Ng
   - [Python implementation](./18_neural_nets/neural_network.py) and demonstrating notebook (./18_neural_nets/nn_implementation.ipynb) _optional_ deep dive
+  - [Restriced Boltzmann Machines](./18_neural_nets/boltzmann_feature_extraction.ipynb) feature extraction using neural nets in `sklearn` (./18_neural_nets/nn_implementation.ipynb) _optional_ demo
+
 
 - 19: STREAMING
   - _[Guest Lecturer](./guest_speakers.md): Robert Doherty, Lead Data Science at Outbrain
