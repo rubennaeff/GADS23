@@ -120,5 +120,6 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 - [d3js](http://d3js.org/) visualizations
 - [Wordle](http://www.wordle.net/) Making word clouds
 - [Twitter API](https://pypi.python.org/pypi/twitter), [tweepy](http://www.tweepy.org/) and [many other libraries](https://dev.twitter.com/overview/api/twitter-libraries)
+- [Geopy](https://pypi.python.org/pypi/geopy) locate the coordinates of addresses using geocoders
 
 
