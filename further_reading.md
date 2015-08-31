@@ -91,6 +91,12 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 - [Implementing map-reduce in python from scratch])(http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/) (just for fun)
 
 
+### Predicting Student Reponses
+- [Short presentation](https://docs.google.com/presentation/d/172cutNYJHbmW8utva5OLi-Cpac043bFlls0K96V45HE)
+- [How Well Can You Predict Student Reponses?](http://tech.knewton.com/blog/2015/01/well-can-predict-student-responses/) Knewton blog post
+- [On the Limits of Psychometric Testing in Online Education](http://dsp.rice.edu/sites/dsp.rice.edu/files/Paper3.pdf) paper by Ruben Naeff & Zack Nichols, Knewton for [NIPS 2014](https://nips.cc/Conferences/2014/) Workshop [human propelled machine learning](http://dsp.rice.edu/HumanPropelledML_NIPS2014)
+
+
 ## Tools
 
 

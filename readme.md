@@ -148,31 +148,27 @@ _Regression models_
   - [Facial Recognition](./16_dim_reduction/facial_recognition.ipynb) demo PCA, SVM and exercise
   - [Latent Semantic Analysis](16_dim_reduction/clustering_text.ipynb) demo SVD, text clustering
 
-- [17: RECOMMENDATION SYSTEMS](./17_recommendations/)
+- [17/18: RECOMMENDATION SYSTEMS](./17_recommendations/)
   - [Slides](./17_recommendations/gads23_17_recommendations.pdf)
   - [Recommending Beers](./17_recommendations/recommending_beers.ipynb) demo of several recommendation methods
   - [Who To Follow](./17_recommendations/who_to_follow_exercise.ipynb) exercise item-based collaborative filtering
   - _[Guest Speaker](./guest_speakers.md): George Kailas, CEO at Instadat_
+  - Extracurricular: [predicting student responses](./further_reading.md#predicting-student-reponses)
 
 
 **V. Various**
 
-- [18: NEURAL NETWORKS](./18_neural_nets/)
-  - [Slides](./18_neural_nets/gads23_18_neural_nets.pdf)
-  - Videos: [Neurons and the brain](https://class.coursera.org/ml-005/lecture/44), [Digit recognition](https://class.coursera.org/ml-005/lecture/48) and [Autonomous driving](https://class.coursera.org/ml-005/lecture/57) by Andrew Ng
-  - [Python implementation](./18_neural_nets/neural_network.py) and [demonstrating notebook](./18_neural_nets/nn_implementation.ipynb) _optional_ deep dive
-  - [Restriced Boltzmann Machines](./18_neural_nets/boltzmann_feature_extraction.ipynb) _optional_ demo unsupervied neural nets in `sklearn`
-
-
-- 19: STREAMING
+- [19: GUEST LECTURE - CONJUGATE PRIORS](./19_guest/)
   - [Guest Lecturer](./guest_speakers.md): Robert Doherty, Lead Data Science at Outbrain
+  - [The Beta Distribution](./19_guest/Beta_Distribution.ipynb)
+  - [Instant Headline Testing](./19_guest/Instant_Headline_Testing.ipynb.ipynb)
+  - [Amazon Resellers](./19_guest/LAB-The_Beta_Distribution_and_Amazon_Resellers.ipynb.ipynb) LAB incl exercises
 
-<!--
-- 19: STREAMING
-  - _[Guest Lecturer](./guest_speakers.md): Robert Doherty, Lead Data Science at Outbrain
-  - Streaming, hashing, sketch, HLL, AB testing
-
-- 20: FIELD TRIP
+- [20: NEURAL NETWORKS](./20_neural_nets/)
+  - [Slides](./20_neural_nets/gads23_20_neural_nets.pdf)
+  - Videos: [Neurons and the brain](https://class.coursera.org/ml-005/lecture/44), [Digit recognition](https://class.coursera.org/ml-005/lecture/48) and [Autonomous driving](https://class.coursera.org/ml-005/lecture/57) by Andrew Ng
+  - [Python implementation](./20_neural_nets/neural_network.py) and [demonstrating notebook](./20_neural_nets/nn_implementation.ipynb) _optional_ deep dive
+  - [Restriced Boltzmann Machines](./20_neural_nets/boltzmann_feature_extraction.ipynb) _optional_ demo unsupervied neural nets in `sklearn`
   - Code Reviews work-in-progress
 
 - [21: MAPREDUCE](./21_mapreduce/)
@@ -180,6 +176,13 @@ _Regression models_
   - [Multiprocessing in Python](./21_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
   - Scaling, MapReduce, Spark, AWS, EC2
   - Ethics by _[Guest Speaker](./guest_speakers.md): Monica Bulger, Researcher at Data & Society
+
+<!--
+- 19: STREAMING
+  - _[Guest Lecturer](./guest_speakers.md): Robert Doherty, Lead Data Science at Outbrain
+  - Streaming, hashing, sketch, HLL, AB testing
+
+- 20: FIELD TRIP
 
 - 22: _TBD_
   - probably lots of material from previous classes

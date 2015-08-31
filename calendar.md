@@ -29,12 +29,12 @@ This syllabus might be subject to change during the course.  We will tailor topi
 | 15 | Thu Aug 13 | K-Means Clustering
 | 16 | Tue Aug 18 | Presentations explorations, Dimensionality Reduction, PCA, SVD
 | 17 | Thu Aug 20 | Recommendation Systems, _Guest George Kailas, Instadat_
-| 18 | Tue Aug 25 | Advanced topics: LDA, Neural Networks
+| 18 | Tue Aug 25 | Recommendation Systems II
 |    |            | **V. Various**
-| 19 | Thu Aug 27 | Hashing, by Robert Doherty, Lead Data Science at Outbrain _(RN OOO)_
-| 20 | Tue Sep 01 | _TBD_ _Deadline work-in-progress_  (possibly code reviews)
+| 19 | Thu Aug 27 | Guest Lecture by Robert Doherty, Lead Data Science at Outbrain _(RN OOO)_
+| 20 | Tue Sep 01 | Neural Networks, code reviews _Deadline work-in-progress_
 | 21 | Thu Sep 03 | Ethics _Guest Monica Bulger, Data & Society_, Scaling
-| 22 | Tue Sep 08 | _TBD_ Scaling
+| 22 | Tue Sep 08 | Various topics
 | 23 | Thu Sep 10 | Final presentations
 _OOO = Out of Office_
 
