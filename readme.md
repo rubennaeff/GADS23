@@ -161,8 +161,8 @@ _Regression models_
 - [19: GUEST LECTURE - CONJUGATE PRIORS](./19_guest/)
   - [Guest Lecturer](./guest_speakers.md): Robert Doherty, Lead Data Science at Outbrain
   - [The Beta Distribution](./19_guest/Beta_Distribution.ipynb)
-  - [Instant Headline Testing](./19_guest/Instant_Headline_Testing.ipynb.ipynb)
-  - [Amazon Resellers](./19_guest/LAB-The_Beta_Distribution_and_Amazon_Resellers.ipynb.ipynb) LAB incl exercises
+  - [Instant Headline Testing](./19_guest/Instant_Headline_Testing.ipynb)
+  - [Amazon Resellers](./19_guest/LAB-The_Beta_Distribution_and_Amazon_Resellers.ipynb) LAB incl exercises
 
 - [20: NEURAL NETWORKS](./20_neural_nets/)
   - [Slides](./20_neural_nets/gads23_20_neural_nets.pdf)
@@ -175,7 +175,7 @@ _Regression models_
   - [Slides](./21_mapreduce/gads23_21_mapreduce.pdf)
   - [Multiprocessing in Python](./21_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
   - Scaling, MapReduce, Spark, AWS, EC2
-  - Ethics by _[Guest Speaker](./guest_speakers.md): Monica Bulger, Researcher at Data & Society
+  - Ethics by [Guest Speaker](./guest_speakers.md): Monica Bulger, Researcher at Data & Society
 
 <!--
 - 19: STREAMING
