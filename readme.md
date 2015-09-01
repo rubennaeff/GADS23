@@ -171,34 +171,20 @@ _Regression models_
   - [Restriced Boltzmann Machines](./20_neural_nets/boltzmann_feature_extraction.ipynb) _optional_ demo unsupervied neural nets in `sklearn`
   - Code Reviews work-in-progress
 
-- [21: MAPREDUCE](./21_mapreduce/)
+- [21: MAP-REDUCE](./21_mapreduce/)
   - [Slides](./21_mapreduce/gads23_21_mapreduce.pdf)
   - [Multiprocessing in Python](./21_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
   - Scaling, MapReduce, Spark, AWS, EC2
   - Ethics by [Guest Speaker](./guest_speakers.md): Monica Bulger, Researcher at Data & Society
 
+- 22: VARIOUS
+
+- 23: FINAL PROJECT PRESENTATIONS
+
 <!--
-- 19: STREAMING
-  - _[Guest Lecturer](./guest_speakers.md): Robert Doherty, Lead Data Science at Outbrain
+- EXTRA
   - Streaming, hashing, sketch, HLL, AB testing
-
-- 20: FIELD TRIP
-
-- 22: _TBD_
+  - FIELD TRIP
   - probably lots of material from previous classes
-  - short talk about predicting student responses (i.e. your talk for Sonia's class)
-
-- 23: FINAL PRESENTATIONS
- -->
-
-
-<!--
-- 16 | 08/18 | Presentations project data explorations, Dimensionality Reduction, PCA and SVD
-- 17 | 08/20 | Recommendation Systems & Further Topics in Unsupervised Learning
-- 18 | 08/25 | Advanced topics: LDA, Neural Networks
-- 19 | 08/27 | Hashing, by Robert Doherty, Lead Data Science at Outbrain _(RN OOO)_  Rob: streaming, hashing, sketch, HLL, AB testing
-- 20 | 09/01 | Field trip // _(Deadline work-in-progress)_  CODE REVIEWS
-- 21 | 09/03 | Ethics (guest speaker) // Scaling, MapReduce, Hashing, Spark, AWS, EC2 TBD: ... +
-- 22 | 09/08 | More AWS & mapreduce
-- 23 | 09/10 | FINAL PRESENTATIONS
+  - LDA
  -->
