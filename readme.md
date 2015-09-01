@@ -160,6 +160,8 @@ _Regression models_
 
 - [19: GUEST LECTURE - CONJUGATE PRIORS](./19_guest/)
   - [Guest Lecturer](./guest_speakers.md): Robert Doherty, Lead Data Science at Outbrain
+  - [Streaming Data Algorithms](./19_guest/streaming.pdf): Part 1 slides
+  - [Bayesian A/B Headline Testing](./19_guest/bayes_ab.pdf): Part 2 slides
   - [The Beta Distribution](./19_guest/Beta_Distribution.ipynb)
   - [Instant Headline Testing](./19_guest/Instant_Headline_Testing.ipynb)
   - [Amazon Resellers](./19_guest/LAB-The_Beta_Distribution_and_Amazon_Resellers.ipynb) LAB incl exercises
