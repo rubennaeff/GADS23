@@ -18,7 +18,7 @@ We assume you have completed the following steps:
 
 Most importantly for us, Spark supports a Python API to write Python Spark jobs or interact with data on cluster through a shell.
 
-It is also possible to launch an ipython notebook on your master node, and use spark just from within your browser as you are used to.  Unfortunately, AWS's software packages change rapidly, and versions do not always align.  In the current setup, this would require quite some configuration.  We will stick therefore with the regular python interface, but you are free to experiment with the ipython notebook.  You could start your experiment by checking out [gadatascience.com](http://gadatascience.com).
+It is also possible to launch an ipython notebook on your master node, and use spark just from within your browser as you are used to.  Unfortunately, AWS's software packages change rapidly, and versions do not always align.  In the current setup, this would require quite some configuration.  We will stick therefore with the regular python interface, but you are free to experiment with the ipython notebook.  You could start your experiment by checking out [gadatascience.com](http://www.gadatascience.com/scaling/pyspark.html).
 
 Assuming you have successfully launched your spark cluster, ssh'ed into your master node and downloaded data to the Hadoop filesystem, you are ready to launch PySpark and experiment with parallel computing.
 

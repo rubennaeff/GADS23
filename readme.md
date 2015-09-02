@@ -176,7 +176,7 @@ _Regression models_
 - [21: MAP-REDUCE](./21_mapreduce/)
   - [Slides](./21_mapreduce/gads23_21_mapreduce.pdf)
   - [Multiprocessing in Python](./21_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
-  - Ethics by [Guest Speaker](./guest_speakers.md): Monica Bulger, Researcher at Data & Society
+  - [Guest Speaker](./guest_speakers.md): Ethics by Monica Bulger, Researcher at Data & Society
   - [Amazon Web Services](./21_mapreduce/aws/)
     - [Slides](./21_mapreduce/aws/gads23_aws.pdf)
     - [Introduction to Amazon Web Services](./21_mapreduce/aws/readme.md)

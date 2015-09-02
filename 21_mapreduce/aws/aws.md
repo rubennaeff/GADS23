@@ -72,8 +72,8 @@ You should be able to copy the ssh command  directly from that screen to your te
     ssh -i myKeyPair.pem ec2-user@11.123.123.11
 
 #### Windows
-- Download `putty` and `puttygen` from [here](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
-- Follow instructions for connecting on a windows machine using putty are [here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html?console_help=true).
+- Download `putty` and `puttygen` from the [PuTTY Download Page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+- Follow instructions on [Connecting to Your Linux Instance from Windows Using PuTTY](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html?console_help=true).
 - After you launch your instance, you can connect to it and use it the way that you'd use a computer sitting in front of you.
 
 
@@ -101,4 +101,8 @@ Please follow the prompted instructions. You will ssh into your master node by t
 The console will ask a security question. Type `yes`.
 
 When ssh'ed into your master node, follow the steps under [Hadoop](./hadoop.md) and [Spark](./spark.md) to get some experience with HDFS and PySpark, respectively.
+
+More information on launching a Spark cluster on AWS can be found on
+- [Apache Spark on Amazon EMR](http://aws.amazon.com/elasticmapreduce/details/spark/)
+- [Create a Cluster With Spark](https://docs.aws.amazon.com/ElasticMapReduce/latest/ReleaseGuide/emr-spark-launch.html)
 

@@ -46,8 +46,8 @@ Note that all unix commands work just fine on your instance.
 ls
 cd ml-10M100K
 ls
-cat movies.dat |head
-cat movies.dat |wc -l
+cat movies.dat | head
+cat movies.dat | wc -l
 cd ~
 ```
 
