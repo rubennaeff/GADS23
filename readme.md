@@ -173,18 +173,17 @@ _Regression models_
   - [Restriced Boltzmann Machines](./20_neural_nets/boltzmann_feature_extraction.ipynb) _optional_ demo unsupervied neural nets in `sklearn`
   - Code Reviews work-in-progress
 
-- [21: MAP-REDUCE](./21_mapreduce/)
+- [21/22: MAP-REDUCE](./21_mapreduce/)
   - [Slides](./21_mapreduce/gads23_21_mapreduce.pdf)
   - [Multiprocessing in Python](./21_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
-  - [Guest Speaker](./guest_speakers.md): Ethics by Monica Bulger, Researcher at Data & Society
+  - [mrjob](./21_mapreduce/mrjob/) _optional_ mapreduce framework in python
   - [Amazon Web Services](./21_mapreduce/aws/)
     - [Slides](./21_mapreduce/aws/gads23_aws.pdf)
     - [Introduction to Amazon Web Services](./21_mapreduce/aws/readme.md)
     - [Setting Up AWS](./21_mapreduce/aws/aws.md)
     - [The Hadoop File System (HDFS)](./21_mapreduce/aws/hadoop.md)
     - [Spark](./21_mapreduce/aws/spark.md)
-
-- 22: VARIOUS
+  - [Guest Speaker](./guest_speakers.md): Ethics by Monica Bulger, Researcher at Data & Society
 
 - 23: FINAL PROJECT PRESENTATIONS
 
