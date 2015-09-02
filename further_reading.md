@@ -78,6 +78,7 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 - Book: [Guide to Neural Computing Applications](http://www.amazon.com/Neural-Computing-Applications-Hodder-Publication/dp/0340705892) by Lionel Tarassenko
 - [Deep Learning Google Plus Community](https://plus.google.com/communities/112866381580457264725)
 - [Get off the deep learning bandwagon and get some perspective](http://www.pyimagesearch.com/2014/06/09/get-deep-learning-bandwagon-get-perspective/) Opposing view
+- [A Neural Algorithm of Artistic Style](http://arxiv.org/pdf/1508.06576v1.pdf) computers imitating artists
 
 
 ### Distributed Systems
