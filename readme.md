@@ -176,8 +176,13 @@ _Regression models_
 - [21: MAP-REDUCE](./21_mapreduce/)
   - [Slides](./21_mapreduce/gads23_21_mapreduce.pdf)
   - [Multiprocessing in Python](./21_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
-  - Scaling, MapReduce, Spark, AWS, EC2
   - Ethics by [Guest Speaker](./guest_speakers.md): Monica Bulger, Researcher at Data & Society
+  - [Amazon Web Services](./21_mapreduce/aws/)
+    - [Slides](./21_mapreduce/aws/gads23_aws.pdf)
+    - [Introduction to Amazon Web Services](./21_mapreduce/aws/readme.md)
+    - [Setting Up AWS](./21_mapreduce/aws/aws.md)
+    - [The Hadoop File System (HDFS)](./21_mapreduce/aws/hadoop.md)
+    - [Spark](./21_mapreduce/aws/spark.md)
 
 - 22: VARIOUS
 
