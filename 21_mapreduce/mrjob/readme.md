@@ -13,7 +13,7 @@
 
 To get started, install with pip:
 
-  pip install mrjob
+    pip install mrjob
 
 and begin reading the tutorial of the [official documentation](https://pythonhosted.org/mrjob/).
 
@@ -33,21 +33,26 @@ The folder also contains a couple input text files [wc_input.txt](./wc_input.txt
 
 To run the example, type
 
-  cat wc_input.txt | python mr_ex.py > test
+```sh
+cat wc_input.txt | python mr_ex.py > test
+```
 
 The last part `> test` will save the standard output to a file.  This is optional, but it seperates the actual output with the many logging messages the script generates.
 
 To view the output, type
 
-  cat test
+```sh
+cat test
+```
 
 You will see:
 
-  "carmen"  2
-  "in"  6
-  "is"  3
-  "sandiego"  1
-  "the" 5
-  "where" 7
-  "world" 4
-
+```txt
+"carmen"  2
+"in"  6
+"is"  3
+"sandiego"  1
+"the" 5
+"where" 7
+"world" 4
+```
