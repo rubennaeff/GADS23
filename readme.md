@@ -158,7 +158,7 @@ _Regression models_
 
 **V. Various**
 
-- [19: GUEST LECTURE - CONJUGATE PRIORS](./19_guest/)
+- [19: GUEST LECTURE - HASHING, A/B TESTING, CONJUGATE PRIORS](./19_guest/)
   - [Guest Lecturer](./guest_speakers.md): Robert Doherty, Lead Data Science at Outbrain
   - [Streaming Data Algorithms](./19_guest/streaming.pdf): Part 1 slides
   - [Bayesian A/B Headline Testing](./19_guest/bayes_ab.pdf): Part 2 slides
@@ -173,16 +173,17 @@ _Regression models_
   - [Restriced Boltzmann Machines](./20_neural_nets/boltzmann_feature_extraction.ipynb) _optional_ demo unsupervied neural nets in `sklearn`
   - Code Reviews work-in-progress
 
-- [21/22: MAP-REDUCE](./21_mapreduce/)
-  - [Slides](./21_mapreduce/gads23_21_mapreduce.pdf)
-  - [Multiprocessing in Python](./21_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
-  - [mrjob](./21_mapreduce/mrjob/) _optional_ mapreduce framework in python
-  - [Amazon Web Services](./21_mapreduce/aws/)
-    - [Slides](./21_mapreduce/aws/gads23_aws.pdf)
-    - [Introduction to Amazon Web Services](./21_mapreduce/aws/readme.md)
-    - [Setting Up AWS](./21_mapreduce/aws/aws.md)
-    - [The Hadoop File System (HDFS)](./21_mapreduce/aws/hadoop.md)
-    - [Spark](./21_mapreduce/aws/spark.md)
+- [21: Amazon Web Services](./21_aws/)
+  - [Slides](./21_aws/gads23_aws.pdf)
+  - [Introduction to Amazon Web Services](./21_aws/readme.md)
+  - [Setting Up AWS](./21_aws/aws.md)
+  - [The Hadoop File System (HDFS)](./21_aws/hadoop.md)
+  - [Spark](./21_aws/spark.md)
+
+- [22: MAP-REDUCE](./22_mapreduce/)
+  - [Slides](./22_mapreduce/gads23_22_mapreduce.pdf)
+  - [Multiprocessing in Python](./22_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
+  - [mrjob](./22_mapreduce/mrjob/) _optional_ mapreduce framework in python
   - [Guest Speaker](./guest_speakers.md): Ethics by Monica Bulger, Researcher at Data & Society
 
 - 23: FINAL PROJECT PRESENTATIONS

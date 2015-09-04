@@ -61,6 +61,8 @@ An _EC2 instance_ is just a computer on which you can run your applications.  Fo
 
 ### SSH to EC2
 
+To login to your local machine, follow the steps below.
+
 #### Linux and Mac
 - Return to the instances tab on the EC2 dashboard
 - Select the instance you created (wait until Instance State is 'running' and Statuc Checks are green)
@@ -75,6 +77,51 @@ You should be able to copy the ssh command  directly from that screen to your te
 - Download `putty` and `puttygen` from the [PuTTY Download Page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 - Follow instructions on [Connecting to Your Linux Instance from Windows Using PuTTY](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html?console_help=true).
 - After you launch your instance, you can connect to it and use it the way that you'd use a computer sitting in front of you.
+
+
+#### On your EC2 instance
+
+When you're ssh'ed into your instance, you can use the usual unix commands you're used to (supposed you launched a unix machine).
+
+```sh
+ls  # look around in current folder - this is empty
+cd /  # go to root folder
+ls  # look around there - that's pretty full
+cd ~  # go back to home folder
+```
+
+You can create a python file and run it.
+
+```sh
+echo print \"hello world" > hello.py
+python hello.py
+```
+
+You should be able to install package easily.
+
+```sh
+pip install --upgrade pip
+sudo pip install pandas
+sudo pip install numpy
+```
+
+To copy a file from your local machine to your EC2 instance, go to your local machine, to the folder of your file, and type
+
+```sh
+scp -i myKeyPair.pem readme.md ec2-user@11.123.123.11:~  # copies readme.md to the EC2's ~ folder
+```
+
+Or, vice versa, downloading a file from the instance to your local machine:
+
+```sh
+scp -i myKeyPair.pem ec2-user@11.123.123.11:~/hello.py .  # downloads hello.py from the EC2's ~ folder
+```
+
+#### web hosting
+
+If you set up the right permissions in your AWS console, you should be able to run your Flask site on your ec2 instance, and access the website at the same IP address
+
+    http://11.123.123.11
 
 
 ### Launching a Spark Cluster
