@@ -174,7 +174,7 @@ _Regression models_
   - Code Reviews work-in-progress
 
 - [21: Amazon Web Services](./21_aws/)
-  - [Slides](./21_aws/gads23_aws.pdf)
+  - [Slides](./21_aws/gads23_21_aws.pdf)
   - [Introduction to Amazon Web Services](./21_aws/readme.md)
   - [Setting Up AWS](./21_aws/aws.md)
   - [The Hadoop File System (HDFS)](./21_aws/hadoop.md)
