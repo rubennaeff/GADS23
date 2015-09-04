@@ -30,7 +30,7 @@ An overview of where you could learn more.
 
 ### Quick Recaps
 - [Linear Algebra Explained In Four Pages](http://cnd.mcgill.ca/~ivan/miniref/linear_algebra_in_4_pages.pdf)
-- [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/) 8-page [pdf(http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/550ca811e4b0907feb972414/1426892817877/probability_cheatsheet.pdf) with all stats you'll ever need
+- [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet/) 8-page [pdf](http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/550ca811e4b0907feb972414/1426892817877/probability_cheatsheet.pdf) with all stats you'll ever need
 
 
 ### Bayes
@@ -43,7 +43,6 @@ An overview of where you could learn more.
 - [Random Forests intro on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests)
 - [Random Forests](http://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm#overview) by Leo Breiman and Adele Cutler (cf. their [original paper (2001)](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf))
 - [Bagging Predictors (1994)](http://www.stat.berkeley.edu/~breiman/bagging.pdf) by Leo Breiman
-materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Colin Campbell
 - Beautiful [decision tree visualization](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) with explanation
 
 
@@ -76,6 +75,7 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 - Book: Microsoft's [Deep Learning: Methods and Applications](http://research.microsoft.com/pubs/209355/NOW-Book-Revised-Feb2014-online.pdf) (free PDF)
 - Book: [Neural Networks for Pattern Recognition](http://www.amazon.com/Networks-Pattern-Recognition-Advanced-Econometrics/dp/0198538642) by Christopher Bishop
 - Book: [Guide to Neural Computing Applications](http://www.amazon.com/Neural-Computing-Applications-Hodder-Publication/dp/0340705892) by Lionel Tarassenko
+- Booklet: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) free online book
 - [Deep Learning Google Plus Community](https://plus.google.com/communities/112866381580457264725)
 - [Get off the deep learning bandwagon and get some perspective](http://www.pyimagesearch.com/2014/06/09/get-deep-learning-bandwagon-get-perspective/) Opposing view
 - [A Neural Algorithm of Artistic Style](http://arxiv.org/pdf/1508.06576v1.pdf) computers imitating artists
@@ -93,8 +93,8 @@ materials/2008/BioC2008/labs/ml/ML1.pdf) academic paper by Kristin Bennett & Col
 
 
 ### Predicting Student Reponses
-- [Short presentation](https://docs.google.com/presentation/d/172cutNYJHbmW8utva5OLi-Cpac043bFlls0K96V45HE)
-- [How Well Can You Predict Student Reponses?](http://tech.knewton.com/blog/2015/01/well-can-predict-student-responses/) Knewton blog post
+- [Data Science at Knewton](./misc/data_science_at_knewton.pdf) incl section on predicting student responses
+- [How Well Can You Predict Student Reponses?](http://tech.knewton.com/blog/2015/01/well-can-predict-student-responses/) Knewton blog post by Ruben Naeff
 - [On the Limits of Psychometric Testing in Online Education](http://dsp.rice.edu/sites/dsp.rice.edu/files/Paper3.pdf) paper by Ruben Naeff & Zack Nichols, Knewton for [NIPS 2014](https://nips.cc/Conferences/2014/) Workshop [human propelled machine learning](http://dsp.rice.edu/HumanPropelledML_NIPS2014)
 
 
