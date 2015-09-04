@@ -21,7 +21,7 @@ This folder contains all the data sets we will be working with during the course
 - [Lehman baseball dataset](http://seanlahman.com/files/database/lahman-csv_2014-02-14.zip)
 - [Mushroom dataset](http://archive.ics.uci.edu/ml/datasets/Mushroom)
 - [Princeton salaries](http://data.princeton.edu/wws509/datasets/#salary)
-- Several [sklearn datasets](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets) Iris dataset, Boston house prices, Handwritten digits, 20 newsgroups, LFW faces
+- Several [sklearn datasets](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets): Iris dataset, Boston house prices, Handwritten digits, 20 newsgroups, LFW faces
 
 **Sources**
 - [McKinsey report on big data](http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation), May 2011

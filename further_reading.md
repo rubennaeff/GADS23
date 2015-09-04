@@ -116,6 +116,7 @@ An overview of where you could learn more.
 - [Instructional Videos and Labs](https://aws.amazon.com/training/intro_series/)
 - [My $2375 Amazon EC2 Mistake](http://www.devfactor.net/2014/12/30/2375-amazon-mistake/) **never** share your key pairs!
 
+
 ### Scaling ML packages
 - [Keras](https://github.com/fchollet/keras)
 - [Vopal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)

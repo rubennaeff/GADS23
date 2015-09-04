@@ -2,7 +2,7 @@
 
 **Team**
 - [Daniel Demoray](mailto:ddemoray@ga.co), producer
-- [Ruben Naeff](mailto:rubennaeff@gmail.com), instructor
+- [Ruben Naeff](mailto:rubennaeff@gmail.com), instructor ([owner](https://github.com/rubennaeff) repo)
 - [Antoine Grant](mailto:antoinejgrant@gmail.com), expert in residence
 - [egroup](mailto:dat-nyc-23@ga-groups.com) & [Slack channel](https://ganyceveningcourses.slack.com/messages/data-science-23/), [Google Drive folder](https://drive.google.com/drive/folders/0B4Z0Mpa9wB9rfm5PQWhXRUVZRnQzTFY5a1I0d0hsZnZ4MnkxVWV0Q1psbUdBX2RUMVBsZ3M), everyone
 
@@ -187,11 +187,3 @@ _Regression models_
   - [Guest Speaker](./guest_speakers.md): Ethics by Monica Bulger, Researcher at Data & Society
 
 - 23: FINAL PROJECT PRESENTATIONS
-
-<!--
-- EXTRA
-  - Streaming, hashing, sketch, HLL, AB testing
-  - FIELD TRIP
-  - probably lots of material from previous classes
-  - LDA
- -->
