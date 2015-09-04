@@ -84,12 +84,13 @@ An overview of where you could learn more.
 ### Distributed Systems
 - Google's original [MapReduce paper (2004)](http://research.google.com/archive/mapreduce.html)
 - Google's original [Google File System (GFS) paper (2003)](http://research.google.com/archive/gfs.html)
+- [`hadoop` commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/CommandsManual.html) and [`hadoop fs` commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/FileSystemShell.html). See also [`hdfs` commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html). Note that `hadoop fs` is synonym to `hdfs dfs`.
 - [Yahoo! Hadoop Tutorial](https://developer.yahoo.com/hadoop/tutorial/)
 - O'Reilly's [Hadoop: The Definitive Guide](http://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520)
 - [Helpful Design Patterns](http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
 - [Map-Reduce for Machine Learning on Multicore](http://ai.stanford.edu/~ang/papers/nips06-mapreducemulticore.pdf), Stanford University, NIPS 2006 paper
 - [Twitter deck](http://www.slideshare.net/kevinweil/hadoop-pig-and-twitter-nosql-east-2009) on their use of Hadoop & Pig
-- [Implementing map-reduce in python from scratch])(http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/) (just for fun)
+- [Implementing map-reduce in python from scratch](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/) (just for fun)
 
 
 ### Predicting Student Reponses
