@@ -28,19 +28,23 @@ To launch pyspark, type:
 pyspark
 ```
 
-You'll see a bunch of text, ending with:
+You'll see a bunch of text, including:
 
-```sh
-Welcome to
-      ____              __
-     / __/__  ___ _____/ /__
-    _\ \/ _ \/ _ \`/ __/  \'_/
-   /__ / .__/\\_,_/_/ /_/\\_\   version 1.4.1
-      /_/
+    Python 2.6.9 (unknown, Apr  1 2015, 18:16:00)
+    [GCC 4.8.2 20140120 (Red Hat 4.8.2-16)] on linux2
+    Type "help", "copyright", "credits" or "license" for more information.
 
-Using Python version 2.6.9 (unknown, Apr  1 2015 18:16:00)
-SparkContext available as sc, HiveContext available as sqlContext.
-```
+    [...]
+
+    Welcome to
+          ____              __
+         / __/__  ___ _____/ /__
+        _\ \/ _ \/ _ `/ __/  '_/
+       /__ / .__/\_,_/_/ /_/\_\   version 1.4.1
+          /_/
+
+    Using Python version 2.6.9 (unknown, Apr  1 2015 18:16:00)
+    SparkContext available as sc, HiveContext available as sqlContext.
 
 Once we've opened up `pyspark` we have access to the `sc` object which gives access to `SparkContext`.  SparkContext gives us access to functions to interact with the Spark environment, for example loading data from HDFS.  The `sqlContext` gives access to the `HiveContext`.
 
