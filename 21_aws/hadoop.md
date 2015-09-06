@@ -60,7 +60,7 @@ Caveats:
 - All files are append only - no updates or edits.
 - All data is replicated, so if any machine fails no data is lost (but also larger storage overhead)
 
-You might need to initialize hadoop first.  Since we'll be using pyspark, you might want to run `pyspark` first (and terminating it again right after successful launch). See our [spark](./spark.md) section.
+You might need to initialize hadoop first, since you could otherwise run into an error if you type any of the following commands (such as `hadoop fs -ls`).  Since we'll be using pyspark, you might want to run `pyspark` first, only to terminate it again right after launch.  Just type `pyspark` and then `exit()`, and you're good.  (For more on Spark, see our [spark](./spark.md) section.)
 
 Let's move our data from our instance to the hadoop file system, which will distribute it across the nodes.
 

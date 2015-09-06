@@ -268,7 +268,7 @@ Great, you're all set to nail the following exercises!
 All answers are in [spark_solutions.md](./spark_solutions.md#joining).
 
 
-### `flatMap`
+### flatMap
 
 If we want to know how many reviews per category we have, or what the avarage rating per category is, we might want to use a method called `flatMap`.  This method "flattens" the return lists into a single list.  In our example, we would dissect all tags and create a longer list of all tags, and then reduce by tag to get our desired statistic.
 

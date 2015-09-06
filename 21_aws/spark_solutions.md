@@ -89,7 +89,7 @@
 [(u'Irma la Douce (1963)', 3.5860655737704916), (u'Monsieur Hire (1989)', 3.795774647887324), (u'Operation Homecoming: Writing the Wartime Experience (2007)', 3.625)]
 ```
 
-### `flatMap`
+### flatMap
 
 - Compute the average rating per tag. _Hint:_ keep track of both the summed ratings per tag and the count per tag.  Use nested tuples like before.
 
