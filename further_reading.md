@@ -81,16 +81,21 @@ An overview of where you could learn more.
 - [A Neural Algorithm of Artistic Style](http://arxiv.org/pdf/1508.06576v1.pdf) computers imitating artists
 
 
-### Distributed Systems
+### MapReduce
 - Google's original [MapReduce paper (2004)](http://research.google.com/archive/mapreduce.html)
+- [Helpful Design Patterns](http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
+- [Map-Reduce for Machine Learning on Multicore](http://ai.stanford.edu/~ang/papers/nips06-mapreducemulticore.pdf), Stanford University, NIPS 2006 paper
+- [mrjob](https://pythonhosted.org/mrjob/) mapreduce in python
+- [Implementing map-reduce in python from scratch](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/) (just for fun)
+
+
+### Hadoop
 - Google's original [Google File System (GFS) paper (2003)](http://research.google.com/archive/gfs.html)
 - [`hadoop` commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/CommandsManual.html) and [`hadoop fs` commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-common/FileSystemShell.html). See also [`hdfs` commands](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html). Note that `hadoop fs` is synonym to `hdfs dfs`.
 - [Yahoo! Hadoop Tutorial](https://developer.yahoo.com/hadoop/tutorial/)
 - O'Reilly's [Hadoop: The Definitive Guide](http://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520)
-- [Helpful Design Patterns](http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
-- [Map-Reduce for Machine Learning on Multicore](http://ai.stanford.edu/~ang/papers/nips06-mapreducemulticore.pdf), Stanford University, NIPS 2006 paper
 - [Twitter deck](http://www.slideshare.net/kevinweil/hadoop-pig-and-twitter-nosql-east-2009) on their use of Hadoop & Pig
-- [Implementing map-reduce in python from scratch](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/) (just for fun)
+
 
 ### Predicting Student Reponses
 - [Data Science at Knewton](./misc/data_science_at_knewton.pdf) incl section on predicting student responses
@@ -99,7 +104,6 @@ An overview of where you could learn more.
 
 
 ## Tools
-
 
 ### Sklearn
 - [Tutorials](http://scikit-learn.org/stable/tutorial)
@@ -118,6 +122,17 @@ An overview of where you could learn more.
 - [My $2375 Amazon EC2 Mistake](http://www.devfactor.net/2014/12/30/2375-amazon-mistake/) **never** share your key pairs!
 
 
+### Apache Spark
+- [Apache Spark](https://spark.incubator.apache.org/)
+- [Apache Spark on Amazon EMR](http://aws.amazon.com/elasticmapreduce/details/spark/)
+- [Create a Cluster With Spark](https://docs.aws.amazon.com/ElasticMapReduce/latest/ReleaseGuide/emr-spark-launch.html)
+
+
+### putty (windows)
+- [PuTTY Download Page](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+- [Connecting to Your Linux Instance from Windows Using PuTTY](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html?console_help=true).
+
+
 ### Scaling ML packages
 - [Keras](https://github.com/fchollet/keras)
 - [Vopal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki)
@@ -131,5 +146,6 @@ An overview of where you could learn more.
 - [Wordle](http://www.wordle.net/) Making word clouds
 - [Twitter API](https://pypi.python.org/pypi/twitter), [tweepy](http://www.tweepy.org/) and [many other libraries](https://dev.twitter.com/overview/api/twitter-libraries)
 - [Geopy](https://pypi.python.org/pypi/geopy) locate the coordinates of addresses using geocoders
+
 
 
