@@ -103,6 +103,11 @@ An overview of where you could learn more.
 - [On the Limits of Psychometric Testing in Online Education](http://dsp.rice.edu/sites/dsp.rice.edu/files/Paper3.pdf) paper by Ruben Naeff & Zack Nichols, Knewton for [NIPS 2014](https://nips.cc/Conferences/2014/) Workshop [human propelled machine learning](http://dsp.rice.edu/HumanPropelledML_NIPS2014)
 
 
+### Big Data
+- [HBR: Big Data, The Management Revolution](hbr.org/2012/10/big-data-the-management-revolution)
+- [Four V's of Big Data](http://www.ibmbigdatahub.com/infographic/four-vs-big-data)
+
+
 ## Tools
 
 ### Sklearn
@@ -139,6 +144,12 @@ An overview of where you could learn more.
 - [Torch](http://torch.ch/)
 - [Caffe](http://caffe.berkeleyvision.org/)
 - [Theano](http://deeplearning.net/software/theano/)
+
+
+### Deployment
+- [AWS](http://aws.amazon.com/)
+- [Heroku](https://www.heroku.com/): [documentation](https://devcenter.heroku.com/), [pricing](https://www.heroku.com/pricing)
+- [Google App Engine](https://cloud.google.com/appengine/docs): [QuickStart](https://console.developers.google.com/start/appengine?_ga=1.122819723.1239468866.1437719682), [pricing](https://cloud.google.com/appengine/pricing)
 
 
 ### Miscelaneous
