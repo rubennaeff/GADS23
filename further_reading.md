@@ -92,7 +92,6 @@ An overview of where you could learn more.
 - [Twitter deck](http://www.slideshare.net/kevinweil/hadoop-pig-and-twitter-nosql-east-2009) on their use of Hadoop & Pig
 - [Implementing map-reduce in python from scratch](http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/) (just for fun)
 
-
 ### Predicting Student Reponses
 - [Data Science at Knewton](./misc/data_science_at_knewton.pdf) incl section on predicting student responses
 - [How Well Can You Predict Student Reponses?](http://tech.knewton.com/blog/2015/01/well-can-predict-student-responses/) Knewton blog post by Ruben Naeff
@@ -113,7 +112,9 @@ An overview of where you could learn more.
 
 
 ### Amazon Web Services
+- [gadatascience.com on AWS](http://www.gadatascience.com/scaling/aws.html)
 - [Instructional Videos and Labs](https://aws.amazon.com/training/intro_series/)
+- [Create an iPython notebook on AWS Free Tier from scratch](https://gist.github.com/iamatypeofwalrus/5183133)
 - [My $2375 Amazon EC2 Mistake](http://www.devfactor.net/2014/12/30/2375-amazon-mistake/) **never** share your key pairs!
 
 

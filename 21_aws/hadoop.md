@@ -60,6 +60,7 @@ Caveats:
 - All files are append only - no updates or edits.
 - All data is replicated, so if any machine fails no data is lost (but also larger storage overhead)
 
+You might need to initialize hadoop first.  Since we'll be using pyspark, you might want to run `pyspark` first (and terminating it again right after successful launch). See our [spark](./spark.md) section.
 
 Let's move our data from our instance to the hadoop file system, which will distribute it across the nodes.
 
@@ -69,23 +70,31 @@ hadoop fs -put ml-10M100K/ratings.dat ratings.dat
 hadoop fs -put train.tsv train.tsv
 ```
 
-You could alternatively use `-copyFromLocal`
+You could alternatively use `-copyFromLocal`. Also note that `hdfs dfs` is an equivalent command.
 ```sh
+# these commands are all equivalent
+hadoop fs -put train.tsv train.tsv
 hadoop fs -copyFromLocal train.tsv
+hdfs dfs -put train.tsv train.tsv
+hdfs dfs -copyFromLocal train.tsv
 ```
 
 The hadoop commands are very similar to those of unix. Simply use `hadoop fs -<flag>`. Please see the [offical reference](http://hadoop.apache.org/docs/r2.7.0/hadoop-project-dist/hadoop-common/FileSystemShell.html) for a full list of commands.
-
-As we have seen, if we want to copy something from the local filesystem to HDFS, we can use the `copyFromLocal` flag.
-
-```sh
-hadoop fs -copyFromLocal <local_file> <folder_on_hdfs>
-```
 
 To list files, we have something similar to `ls`.
 
 ```sh
 hadoop fs -ls
+```
+
+We see something like
+```sh
+[hadoop@ip-172-31-22-155 ~]$ hadoop fs -ls
+Found 4 items
+drwxr-xr-x   - hadoop hadoop          0 2015-09-06 15:27 .sparkStaging
+-rw-r--r--   1 hadoop hadoop     522197 2015-09-06 15:29 movies.dat
+-rw-r--r--   1 hadoop hadoop  265105635 2015-09-06 15:29 ratings.dat
+-rw-r--r--   1 hadoop hadoop  126500415 2015-09-06 15:30 train.tsv
 ```
 
 To cat files, we type

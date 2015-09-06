@@ -24,7 +24,7 @@ Also see [Further Reading](./further_reading.md) for a more serious overview of 
 
 ### Social
 - [NYC Data Science Meetups](http://www.meetup.com/find/events/?keywords=data+science&radius=5&userFreeform=New+York%2C+NY)
-
+- [NY Times artcile](http://opinionator.blogs.nytimes.com/2015/09/04/for-teens-in-crisis-this-text-could-be-a-lifesaver/) about [crisistextline.org](http://www.crisistextline.org/)
 
 ### Further Watching & Listening
 - [Captain America: Winter Soldier](https://www.youtube.com/watch?v=82RKQPgeYRs) in which the Zola algorithm is deployed in three military helicarriers, combining cutting-edge facial recognition, big data and classification, instantly executing possibly dangerous people.
