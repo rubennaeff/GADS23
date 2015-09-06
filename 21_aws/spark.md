@@ -30,12 +30,6 @@ pyspark
 
 You'll see a bunch of text, including:
 
-    Python 2.6.9 (unknown, Apr  1 2015, 18:16:00)
-    [GCC 4.8.2 20140120 (Red Hat 4.8.2-16)] on linux2
-    Type "help", "copyright", "credits" or "license" for more information.
-
-    [...]
-
     Welcome to
           ____              __
          / __/__  ___ _____/ /__
