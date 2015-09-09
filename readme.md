@@ -27,8 +27,7 @@ Please see [Cloning the repo](./01_intro_to_data_science/setup.md#cloning-the-re
 - [Final Project](./final_project.md)
 - [Guest speakers](./guest_speakers.md)
 - [All datasets](./data/)
-- [Further Reading](./further_reading.md) to continue your studies
-- [Extraneous](./extraneous.md) to make your life more pleasant
+- [Further Reading](./further_reading.md)
 
 
 **I. Data Exploration (Analytics)**
@@ -184,6 +183,6 @@ _Regression models_
   - [Slides](./22_mapreduce/gads23_22_mapreduce.pdf)
   - [Multiprocessing in Python](./22_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
   - [mrjob](./22_mapreduce/mrjob/) _optional_ mapreduce framework in python
-  - [Guest Speaker](./guest_speakers.md): Ethics by Monica Bulger, Researcher at Data & Society
+  - [Guest Speaker](./guest_speakers.md): [Ethics](./further_reading.md) by Monica Bulger, Researcher at Data & Society
 
 - 23: FINAL PROJECT PRESENTATIONS

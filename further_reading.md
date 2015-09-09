@@ -2,8 +2,9 @@
 
 An overview of where you could learn more.
 
-- [Theory](#theory)
-- [Tools](#tools)
+1. [Theory](#theory)
+1. [Tools](#tools)
+1. [Extraneous](#extraneous)
 
 
 ## Theory
@@ -63,7 +64,7 @@ An overview of where you could learn more.
 - [Netflix Recommendations](http://techblog.netflix.com/2012/04/netflix-recommendations-beyond-5-stars.html) blog posts
 
 
-### Neural networks
+### Neural Networks
 - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/week/1) by Andrew Ng (cf. the webpage of his corresponding [Stanford ML course](http://cs229.stanford.edu/)
 - [Coursera: Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 - [deeplearning.net](http://deeplearning.net/) has a lot of resources collected nicely
@@ -158,5 +159,44 @@ An overview of where you could learn more.
 - [Twitter API](https://pypi.python.org/pypi/twitter), [tweepy](http://www.tweepy.org/) and [many other libraries](https://dev.twitter.com/overview/api/twitter-libraries)
 - [Geopy](https://pypi.python.org/pypi/geopy) locate the coordinates of addresses using geocoders
 
+
+## Extraneous
+
+Things we discussed in class, which were not directly applicable, but which will make your live as freshly-minted data scientist more pleasant.
+
+
+### Ethics
+- [Datakind](http://www.datakind.org/) data science in the service of humanity
+- [Data & Society](http://datasociety.net/) ethical issues arising from data-centric technological development
+- [When Algorithms Discriminate](http://www.nytimes.com/2015/07/10/upshot/when-algorithms-discriminate.html) _NY Times_, July 9, 2015
+- [John Oliver interviews Edward Snowden](https://www.youtube.com/watch?v=XEVlyP4_11M), in HBO's _Last Week Tonight_
+- [The Anxieties Of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/)
+- [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
+- [NSA: Domestic Spying Mathematicians Should Speak Out](http://www.slate.com/articles/health_and_science/science/2013/08/nsa_domestic_spying_mathematicians_should_speak_out.html)
+- [The Technology Helping Repressive Regimes Spy](http://www.npr.org/2011/12/14/143639670/the-technology-helping-repressive-regimes-spy)
+- [Cisco And Abuses Human Rights China: Part 1](https://www.eff.org/deeplinks/2011/08/cisco-and-abuses-human-rights-china-part-1)
+- [California Protect Your Drivers License Privacy](https://www.eff.org/deeplinks/2015/09/california-protect-your-drivers-license-privacy)
+
+
+### Interesting divertions
+- [Clustering 86 Single Malts](http://blog.revolutionanalytics.com/2013/12/k-means-clustering-86-single-malt-scotch-whiskies.html) with great [visualization](http://wonkviz.tumblr.com/post/72159021235/whiskey-flavor-profiles)
+
+
+### Bedtime reading
+- [NY Times Bits Blog](http://bits.blogs.nytimes.com/) and its [big data](http://bits.blogs.nytimes.com/category/data/) subsection (also [on Twitter](https://twitter.com/nytimesbits)). For example,
+  - [Companies Move On From Big Data Technology Hadoop](http://bits.blogs.nytimes.com/2015/06/15/companies-are-moving-on-from-big-data-technology-hadoop/) June 15, 2015
+  - [Survey Finds Americans Don’t Trust Government and Companies to Protect Privacy](http://bits.blogs.nytimes.com/2015/05/20/survey-finds-americans-dont-trust-government-and-companies-to-protect-privacy/) May 20, 2015
+  - [Less Noise but More Money in Data Science](http://bits.blogs.nytimes.com/2015/04/28/less-noise-but-more-money-in-data-science/) April 28, 2015
+
+
+### Social
+- [NYC Data Science Meetups](http://www.meetup.com/find/events/?keywords=data+science&radius=5&userFreeform=New+York%2C+NY)
+- [NY Times artcile](http://opinionator.blogs.nytimes.com/2015/09/04/for-teens-in-crisis-this-text-could-be-a-lifesaver/) about [crisistextline.org](http://www.crisistextline.org/)
+
+### Further Watching & Listening
+- [Captain America: Winter Soldier](https://www.youtube.com/watch?v=82RKQPgeYRs) in which the Zola algorithm is deployed in three military helicarriers, combining cutting-edge facial recognition, big data and classification, instantly executing possibly dangerous people.
+- [HBO's Silicon Valley](http://www.hbo.com/silicon-valley) Comedy series about founding a startup
+- [Startup Podcast](http://gimletmedia.com/show/startup/) About founding a podcast startup (SE01) and a dating site (SE02)
+- [Monty Python Flying Circus: Greece vs Germany](https://www.youtube.com/watch?v=ur5fGSBsfq8) random sketch. Why python is called python
 
 
