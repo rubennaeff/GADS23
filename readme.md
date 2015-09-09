@@ -183,6 +183,6 @@ _Regression models_
   - [Slides](./22_mapreduce/gads23_22_mapreduce.pdf)
   - [Multiprocessing in Python](./22_mapreduce/multiprocessing_in_python.ipynb) local parallel computing
   - [mrjob](./22_mapreduce/mrjob/) _optional_ mapreduce framework in python
-  - [Guest Speaker](./guest_speakers.md): [Ethics](./further_reading.md) by Monica Bulger, Researcher at Data & Society
+  - [Guest Speaker](./guest_speakers.md): [Ethics](./further_reading.md#ethics) by Monica Bulger, Researcher at Data & Society
 
 - 23: FINAL PROJECT PRESENTATIONS
