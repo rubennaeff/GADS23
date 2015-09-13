@@ -187,6 +187,8 @@ Things we discussed in class, which were not directly applicable, but which will
   - [Companies Move On From Big Data Technology Hadoop](http://bits.blogs.nytimes.com/2015/06/15/companies-are-moving-on-from-big-data-technology-hadoop/) June 15, 2015
   - [Survey Finds Americans Don’t Trust Government and Companies to Protect Privacy](http://bits.blogs.nytimes.com/2015/05/20/survey-finds-americans-dont-trust-government-and-companies-to-protect-privacy/) May 20, 2015
   - [Less Noise but More Money in Data Science](http://bits.blogs.nytimes.com/2015/04/28/less-noise-but-more-money-in-data-science/) April 28, 2015
+- [Five Thirty Eight](http://fivethirtyeight.com). For example,
+  - [Data Scientists Can Link Your Instagrams To Your Credit Card Purchases](http://fivethirtyeight.com/datalab/data-scientists-can-link-your-instagrams-to-your-credit-card-purchases)
 
 
 ### Social
