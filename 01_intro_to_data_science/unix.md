@@ -52,7 +52,7 @@ Printing an entire file onto the screen may be counterproductive.  `head` and `t
 
 ```sh
 head census_demographics.csv
-head census_demographics.csv -1
+head -1 census_demographics.csv
 tail census_demographics.csv
 wc census_demographics.csv
 wc -l census_demographics.csv
@@ -211,7 +211,7 @@ Let's have a look at the movie reviews from Amazon, which can be found in `data/
 
 In practice, you'll have to deal with very large and ugly datasets. Let's look at NYC's 311 complaints in NYC in `data/311`.
 
-1. How many columns has this file? (Hint: use `grep -o`)
+1. How many columns does this file have? (Hint: use `grep -o`)
 1. Use `tr` to count the number of columns. (Hint: use `tr ',' '\n'` to translate commas into newlines)
 1. Are the two answers the same?
 1. What are the top 5 complaint types?
