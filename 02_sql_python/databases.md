@@ -157,7 +157,7 @@ SELECT City, COUNT(*) as cnt FROM Customers GROUP BY City ORDER BY cnt desc;
 3) What category has the most products?
 
 ```sql
-SELECT CategoryName, COUNT(*) FROM Categories JOIN Products on (Categories.CategoryID = Products.CategoryID) GROUP BY CategoryName;
+SELECT CategoryName, COUNT(*) as cnt FROM Categories JOIN Products on (Categories.CategoryID = Products.CategoryID) GROUP BY CategoryName ORDER BY cnt desc;
 ```
 
 
